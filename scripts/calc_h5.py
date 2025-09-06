@@ -13,7 +13,11 @@ def calcular_h_index(citacoes):
 
 #
 DATA_DIR = '../data/SBPO/'
-arquivos = ['SBPO_2019_FIX_2025_09_05.csv', 'SBPO_2020_FIX_2025_09_05.csv', 'SBPO_2021_FIX_2025_09_05.csv', 'SBPO_2022_FIX_2025_09_05.csv', 'SBPO_2023_FIX_2025_09_05.csv']
+arquivos = ['SBPO_2019_2019_PP1_2025_09.csv', 
+            'SBPO_2020_2020_PP1_2025_09.csv', 
+            'SBPO_2021_2021_PP1_2025_09.csv', 
+            'SBPO_2022_2022_PP1_2025_09.csv', 
+            'SBPO_2023_2023_PP1_2025_09.csv']
 
 # dataframe final agregado para o H5
 dfs = []
