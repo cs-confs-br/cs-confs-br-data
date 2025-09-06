@@ -6,3 +6,6 @@ databases crossref, also with some manual fixes with Google
 Scholar database.
 
 This folder lists each conference by acronyms.
+
+Category and Subcategory can be retrieved from Google Scholar 
+(see GS-categories-2025.txt file).

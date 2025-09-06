@@ -1,0 +1,85 @@
+Category: Engineering & Computer Science
+
+Subcategories:
+Architecture
+Artificial Intelligence
+Automation & Control Theory
+Aviation & Aerospace Engineering
+Bioinformatics & Computational Biology
+Biomedical Technology
+Biotechnology
+Ceramic Engineering
+Civil Engineering
+Combustion & Propulsion
+Computational Linguistics
+Computer Graphics
+Computer Hardware Design
+Computer Networks & Wireless Communication
+Computer Security & Cryptography
+Computer Vision & Pattern Recognition
+Computing Systems
+Data Mining & Analysis
+Databases & Information Systems
+Educational Technology
+Engineering & Computer Science (general)
+Environmental & Geological Engineering
+Evolutionary Computation
+Food Science & Technology
+Fuzzy Systems
+Game Theory and Decision Science
+Human Computer Interaction
+Library & Information Science
+Manufacturing & Machinery
+Materials Engineering
+Medical Informatics
+Metallurgy
+Microelectronics & Electronic Packaging
+Mining & Mineral Resources
+Multimedia
+Nanotechnology
+Ocean & Marine Engineering
+Oil, Petroleum & Natural Gas
+Operations Research
+Plasma & Fusion
+Power Engineering
+Quality & Reliability
+Radar, Positioning & Navigation
+Remote Sensing
+Robotics
+Signal Processing
+Software Systems
+Structural Engineering
+Sustainable Energy
+Technology Law
+Textile Engineering
+Theoretical Computer Science
+Tranportation
+Water Supply & Treatment
+Wood Science & Technology
+
+Category: Physics & Mathematics
+
+Subcategories:
+Acoustics & Sound
+Algebra
+Astronomy & Astrophysics
+Biophysics
+Computational Mathematics
+Condensed Matter Physics & Semiconductors
+Discrete Mathematics
+Electromagnetism
+Fluid Mechanics
+Geometry
+Geophysics
+High Energy & Nuclear Physics
+Mathematical Analysis
+Mathematical Optimization
+Mathematical Physics
+Nonlinear Science
+Optics & Photonics
+Physics & Mathematics (general)
+Plasma & Fusion
+Probability & Statistics with Applications
+Pure & Applied Mathematics
+Spectroscopy & Molecular Physics
+Thermal Sciences

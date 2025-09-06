@@ -27,7 +27,7 @@ ANO_FIM = ANO_REF-1
 # dataframe final agregado para o H5
 dfs = []
 
-print(f"Executando script calc_h5.py")
+print(f"github.com/cs-confs-br/cs-confs-br-data: executando script calc_h5.py")
 print(f"Ano Referencia = {ANO_REF}, Ano Inicio = {ANO_INICIO}, Ano Fim = {ANO_FIM}")
 print("=== H5 por ano ===")
 for arq in arquivos:
