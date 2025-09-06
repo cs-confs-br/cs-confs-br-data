@@ -12,7 +12,7 @@ def calcular_h_index(citacoes):
     return h
 
 #
-DATA_DIR = '../data/SBPO/'
+DATA_DIR = '../data/SBPO/2025_09/'
 arquivos = ['SBPO_2019_2019_PP1_2025_09.csv', 
             'SBPO_2020_2020_PP1_2025_09.csv', 
             'SBPO_2021_2021_PP1_2025_09.csv', 

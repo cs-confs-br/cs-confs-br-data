@@ -5,7 +5,7 @@ Data dumps are organized in CSV format, mostly extracted from public academic da
 
 - database1
 
-Expected file format is `data/EVENT/EVENT_BEGIN_END_X_YYYY_MM.csv`, where: data period is `[BEGIN,END]` in years; date `YYYY_MM` corresponds to the extraction date; and `X#` is some informational data prefix with incremental version `#`.
+Expected file format is `data/EVENT/YYYY_MM/EVENT_BEGIN_END_X_YYYY_MM.csv`, where: data period is `[BEGIN,END]` in years; date `YYYY_MM` corresponds to the extraction date; and `X#` is some informational data prefix with incremental version `#`.
 
 Events are encoded in acronyms to be systematically used.
 
