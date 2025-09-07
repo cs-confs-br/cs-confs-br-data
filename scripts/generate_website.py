@@ -3,13 +3,13 @@ import pandas as pd
 import os
 from calc_h5 import run_h5_script
 
-def format_h5(h5, year, sources):
+def format_h5(year, sources):
     if not sources:
         fonte_str = ""
     else:
         fontes_unicas = list(dict.fromkeys(sources))
         fonte_str = "[" + "+".join(fontes_unicas) + "]"
-    return f"{int(h5)} ({year}) {fonte_str}"
+    return f"({year}) {fonte_str}"
 
 # arquivos
 H5_IGNORE_FILE  = '../h5-gs/h5-gs-ignore.csv'
@@ -19,7 +19,7 @@ OUTPUT_FILE     = '../out/website-2025.csv'
 ANO_REF = 2025
 PACOTE_DADOS  = '2025_09'
 
-print(f"github.com/cs-confs-br/cs-confs-br/data: BEGIN script generate_website.py")
+print(f"github.com/cs-confs-br/cs-confs-br-data: BEGIN script generate_website.py")
 print(f"-------------------------------")
 print(f"H5_IGNORE_FILE = {H5_IGNORE_FILE}")
 print(f"H5_MAIN_FILE = {H5_MAIN_FILE}")
@@ -86,7 +86,8 @@ for _, row in df_main.iterrows():
                     'Topic' : 'General',
                     'Papers(5Y)' : '',
                     'Citations(5Y)' : '',
-                    'h5' : format_h5(h5, 2025, ['GS'])
+                    'h5' : int(h5),
+                    'h5_source' : format_h5(2025, ['GS'])
                 })
                 included_names.add(nome_scholar)
             continue
@@ -103,7 +104,8 @@ for _, row in df_main.iterrows():
             'Topic' : 'General',
             'Papers(5Y)' : '',
             'Citations(5Y)' : '',
-            'h5' : format_h5(h5, 2025, ['GS'])
+            'h5' : int(h5),
+            'h5_source' : format_h5(2025, ['GS'])
         })
         included_names.add(nome_scholar)
         print(f"   -> OK! Found GS h5 = {h5}")
@@ -121,7 +123,8 @@ for _, row in df_main.iterrows():
                 'Topic' : 'General',
                 'Papers(5Y)' : str(num_papers_total),
                 'Citations(5Y)' : str(total_citacoes),
-                'h5' : format_h5(h5_total, 2025, fontes)
+                'h5' : int(h5_total),
+                'h5_source' : format_h5(2025, fontes)
             })
             included_names.add(nome)
             print(f"   -> Calculou h5 = {h5_total}")
@@ -142,7 +145,8 @@ for nome, sigla in manual_includes.items():
             'Topic' : 'General',
             'Papers(5Y)' : '',
             'Citations(5Y)' : '',
-            'h5' : format_h5(h5_total, 2025, ['GS'])
+            'h5' : int(h5_total),
+            'h5_source' : format_h5(2025, ['GS'])
         })
         included_names.add(nome)
 
@@ -152,4 +156,4 @@ df_out.to_csv(OUTPUT_FILE, index=False)
 print(f"-------------------------------")
 print(f"Generated Website CSV: {OUTPUT_FILE}")
 print(f"-------------------------------")
-print(f"github.com/cs-confs-br/cs-confs-br/data: END script generate_website.py")
+print(f"github.com/cs-confs-br/cs-confs-br-data: END script generate_website.py")

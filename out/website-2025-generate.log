@@ -1,4 +1,4 @@
-github.com/cs-confs-br/cs-confs-br/data: BEGIN script generate_website.py
+github.com/cs-confs-br/cs-confs-br-data: BEGIN script generate_website.py
 -------------------------------
 H5_IGNORE_FILE = ../h5-gs/h5-gs-ignore.csv
 H5_MAIN_FILE = ../h5-gs/out-h5-gs-2025-09.csv
@@ -3702,4 +3702,4 @@ Processing: XP -> International Conference on Agile Software Development (Intern
 -------------------------------
 Generated Website CSV: ../out/website-2025.csv
 -------------------------------
-github.com/cs-confs-br/cs-confs-br/data: END script generate_website.py
+github.com/cs-confs-br/cs-confs-br-data: END script generate_website.py
