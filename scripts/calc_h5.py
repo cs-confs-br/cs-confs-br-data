@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import statistics
 
 # função recebe LISTA DE CITAÇÕES, numérica, e retorna h-index
 def calcular_h_index(citacoes):
@@ -10,7 +11,13 @@ def calcular_h_index(citacoes):
             h = i
         else:
             break
-    return h
+    if h > 0:
+        # print("hr_med list = ", citacoes[:h])
+        h5_median = statistics.median(citacoes[:h])
+    else:
+        h5_median = 0
+    
+    return h, h5_median
 
 def carregar_openalex_csv(caminho):
     df_oa = pd.read_csv(caminho)
@@ -33,10 +40,10 @@ def carregar_openalex_csv(caminho):
 
 def carrega_csv(caminho):
     if ".OA." in os.path.basename(caminho):
-        print(f"Detectado OpenAlex: {caminho}")
+        print(f"Processando {caminho}... [CSV OpenAlex]")
         return carregar_openalex_csv(caminho)
     else:
-        print(f"Detectado CSV padrão: {caminho}")
+        print(f"Processando {caminho}... [CSV Padrão]")
         return pd.read_csv(caminho)
 
 #
@@ -49,10 +56,11 @@ arquivos = [
             'SBPO_2022_2022_PPCR_2025_09.csv', 
             'SBPO_2023_2023_PPCR_2025_09.csv',
             'SBPO_2024_2024_PPCR_2025_09.csv',
-            'SBPO_2019_2024_MAGS_2025_09.csv',
+            # 'SBPO_2019_2024_MAGS_2025_09.csv',
+            # 'SBPO_2018_2024_MAGS_2025_09.OA.csv', 
             ]
 
-ANO_REF = 2024
+ANO_REF = 2025
 ANO_INICIO = ANO_REF-5
 ANO_FIM = ANO_REF-1
 
@@ -67,7 +75,6 @@ print("=== H-index por arquivo ===")
 for arq in arquivos:
     caminho = DATA_DIR + arq
     df_temp = carrega_csv(caminho)  
-    print(f"Processando {caminho}...")
 
     agrupados = df_temp.groupby("Title").size().reset_index(name="count")
     removidos = agrupados[agrupados["count"] > 1]
@@ -83,7 +90,7 @@ for arq in arquivos:
         })
         num_count2 = len(df_temp)
         if num_count1 != num_count2:
-            print(f"WARNING: removidos elementos num_count1={num_count1} num_count2={num_count2}")
+            print(f"WARNING: removidos {num_count1-num_count2} elementos num_count1={num_count1} num_count2={num_count2}")
 
     ano_min = +9999999
     ano_max = 0
@@ -100,8 +107,11 @@ for arq in arquivos:
             linhas_filtradas.append(row)
     
     if len(linhas_filtradas) == 0:
-        print(f"H = {0}, Citacoes = {0}, Artigos = {0}, Periodo = [{ano_min}, {ano_max}], Limite = [{ANO_INICIO}, {ANO_FIM}] [ignorado]...")
+        print(f"H = {0}, Hmed = {0}, Citacoes = {0}, Artigos = {0}, Periodo = [{ano_min}, {ano_max}], Limite = [{ANO_INICIO}, {ANO_FIM}] [ignorado]...")
         continue
+    else:
+        # print(f"Entradas = {len(linhas_filtradas)}")
+        pass
     df_ano = pd.DataFrame(linhas_filtradas)
     dfs.append(df_ano) 
 
@@ -113,10 +123,12 @@ for arq in arquivos:
         if v > 0:     
             citacoes.append(v)
             total_citacoes += v
-    
-    h5_ano = calcular_h_index(citacoes)
+    if DEBUG:
+        print(f"max_cite = {max(citacoes)}")
+        print(citacoes)
+    h5_ano, h5_med_ano = calcular_h_index(citacoes)
     num_papers = len(df_ano)
-    print(f"H = {h5_ano}, Citacoes = {total_citacoes}, Artigos = {num_papers}, Periodo = [{ano_min}, {ano_max}], Limite = [{ANO_INICIO}, {ANO_FIM}]")
+    print(f"H = {h5_ano}, Hmed = {h5_med_ano}, Citacoes = {total_citacoes}, Artigos = {num_papers}, Periodo = [{ano_min}, {ano_max}], Limite = [{ANO_INICIO}, {ANO_FIM}]")
 
 
 print("Processando agregado final...")
@@ -126,7 +138,7 @@ df = pd.concat(dfs, ignore_index=True)
 agrupados = df.groupby("Title").size().reset_index(name="count")
 removidos = agrupados[agrupados["count"] > 1]
 if len(removidos) > 0:
-    print(f"WARNING: elementos repetidos! DEBUG={DEBUG}")
+    # print(f"WARNING: elementos repetidos! DEBUG={DEBUG}")
     if DEBUG:
         print(removidos)
     num_count1 = len(df)
@@ -149,9 +161,9 @@ for valor in df["Cites"].fillna(0):
         citacoes.append(v)
         total_citacoes += v
 
-h5_total = calcular_h_index(citacoes)
+h5_total, h5_med_total = calcular_h_index(citacoes)
 num_papers_total = len(df)
 print(f"=== H5 ({ANO_REF}) ===")
-print(f"H5 = {h5_total}, Total Citacoes = {total_citacoes}, Total Artigos = {num_papers_total}")
+print(f"H5 = {h5_total}, H5med = {h5_med_total}, Total Citacoes = {total_citacoes}, Total Artigos = {num_papers_total}")
 
 
