@@ -3,11 +3,19 @@ import pandas as pd
 import os
 from calc_h5 import run_h5_script
 
+def format_h5(h5, year, sources):
+    if not sources:
+        fonte_str = ""
+    else:
+        fontes_unicas = list(dict.fromkeys(sources))
+        fonte_str = "[" + "+".join(fontes_unicas) + "]"
+    return f"{h5} ({year}) {fonte_str}"
+
 # arquivos
 H5_IGNORE_FILE  = '../h5-gs/h5-gs-ignore.csv'
 H5_MAIN_FILE    = '../h5-gs/out-h5-gs-2025-09.csv'
 CONFS_LIST_FILE = '../data/confs-list.csv'
-OUTPUT_FILE     = '../out/website-teste-2025.csv'
+OUTPUT_FILE     = '../out/website-2025.csv'
 ANO_REF = 2025
 PACOTE_DADOS  = '2025_09'
 
@@ -72,9 +80,13 @@ for _, row in df_main.iterrows():
             print(f"   => OK! Incluindo como {nome_scholar} h5 = {h5}")
             for dup in included:
                 final_rows.append({
-                    'sigla': dup['sigla'],  # TODO(igormcoelho): buscar sigla correta do arquivo de inclusões...
-                    'titulo': nome_scholar,
-                    'h5': h5
+                    'Conference' : nome_scholar,
+                    'Acronym' :  dup['sigla'],  # TODO(igormcoelho): buscar sigla correta do arquivo de inclusões...
+                    'Year' : 2025,
+                    #'Topic' : '',
+                    'Papers(5Y)' : '',
+                    'Citations(5Y)' : '',
+                    'h5' : format_h5(h5, 2025, ['GS'])
                 })
                 included_names.add(nome_scholar)
             continue
@@ -85,9 +97,13 @@ for _, row in df_main.iterrows():
     # se tiver h5 válido
     if pd.notna(h5):
         final_rows.append({
-            'sigla': sigla,
-            'titulo': nome_scholar,
-            'h5': h5
+            'Conference' : nome_scholar,
+            'Acronym' :  sigla,
+            'Year' : 2025,
+            #'Topic' : '',
+            'Papers(5Y)' : '',
+            'Citations(5Y)' : '',
+            'h5' : format_h5(h5, 2025, ['GS'])
         })
         included_names.add(nome_scholar)
         print(f"   -> OK! Found GS h5 = {h5}")
@@ -95,13 +111,17 @@ for _, row in df_main.iterrows():
         # se estiver na lista de inclusão, tenta calcular via calc_h5
         if nome in manual_includes:
             print(f"   => INFO: CALCULATING h5 for {nome} using calc_h5.py...")
-            h5_total, h5_med_total, _, _, _ = run_h5_script(ANO_REF, sigla, PACOTE_DADOS)
+            h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(ANO_REF, sigla, PACOTE_DADOS)
             #print("IGNORANDO SCRIPT POR AGORA!")
             #h5_total = -1
             final_rows.append({
-                'sigla': sigla,
-                'titulo': nome,
-                'h5': h5_total
+                'Conference' : nome,
+                'Acronym' :  sigla,
+                'Year' : 2025,
+                #'Topic' : '',
+                'Papers(5Y)' : str(num_papers_total),
+                'Citations(5Y)' : str(total_citacoes),
+                'h5' : format_h5(h5_total, 2025, fontes)
             })
             included_names.add(nome)
             print(f"   -> Calculou h5 = {h5_total}")
@@ -116,9 +136,13 @@ for nome, sigla in manual_includes.items():
         h5_total = -1
         #h5_total, h5_med_total, _, _, _ = run_h5_script(ANO_REF, sigla, PACOTE_DADOS)
         final_rows.append({
-            'sigla': sigla,
-            'titulo': nome,
-            'h5': h5_total
+            'Conference' : nome,
+            'Acronym' :  sigla,
+            'Year' : 2025,
+            #'Topic' : '',
+            'Papers(5Y)' : '',
+            'Citations(5Y)' : '',
+            'h5' : format_h5(h5_total, 2025, ['GS'])
         })
         included_names.add(nome)
 
