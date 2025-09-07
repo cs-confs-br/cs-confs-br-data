@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 # função recebe LISTA DE CITAÇÕES, numérica, e retorna h-index
 def calcular_h_index(citacoes):
@@ -11,10 +12,39 @@ def calcular_h_index(citacoes):
             break
     return h
 
+def carregar_openalex_csv(caminho):
+    df_oa = pd.read_csv(caminho)
+
+    # monta dataframe compatível com os outros
+    df_conv = pd.DataFrame({
+        "Title": df_oa["title"].fillna(df_oa["display_name"]),
+        "Cites": df_oa["cited_by_count"].fillna(0).astype(int),
+        "Authors": df_oa["authorships.author.display_name"].fillna(df_oa["authorships.raw_author_name"]).astype(str),
+        "Year": df_oa["publication_year"].fillna(0).astype(int),
+        "Source": df_oa["primary_location.source.display_name"].fillna(""),
+        "Publisher": df_oa.get("primary_location.source.host_organization_name", pd.Series([""]*len(df_oa))),
+        "DOI": df_oa["doi"].fillna(df_oa["ids.doi"])
+    })
+
+    # normaliza: separa autores por `|`
+    df_conv["Authors"] = df_conv["Authors"].apply(lambda x: "; ".join(str(x).split("|")))
+
+    return df_conv
+
+def carrega_csv(caminho):
+    if ".OA." in os.path.basename(caminho):
+        print(f"Detectado OpenAlex: {caminho}")
+        return carregar_openalex_csv(caminho)
+    else:
+        print(f"Detectado CSV padrão: {caminho}")
+        return pd.read_csv(caminho)
+
 #
 DATA_DIR = '../data/SBPO/2025_09/'
-arquivos = ['SBPO_2019_2019_PPCR0_2025_09.csv', 
-            'SBPO_2020_2020_PPCR0_2025_09.csv', 
+arquivos = [
+            'SBPO_2018_2024_OA_2025_09.OA.csv', 
+            'SBPO_2019_2019_PPCR_2025_09.csv', 
+            'SBPO_2020_2020_PPCR_2025_09.csv', 
             'SBPO_2021_2021_PPCR_2025_09.csv', 
             'SBPO_2022_2022_PPCR_2025_09.csv', 
             'SBPO_2023_2023_PPCR_2025_09.csv',
@@ -26,6 +56,8 @@ ANO_REF = 2024
 ANO_INICIO = ANO_REF-5
 ANO_FIM = ANO_REF-1
 
+DEBUG=False
+
 # dataframe final agregado para o H5
 dfs = []
 
@@ -34,7 +66,7 @@ print(f"Ano Referencia = {ANO_REF}, Ano Inicio = {ANO_INICIO}, Ano Fim = {ANO_FI
 print("=== H-index por arquivo ===")
 for arq in arquivos:
     caminho = DATA_DIR + arq
-    df_temp = pd.read_csv(caminho)  
+    df_temp = carrega_csv(caminho)  
     print(f"Processando {caminho}...")
 
     agrupados = df_temp.groupby("Title").size().reset_index(name="count")
@@ -94,8 +126,9 @@ df = pd.concat(dfs, ignore_index=True)
 agrupados = df.groupby("Title").size().reset_index(name="count")
 removidos = agrupados[agrupados["count"] > 1]
 if len(removidos) > 0:
-    print("WARNING: elementos repetidos!")
-    print(removidos)
+    print(f"WARNING: elementos repetidos! DEBUG={DEBUG}")
+    if DEBUG:
+        print(removidos)
     num_count1 = len(df)
     df = df.groupby("Title", as_index=False).agg({
         "Cites": "max",
@@ -104,7 +137,7 @@ if len(removidos) > 0:
     })
     num_count2 = len(df)
     if num_count1 != num_count2:
-        print(f"WARNING: removidos elementos num_count1={num_count1} num_count2={num_count2}")
+        print(f"WARNING: removidos {num_count1-num_count2} elementos num_count1={num_count1} num_count2={num_count2}")
 
 # TODO(igormcoelho): fazer uma função pra isso
 total_citacoes = 0
