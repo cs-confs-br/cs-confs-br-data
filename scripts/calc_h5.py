@@ -19,6 +19,21 @@ def calcular_h_index(citacoes):
     
     return h, h5_median
 
+def carregar_csv_padrao(caminho):
+    df = pd.read_csv(caminho)
+
+    df_conv = pd.DataFrame({
+        "Title": df["Title"].fillna(""),
+        "Cites": df["Cites"].fillna(0).astype(int),
+        "Authors": df["Authors"].fillna("").astype(str),
+        "Year": df["Year"].fillna(0).astype(int),
+        "Source": df.get("Source", pd.Series([""]*len(df))),
+        "Publisher": df.get("Publisher", pd.Series([""]*len(df))),
+        "DOI": df.get("DOI", pd.Series([""]*len(df)))
+    })
+
+    return df_conv
+
 def carregar_openalex_csv(caminho):
     df_oa = pd.read_csv(caminho)
 
@@ -44,9 +59,10 @@ def carrega_csv(caminho):
         return carregar_openalex_csv(caminho)
     else:
         print(f"Processando {caminho}... [CSV Padrão]")
-        return pd.read_csv(caminho)
+        return carregar_csv_padrao(caminho)
 
 #
+'''
 DATA_DIR = '../data/SBPO/2025_09/'
 arquivos = [
             'SBPO_2018_2024_OA_2025_09.OA.csv', 
@@ -59,6 +75,21 @@ arquivos = [
             # 'SBPO_2019_2024_MAGS_2025_09.csv',
             # 'SBPO_2018_2024_MAGS_2025_09.OA.csv', 
             ]
+'''
+
+DATA_DIR = '../data/SBCAS/2025_09/'
+arquivos = [
+            'SBCAS_2018_2024_PPGS_2025_09.csv', 
+           ]
+
+
+'''
+DATA_DIR = '../data/BRACIS/2025_09/'
+arquivos = [
+            'BRACIS_2018_2024_PPGS_2025_09.csv', 
+           ]
+'''
+
 
 ANO_REF = 2025
 ANO_INICIO = ANO_REF-5
@@ -74,7 +105,13 @@ print(f"Ano Referencia = {ANO_REF}, Ano Inicio = {ANO_INICIO}, Ano Fim = {ANO_FI
 print("=== H-index por arquivo ===")
 for arq in arquivos:
     caminho = DATA_DIR + arq
-    df_temp = carrega_csv(caminho)  
+    df_temp = carrega_csv(caminho)
+
+    if DEBUG:
+        print(df_temp.head(10))
+
+    # ignorando campos sem Year... colocando ANO_INICIO - 1
+    df_temp["Year"] = pd.to_numeric(df_temp["Year"], errors="coerce").fillna(ANO_INICIO-1).astype(int)
 
     agrupados = df_temp.groupby("Title").size().reset_index(name="count")
     removidos = agrupados[agrupados["count"] > 1]
