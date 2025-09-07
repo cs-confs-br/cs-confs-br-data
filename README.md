@@ -1,5 +1,5 @@
 # cs-confs-br-data
-Raw data for cs-confs-br website
+Raw data for cs-confs-br website: [CS-Confs-BR - Brazilian Computer Science Conference Metrics](https://cs-confs-br.github.io/)
 
 Data dumps are organized in CSV format, mostly extracted from public academic databases like:
 
