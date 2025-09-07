@@ -85,7 +85,7 @@ def detectar_fonte(arq):
     return fontes
 
 def run_h5_script(ANO_REF, SIGLA, PACOTE):
-    print(f"github.com/cs-confs-br/cs-confs-br-data: executando script calc_h5.py")
+    print(f"calc_h5.py => BEGIN run_h5_script({ANO_REF},{SIGLA},{PACOTE})")
     ANO_INICIO = ANO_REF-5
     ANO_FIM = ANO_REF-1
     print(f"Ano Referencia = {ANO_REF}, Ano Inicio = {ANO_INICIO}, Ano Fim = {ANO_FIM}")
@@ -211,10 +211,12 @@ def run_h5_script(ANO_REF, SIGLA, PACOTE):
     num_papers_total = len(df)
     print(f"=== H5 ({ANO_REF}) ===")
     print(f"H5 = {h5_total}, H5med = {h5_med_total}, Total Citacoes = {total_citacoes}, Total Artigos = {num_papers_total}")
+    print(f"calc_h5.py => END run_h5_script({ANO_REF},{SIGLA},{PACOTE})")
     return h5_total, h5_med_total, total_citacoes, num_papers_total, fontes
 
+if __name__ == '__main__':
+    print(f"github.com/cs-confs-br/cs-confs-br-data: executando script calc_h5.py")
+    h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(2025, 'CNMAC', '2025_09')
 
-h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(2025, 'SBPO', '2025_09')
-
-print(h5_total)
-print(fontes)
+    print(h5_total)
+    print(fontes)
