@@ -9,7 +9,7 @@ def format_h5(h5, year, sources):
     else:
         fontes_unicas = list(dict.fromkeys(sources))
         fonte_str = "[" + "+".join(fontes_unicas) + "]"
-    return f"{h5} ({year}) {fonte_str}"
+    return f"{int(h5)} ({year}) {fonte_str}"
 
 # arquivos
 H5_IGNORE_FILE  = '../h5-gs/h5-gs-ignore.csv'
