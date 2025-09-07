@@ -3065,14 +3065,34 @@ Processing: SBPO -> Simpósio Brasileiro de Pesquisa Operacional (Simpósio Bras
 calc_h5.py => BEGIN run_h5_script(2025,SBPO,2025_09)
 Ano Referencia = 2025, Ano Inicio = 2020, Ano Fim = 2024
 Arquivos encontrados:
+ - ../data/SBPO/2025_09/SBPO_2019_2019_PPCR_2025_09.csv 	fontes:  ['CR']
+ - ../data/SBPO/2025_09/SBPO_2022_2022_PPCR_2025_09.csv 	fontes:  ['CR']
+ - ../data/SBPO/2025_09/SBPO_2020_2020_PPCR_2025_09.csv 	fontes:  ['CR']
  - ../data/SBPO/2025_09/SBPO_2018_2024_OA_2025_09.OA.csv 	fontes:  ['OA']
-Fontes:  ['OA']
+ - ../data/SBPO/2025_09/SBPO_2024_2024_PPCR_2025_09.csv 	fontes:  ['CR']
+ - ../data/SBPO/2025_09/SBPO_2023_2023_PPCR_2025_09.csv 	fontes:  ['CR']
+ - ../data/SBPO/2025_09/SBPO_2021_2021_PPCR_2025_09.csv 	fontes:  ['CR']
+Fontes:  ['OA', 'CR']
 === H-index por arquivo ===
+Processando ../data/SBPO/2025_09/SBPO_2019_2019_PPCR_2025_09.csv... [CSV Padrão]
+H = 0, Hmed = 0, Citacoes = 0, Artigos = 0, Periodo = [2019, 2019], Limite = [2020, 2024] [ignorado]...
+Processando ../data/SBPO/2025_09/SBPO_2022_2022_PPCR_2025_09.csv... [CSV Padrão]
+H = 1, Hmed = 1, Citacoes = 2, Artigos = 287, Periodo = [2022, 2022], Limite = [2020, 2024]
+Processando ../data/SBPO/2025_09/SBPO_2020_2020_PPCR_2025_09.csv... [CSV Padrão]
+H = 1, Hmed = 1, Citacoes = 11, Artigos = 391, Periodo = [2020, 2020], Limite = [2020, 2024]
 Processando ../data/SBPO/2025_09/SBPO_2018_2024_OA_2025_09.OA.csv... [CSV OpenAlex]
 H = 2, Hmed = 2.0, Citacoes = 38, Artigos = 34, Periodo = [2018, 2024], Limite = [2020, 2024]
+Processando ../data/SBPO/2025_09/SBPO_2024_2024_PPCR_2025_09.csv... [CSV Padrão]
+WARNING: removidos 1 elementos num_count1=401 num_count2=400
+H = 1, Hmed = 1, Citacoes = 2, Artigos = 400, Periodo = [2024, 2024], Limite = [2020, 2024]
+Processando ../data/SBPO/2025_09/SBPO_2023_2023_PPCR_2025_09.csv... [CSV Padrão]
+H = 2, Hmed = 2.0, Citacoes = 8, Artigos = 316, Periodo = [2023, 2023], Limite = [2020, 2024]
+Processando ../data/SBPO/2025_09/SBPO_2021_2021_PPCR_2025_09.csv... [CSV Padrão]
+H = 1, Hmed = 1, Citacoes = 1, Artigos = 233, Periodo = [2021, 2021], Limite = [2020, 2024]
 Processando agregado final...
+WARNING: removidos 40 elementos num_count1=1661 num_count2=1621
 === H5 (2025) ===
-H5 = 2, H5med = 2.0, Total Citacoes = 38, Total Artigos = 34
+H5 = 2, H5med = 2.0, Total Citacoes = 44, Total Artigos = 1621
 calc_h5.py => END run_h5_script(2025,SBPO,2025_09)
    -> Calculou h5 = 2
 Processing: SBQS -> Simpósio Brasileiro de Qualidade de Software (Simpósio Brasileiro de Qualidade de Software) ...
