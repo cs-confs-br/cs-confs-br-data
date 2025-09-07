@@ -11,6 +11,17 @@ OUTPUT_FILE     = '../out/website-teste-2025.csv'
 ANO_REF = 2025
 PACOTE_DADOS  = '2025_09'
 
+print(f"github.com/cs-confs-br/cs-confs-br/data: BEGIN script generate_website.py")
+print(f"-------------------------------")
+print(f"H5_IGNORE_FILE = {H5_IGNORE_FILE}")
+print(f"H5_MAIN_FILE = {H5_MAIN_FILE}")
+print(f"CONFS_LIST_FILE = {CONFS_LIST_FILE}")
+print(f"OUTPUT_FILE = {OUTPUT_FILE}")
+print(f"ANO_REF = {ANO_REF}")
+print(f"PACOTE_DADOS = {PACOTE_DADOS}")
+print(f"-------------------------------")
+
+
 # --- 1. Ler ignorados ---
 df_ignore = pd.read_csv(H5_IGNORE_FILE)
 ignored_names = set(df_ignore['nome'].tolist())
@@ -57,7 +68,7 @@ for _, row in df_main.iterrows():
             if nome_scholar in manual_includes:
                 included.append(dup)
                 # print(f"DUP = {dup}")
-        if included:
+        if included or nome == nome_scholar:
             print(f"   => OK! Incluindo como {nome_scholar} h5 = {h5}")
             for dup in included:
                 final_rows.append({
@@ -114,4 +125,7 @@ for nome, sigla in manual_includes.items():
 # --- 6. Gerar CSV ---
 df_out = pd.DataFrame(final_rows)
 df_out.to_csv(OUTPUT_FILE, index=False)
-print(f"Website CSV gerado: {OUTPUT_FILE}")
+print(f"-------------------------------")
+print(f"Generated Website CSV: {OUTPUT_FILE}")
+print(f"-------------------------------")
+print(f"github.com/cs-confs-br/cs-confs-br/data: END script generate_website.py")
