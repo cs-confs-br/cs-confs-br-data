@@ -61,4 +61,16 @@ We are professors and researchers from computer science field in Brazil, with th
 We do this in our free time because we love it!
 This is all free software, so feel welcome to contribute and participate!
 
-Prof. Igor Machado Coelho, Augusto Mendonça & Filipe Pessoa
+- Prof. Igor Machado Coelho
+   * Adjunct professor at Instituto de Computação, Universidade Federal Fluminense (UFF), Niterói-RJ, Brazil
+
+And my PhD students...
+- Augusto Mendonça & Filipe Pessoa
+
+Disclaimer: the university UFF is involved in this project and does not endorse any information put here, all being our sole individual responsibility.
+
+This project is open and collaborative, so if you find any problem, please Open an Issue.
+
+## License
+
+All scripts and data under MIT License
