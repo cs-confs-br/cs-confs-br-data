@@ -83,7 +83,7 @@ for _, row in df_main.iterrows():
                     'Conference' : nome_scholar,
                     'Acronym' :  dup['sigla'],  # TODO(igormcoelho): buscar sigla correta do arquivo de inclusões...
                     'Year' : 2025,
-                    #'Topic' : '',
+                    'Topic' : 'General',
                     'Papers(5Y)' : '',
                     'Citations(5Y)' : '',
                     'h5' : format_h5(h5, 2025, ['GS'])
@@ -100,7 +100,7 @@ for _, row in df_main.iterrows():
             'Conference' : nome_scholar,
             'Acronym' :  sigla,
             'Year' : 2025,
-            #'Topic' : '',
+            'Topic' : 'General',
             'Papers(5Y)' : '',
             'Citations(5Y)' : '',
             'h5' : format_h5(h5, 2025, ['GS'])
@@ -118,7 +118,7 @@ for _, row in df_main.iterrows():
                 'Conference' : nome,
                 'Acronym' :  sigla,
                 'Year' : 2025,
-                #'Topic' : '',
+                'Topic' : 'General',
                 'Papers(5Y)' : str(num_papers_total),
                 'Citations(5Y)' : str(total_citacoes),
                 'h5' : format_h5(h5_total, 2025, fontes)
@@ -139,7 +139,7 @@ for nome, sigla in manual_includes.items():
             'Conference' : nome,
             'Acronym' :  sigla,
             'Year' : 2025,
-            #'Topic' : '',
+            'Topic' : 'General',
             'Papers(5Y)' : '',
             'Citations(5Y)' : '',
             'h5' : format_h5(h5_total, 2025, ['GS'])
