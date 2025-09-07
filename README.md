@@ -67,7 +67,9 @@ This is all free software, so feel welcome to contribute and participate!
 And my PhD students...
 - Augusto Mendonça & Filipe Pessoa
 
-Disclaimer: the university UFF is involved in this project and does not endorse any information put here, all being our sole individual responsibility.
+Disclaimer: the university UFF is NOT involved in this project and does not endorse any information put here, all being our sole individual responsibility.
+
+#### How to collaborate?
 
 This project is open and collaborative, so if you find any problem, please Open an Issue.
 
