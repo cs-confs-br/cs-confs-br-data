@@ -216,7 +216,5 @@ def run_h5_script(ANO_REF, SIGLA, PACOTE):
 
 if __name__ == '__main__':
     print(f"github.com/cs-confs-br/cs-confs-br-data: executando script calc_h5.py")
-    h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(2025, 'CNMAC', '2025_09')
-
-    print(h5_total)
-    print(fontes)
+    h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(2025, 'SBCAS', '2025_09')
+    print("Fontes utilizadas:", fontes)
