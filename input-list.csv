@@ -1,7 +1,7 @@
 Sigla,Nome do evento,Siglas Alternativas,Nomes Alternativos,Sociedade,Avaliação SBC,Anais,Anais Link,GS Link,DBLP Link
 Programming,"International Conference on the Art, Science, and Engineering of Programming",,,,,,,,
 3DOR,Eurographics Workshop on 3D Object Retrieval,,,,,,,,
-3DUI,IEEE Symposium on 3D User Interfaces,,,,,,,,
+3DUI,IEEE Symposium on 3D User Interfaces,VR,IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR),IEEE,,,,,https://dblp.org/db/conf/vr/index.html | https://dblp.org/db/conf/3dui/index.html
 3DV,International Conference on 3D Vision,,,,,,,,
 3ICT,"International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies",,,,,,,,
 5GWF,IEEE 5G World Forum,,,,,,,,
@@ -1252,7 +1252,7 @@ SUGARLOAFPLOP,Latin American Conference on Pattern Languages of Programs,,,,,,,,
 SUI,Symposium on Spatial User Interaction,,,,,,,,
 SUM,International Conference on Scalable Uncertainty Management,,,,,,,,
 SustainIT,Conference on Sustainable Internet and ICT for Sustainability,,,,,,,,
-SVR,Symposium on Virtual and Augmented Reality,,,,,,,,
+SVR,Symposium on Virtual and Augmented Reality,,,,,,,,https://dblp.org/db/conf/svr/index.html
 SWAT,Scandinavian Workshop on Algorithm Theory,,,,,,,,
 SWQD,Conference Software Quality Days,,,,,,,,
 SYSCON,IEEE International Systems Conference,,,,,,,,
