@@ -40,7 +40,10 @@ def normalize_avaliacao(val):
         return "Top10"
     elif v.startswith("top20"):
         return "Top20"
+    elif v.startswith("eventos"):
+        return "Recommended"
     else:
+        print(f"WARNING: normalize_avaliacao val = {val}")
         return "Recommended"
 
 count_ok = 0

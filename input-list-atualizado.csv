@@ -186,7 +186,7 @@ CESI,International Workshop on Conducting Empirical Studies in Industry,,,,,,,,,
 CF,ACM International Conference on Computing Frontiers,,,,,,,,,
 CGI,Computer Graphics International Conference,,nan,,Top20,CE-GRAPI,,nan,Eta5Rw7ikZgJ,cgi
 CGO,International Symposium on Code Generation and Optimization,,nan,,Top10,CE-LP,,nan,ol9-bwToVWEJ,cgo
-CHASE,International Workshop on Cooperative and Human Aspects of Software Engineering,,CHASE - International Workshop on Cooperative and Human Aspects of Software Engineering|nan,,Recommended,CE-ES|CE-SC,,nan,,icse-chase
+CHASE,International Workshop on Cooperative and Human Aspects of Software Engineering,,CHASE - International Workshop on Cooperative and Human Aspects of Software Engineering|nan,,Top20,CE-ES|CE-SC,,nan,,icse-chase
 CHES,Conference on Cryptographic Hardware and Embedded Systems,,Workshop on Cryptographic Hardware and Embedded Systems|nan,,Recommended,CE-SEG,,nan,fxQZq2l4GcMJ.2019   (https://scholar.google.com/scholar?hl=pt-BR,ches
 CHI,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,,ACM Conference on Human Factors in Computing Systems|CHI - ACM Conference on Human Factors in Computing Systems|nan,,Top10,CE-IHC|CE-RV|CE-SC,,nan,6NNnGOq9_mAJ,chi
 CHIIR,Conference on Human Information Interaction and Retrieval,,nan,,Recommended,CE-BD,,nan,,chiir
@@ -194,7 +194,7 @@ CHIPlay,ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play,,ACM A
 CIAC,International Conference on Algorithms and Complexity,,nan,,Recommended,CE-ACO,,nan,3cSHcC5AA7QJ,ciac
 CIARP,Iberoamerican Congress on Pattern Recognition,,nan,,Top20,CE-GRAPI,,nan,-G7ZDWMFougJ,ciarp
 CIBCB,IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology,,IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology|nan,,Top10,CE-BioComp,,nan,ybNREko_Be0J,
-CIbSE,Conferencia Iberoamericana de Software Engineering,,Iberoamerican Conference on Software Engineering,,Recommended,CE-ES,,https://sol.sbc.org.br/index.php/cibse,Jh0oWyA5hnEJ,cibse
+CIbSE,Conferencia Iberoamericana de Software Engineering,,Iberoamerican Conference on Software Engineering,,Top20,CE-ES,,https://sol.sbc.org.br/index.php/cibse,Jh0oWyA5hnEJ,cibse
 CIC,International Conference on Collaboration and Internet Computing,,ACM International Conference on Collaboration and Internet Computing|nan,,Top20,CE-SC,,nan,,
 CICC,IEEE Custom Integrated Circuits Conference,,nan,,Recommended,CE-CCI,,nan,yHnzH6ndKgwJ,cicc
 CICLING,International Conference on Intelligent Text Processing and Computational Linguistics,,nan,,Recommended,CE-PLN,,nan,,cicling
@@ -1067,8 +1067,8 @@ PRDC,Pacific Rim International Symposium on Dependable Computing,,nan,,Top20,CE-
 PredictGIS,International Workshop on Prediction of Human Mobility,,nan,,Recommended,CE-Geoinformatica,,nan,,
 PRIMA,nternational Conference on Principles and Practice of Multi-Agent Systems,,,,,,,,,
 PrivOn,"Workshop on Society, Privacy and the Semantic Web",,,,,,,,,
-PROFES,International Conference on Product-Focused Software Process Improvement,,Product Focused Software Process Improvement (PROFES),,Recommended,CE-ES,,nan,FQXvEi7Xod4J,profes
-PROMISE,International Conference on Predictive Models and Data Analytics in Software Engineering,,International Conference on Predictive Models in Software Engineering|nan,,Recommended,CE-ES,,nan,,promise
+PROFES,International Conference on Product-Focused Software Process Improvement,,Product Focused Software Process Improvement (PROFES),,Top20,CE-ES,,nan,FQXvEi7Xod4J,profes
+PROMISE,International Conference on Predictive Models and Data Analytics in Software Engineering,,International Conference on Predictive Models in Software Engineering|nan,,Top20,CE-ES,,nan,,promise
 PROPOR,International Conference on Computational Processing of the Portuguese Language,,International Conference on the Computational Processing of Portuguese|nan,,Recommended,CE-IA|CE-PLN|CE-SI,,nan,8aBtgrGnL1MJ,propor
 PSB,Pacific Symposium on Biocomputing,,nan,,Top10,CE-BioComp,,nan,Wzseq37BLhIJ,
 PSCC,Power Systems Computation Conference,,,,,,,,,
@@ -1264,7 +1264,7 @@ TAPAS,Workshop on Tools for Automatic Program Analysis,,,,,,,,,
 TAROS,Conference Towards Autonomous Robotics Systems,,Towards Autonomous Robotics Systems|nan,,Recommended,CE-R,,nan,3_Q6Rsb1TloJ,
 TASE,Theoretical Aspects of Software Engineering,,nan,,Top20,CE-MF,,nan,WZLpmXhRGDcJ,
 TCC,Theory of Cryptography,,nan,,Top20,CE-SEG,,nan,JP81m6yJpiEJ,tcc
-TechDebt,International Conference on Technical Debt,,nan,,Recommended,CE-ES,,nan,,icse
+TechDebt,International Conference on Technical Debt,,nan,,Top20,CE-ES,,nan,,icse
 TEEM,Technological Ecosystems for Enhancing Multiculturality,,,,,,,,,
 TEI,"International Conference on Tangible, Embedded and Embodied Interaction",,"ACM International Conference on Tangible, Embedded and Embodied Interactions|International Conference on Tangible, Embedded, and Embodied Interaction|nan",,Top20,CE-IHC|CE-RV|CE-SC,,nan,KRPnqF5qBUgJ,tei
 TextGraphs,Workshop on Graph-based Methods for Natural Language Processing,,,,,,,,,
@@ -1300,7 +1300,7 @@ VCIP,IEEE International Conference on Visual Communications and Image Processing
 VECIMS/CIVEMSA,IEEE International Conference on Virtual Environments Human-Computer Interfaces and Measurement Systems,,nan,,Recommended,CE-IHC,,nan,SE0J8GWI_bcJ,vecims
 VECPAR,International Meeting on High Performance Computing for Computational Science,,,,,,,,,
 VEE,International Conference on Virtual Execution Environments,,nan,,Top20,CE-LP,,nan,,vee
-VEM,"Workshop on Software Visualization, Evolution and Maintenance",,nan,,Recommended,CE-ES,,nan,,vem
+VEM,"Workshop on Software Visualization, Evolution and Maintenance",,nan,,Top20,CE-ES,,nan,,vem
 Videojogos,Conference on Videogame Sciences and Arts,,International Conference on Videogame Sciences and Arts|nan,,Recommended,CE-JOGOS,,nan,,
 VISAPP,International Conference on Computer Vision Theory and Applications,,nan,,Recommended,CE-CAS|CE-GRAPI|CE-RV,,nan,ljGmmUmHfUwJ,visapp
 VISIGRAPP,"Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",,,,,,,,,
@@ -1360,7 +1360,7 @@ WEBIST,International Conference on Web Information Systems and Technologies,,nan
 WEBMEDIA,Brazilian Symposium on Multimedia and the Web,,SBC Simpósio Brasileiro de Sistemas Multimídia e Web|nan,,Recommended,CE-IHC,,https://sol.sbc.org.br/index.php/webmedia,EL-07Zfxn_kJ,webmedia
 WEBSCI,ACM Web Science Conference,,ACM Web Science Conference|Web Science Conference,,Recommended,CE-SI,,nan,bjjY0KRB7JIJ,websci
 WEI,Workshop sobre Educação em Computação,,nan,,Top10,CE-EDUCOMP,,https://sol.sbc.org.br/index.php/wei,-eLSF6KffKgJ,
-WER,Workshop on Requirements Engineering,,Workshop de Engenharia de Requisitos|Workshp de Engenharia de Requisitos,,Recommended,CE-ES,,nan,OEzTeItQGVAJ,wer
+WER,Workshop on Requirements Engineering,,Workshop de Engenharia de Requisitos|Workshp de Engenharia de Requisitos,,Top20,CE-ES,,nan,OEzTeItQGVAJ,wer
 WESB,Workshop de Engenharia de Software Baseada em Busca,,,,,,,,,
 WETICE,IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises,,nan,,Recommended,CE-ACPAD|CE-SC,,nan,kYDZP1q0-MAJ,wetice
 WF-IoT,IEEE World Forum on Internet of Things,,World Forum on Internet of Things|nan,,Top20,CE-ESC|CE-RESD,,nan,gSjQo1cwB88J,wf-iot
