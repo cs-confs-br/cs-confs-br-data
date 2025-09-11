@@ -202,6 +202,7 @@ def altera_sigla_primaria(df_main, ce_files):
                     df_main.loc[nova_sigla] = linha
                     sigla_real = nova_sigla
                     m1 = adiciona_nome_sigla_alternativos(sigla_real, df_main, nome_antigo, sigla_antiga)
+                    print(df_main.loc[nova_sigla])
                     if m1:
                         count_changes += 1
                 pass
