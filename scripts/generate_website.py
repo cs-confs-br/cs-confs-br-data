@@ -14,7 +14,7 @@ def format_h5(year, sources):
 # arquivos
 H5_IGNORE_FILE  = '../h5-gs/h5-gs-ignore.csv'
 H5_MAIN_FILE    = '../h5-gs/out-h5-gs-2025-09.csv'
-CONFS_LIST_FILE = '../data/confs-list.csv'
+CONFS_LIST_FILE = '../data/include-confs-list.csv'
 OUTPUT_FILE     = '../out/website-2025.csv'
 YEAR_REF = 2025
 BATCH  = '2025_09'
