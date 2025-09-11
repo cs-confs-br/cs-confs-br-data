@@ -16,14 +16,18 @@ for col in ["SBC-CE", "Nomes Alternativos", "Avaliação SBC", "GS Link", "DBLP 
 # índice por Sigla para facilitar merge
 df_master.set_index("Sigla", inplace=True)
 
+# índice auxiliar case-insensitive
+master_siglas_insensitive = {k.strip().casefold(): k for k in df_master.index}
+
 def extract_gs_id(url):
     if pd.isna(url) or not isinstance(url, str) or not url.strip():
         return ""
-    m = re.search(r"venue=([^&]+)", url)
+    m = re.search(r"venue=([^&\s]+)", url)
     if not m:
         return ""
     gs = m.group(1).strip()
-    gs = re.sub(r'\.\d{4}$', '', gs)   # remove .2023, .2024, etc.
+    # remove sufixo de ano .2020, .2021 etc (se existir)
+    gs = re.sub(r'\.\d{4}$', '', gs)
     return gs
 
 def extract_dblp_id(url):
@@ -74,9 +78,17 @@ for f in files:
         else:
             dic_ce_rec[ce] = dic_ce_rec.get(ce, 0) + 1
 
-        if sigla in df_master.index:
+        sigla_key = sigla.casefold()
+
+        if sigla_key in master_siglas_insensitive:
+            sigla_real = master_siglas_insensitive[sigla_key]  # pega a versão original
             count_ok += 1
-            ev = df_master.loc[sigla]
+            ev = df_master.loc[sigla_real]
+
+            # atualiza cadastro de origens
+            origens = set(str(ev.get("Origem Cadastro", "")).split("|")) if pd.notna(ev.get("Origem Cadastro", "")) else set()
+            origens.add("SBC CE-2024")
+            df_master.at[sigla_real, "Origem Cadastro"] = "|".join(sorted(x for x in origens if x))
 
             # nomes alternativos (evita repetição)
             nomes_alt = set(str(ev.get("Nomes Alternativos", "")).split("|")) if pd.notna(ev.get("Nomes Alternativos", "")) else set()
@@ -84,24 +96,37 @@ for f in files:
                 nomes_alt.add(nome)
             if alt_nome:
                 nomes_alt.add(alt_nome)
-            df_master.at[sigla, "Nomes Alternativos"] = "|".join(sorted(x for x in nomes_alt if x))
+            df_master.at[sigla_real, "Nomes Alternativos"] = "|".join(sorted(x for x in nomes_alt if x))
 
-            # avaliação
-            if pd.isna(ev.get("Avaliação SBC")) or ev["Avaliação SBC"] == "":
-                df_master.at[sigla, "Avaliação SBC"] = top
+            # avaliação (agregar em vez de sobrescrever)
+            avaliacoes = set(str(ev.get("Avaliação SBC", "")).split("|")) if pd.notna(ev.get("Avaliação SBC", "")) else set()
+            if top:
+                avaliacoes.add(top)
+
+            # aplicar hierarquia: Top10 > Top20 > Recommended
+            if "Top10" in avaliacoes:
+                final_avaliacao = "Top10"
+            elif "Top20" in avaliacoes:
+                final_avaliacao = "Top20"
+            elif "Recommended" in avaliacoes:
+                final_avaliacao = "Recommended"
+            else:
+                final_avaliacao = ""
+
+            df_master.at[sigla_real, "Avaliação SBC"] = final_avaliacao
 
             # SBC-CE
             ces = set(str(ev.get("SBC-CE", "")).split("|")) if pd.notna(ev.get("SBC-CE", "")) else set()
             ces.add(ce)
-            df_master.at[sigla, "SBC-CE"] = "|".join(sorted(x for x in ces if x))
+            df_master.at[sigla_real, "SBC-CE"] = "|".join(sorted(x for x in ces if x))
 
             # GS/DBLP
             if not ev.get("GS Link") and gs_id:
-                df_master.at[sigla, "GS Link"] = gs_id
+                df_master.at[sigla_real, "GS Link"] = gs_id
             if not ev.get("DBLP Link") and dblp_id:
-                df_master.at[sigla, "DBLP Link"] = dblp_id
+                df_master.at[sigla_real, "DBLP Link"] = dblp_id
             if not ev.get("Anais Link") and sol_link:
-                df_master.at[sigla, "Anais Link"] = sol_link
+                df_master.at[sigla_real, "Anais Link"] = sol_link
 
 
         else:
