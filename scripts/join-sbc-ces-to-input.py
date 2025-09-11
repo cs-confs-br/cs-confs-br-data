@@ -3,6 +3,15 @@ import glob
 import os
 import re
 
+
+def get_sigla_principal(sigla, lmaster, lalt):
+    sigla_key = sigla.strip().casefold()
+    if sigla_key in lmaster:
+        return lmaster[sigla_key], True
+    if sigla_key in lalt:
+        return lalt[sigla_key], False
+    return None, None
+
 def extract_gs_id(url):
     if pd.isna(url) or not isinstance(url, str) or not url.strip():
         return ""
@@ -44,18 +53,215 @@ def normalize_avaliacao(val):
         print(f"WARNING: normalize_avaliacao val = {val}")
         return "Recommended"
 
+
+# ============= ETAPA 1 =============
+#     Correcao de Nomes e Siglas
+# ===================================
+
+def adiciona_nome_sigla_alternativos(sigla_real, df_ref, alt_nome, alt_sigla):
+    ev = df_ref.loc[sigla_real]
+    mudou = False
+    #
+    nomes_alt = set(str(ev.get("Nomes Alternativos", "")).split("|")) if pd.notna(ev.get("Nomes Alternativos", "")) else set()
+    tam = len(nomes_alt)
+    if alt_nome:
+        nomes_alt.add(alt_nome)
+        if len(nomes_alt) != tam:
+            mudou = True
+    df_ref.at[sigla_real, "Nomes Alternativos"] = "|".join(sorted(x for x in nomes_alt if x))
+    #
+    siglas_alt = set(str(ev.get("Siglas Alternativas", "")).split("|")) if pd.notna(ev.get("Siglas Alternativas", "")) else set()
+    tam = len(siglas_alt)
+    if alt_sigla:
+        siglas_alt.add(alt_sigla)
+        if len(siglas_alt) != tam:
+            mudou = True
+    df_master.at[sigla_real, "Siglas Alternativas"] = "|".join(sorted(x for x in siglas_alt if x))
+    return mudou
+
+def corrige_nomes(df_main, ce_files, cria_novas = False):
+    # índice auxiliar case-insensitive para siglas principais
+    lmain = {k.strip().casefold(): k for k in df_main.index}
+
+    # índice auxiliar case-insensitive para siglas alternativas
+    lalt  = {}
+    for sigla_principal, row in df_main.iterrows():
+        alt_str = str(row.get("Siglas Alternativas", ""))
+        for alt in alt_str.split("|"):
+            alt = alt.strip()
+            if alt:
+                lalt[alt.casefold()] = sigla_principal
+
+    count_changes = 0
+    count_novas = 0
+    for f in ce_files:
+        #print(f"Processando '{f}'...")
+        ce = os.path.basename(f).replace("SBC-", "").replace("-2024.csv", "")
+        #print(f"CE = {ce}")
+        df_ce = pd.read_csv(f)
+
+        for _, row in df_ce.iterrows():
+            sigla = str(row["SIGLA"]).strip()
+            nome = row["NOME"] if pd.notna(row["NOME"]) else ""
+            alt_nome = row.get("Nome Alternativo", "")
+            alt_nome = alt_nome if pd.notna(alt_nome) else ""
+            novo_nome = row.get("Novo Nome", "")
+            novo_nome = novo_nome if pd.notna(novo_nome) else ""
+            nova_sigla = row.get("Nova Sigla", "")
+            nova_sigla = nova_sigla if pd.notna(nova_sigla) else ""
+            if nova_sigla != "" or novo_nome != "" or alt_nome != "":
+                #print(f"sigla = '{sigla}'  nome = '{nome}' nova_sigla = '{nova_sigla}' novo_nome = '{novo_nome}' alt_nome = '{alt_nome}'")
+
+                sigla_real, is_main = get_sigla_principal(sigla, lmain, lalt)
+                mudou = False
+                if sigla_real:
+                    if novo_nome != "" or nova_sigla != "":
+                        #print("Passo 1")
+                        m1 = adiciona_nome_sigla_alternativos(sigla_real, df_main, novo_nome, nova_sigla)
+                        mudou = mudou or m1
+                    if alt_nome != "":
+                        #print("Passo 2")
+                        m2 = adiciona_nome_sigla_alternativos(sigla_real, df_main, alt_nome, "")
+                        mudou = mudou or m2
+                    if mudou:
+                        print(f"Mudança em sigla = '{sigla}'")
+                        count_changes += 1
+                else:
+                    # nova conferencia!
+                    print(f"NOVA CONFERENCIA!  sigla_real = '{sigla_real}' sigla = '{sigla}' nome = '{nome}'")
+                    count_novas += 1
+                    if cria_novas and sigla != "":
+                        print(f"CRIANDO...")
+                        # monta linha com valores básicos
+                        new_row = {
+                            "Ano Dados": 2025,
+                            "Sigla": sigla,
+                            "Nome do evento": nome,
+                            "Siglas Alternativas": "",
+                            "Nomes Alternativos": "",
+                            "Sociedade": "",
+                            "Avaliação SBC": "",
+                            "SBC-CE": ce,
+                            "Origem Cadastro": "SBC CE-2024",
+                            "Anais": "",
+                            "SOL ID": "",
+                            "GS ID": "",
+                            "DBLP ID": "",
+                        }
+                        df_main.loc[sigla] = new_row
+                        # atualiza índices auxiliares
+                        lmain[sigla.casefold()] = sigla
+                    pass
+    print(f"count_changes = {count_changes}")
+    print(f"count_novas = {count_novas}")
+    return count_changes, count_novas
+
+
+def altera_sigla_primaria(df_main, ce_files):
+    # índice auxiliar case-insensitive para siglas principais
+    lmain = {k.strip().casefold(): k for k in df_main.index}
+
+    # índice auxiliar case-insensitive para siglas alternativas
+    lalt  = {}
+    for sigla_principal, row in df_main.iterrows():
+        alt_str = str(row.get("Siglas Alternativas", ""))
+        for alt in alt_str.split("|"):
+            alt = alt.strip()
+            if alt:
+                lalt[alt.casefold()] = sigla_principal
+
+    count_changes = 0
+    for f in ce_files:
+        print(f"Processando '{f}'...")
+        ce = os.path.basename(f).replace("SBC-", "").replace("-2024.csv", "")
+        print(f"CE = {ce}")
+        df_ce = pd.read_csv(f)
+
+        for _, row in df_ce.iterrows():
+            sigla = str(row["SIGLA"]).strip()
+            nome = row["NOME"] if pd.notna(row["NOME"]) else ""
+            novo_nome = row.get("Novo Nome", "")
+            novo_nome = novo_nome if pd.notna(novo_nome) else ""
+            nova_sigla = row.get("Nova Sigla", "")
+            nova_sigla = nova_sigla if pd.notna(nova_sigla) else ""
+            if nova_sigla != "":
+                #print(f"altera_sigla_primaria sigla = '{sigla}'  nome = '{nome}' => nova_sigla = '{nova_sigla}' novo_nome = '{novo_nome}'")
+
+                sigla_real, is_main = get_sigla_principal(nova_sigla, lmain, lalt)
+                #print(f"consulta: nova_sigla = '{nova_sigla}' => sigla_real = {sigla_real} principal(T) ou alternativo(F) = '{is_main}' ")
+                if sigla_real and is_main:
+                    #print(f"WARNING: sigla nova já existe e é primária! nova_sigla = '{nova_sigla}'")
+                    #print("NADA A FAZER!")
+                    pass
+                elif sigla_real and not is_main:
+                    print(f"IMPORTANTE! Precisa trocar sigla! nova_sigla = '{nova_sigla}' sigla_real = '{sigla_real}'")
+                    sigla_antiga = sigla_real
+                    nome_antigo = nome
+                    linha = df_main.loc[sigla_antiga].copy()
+                    df_main = df_main.drop(sigla_antiga)
+                    df_main.loc[nova_sigla] = linha
+                    sigla_real = nova_sigla
+                    m1 = adiciona_nome_sigla_alternativos(sigla_real, df_main, nome_antigo, sigla_antiga)
+                    if m1:
+                        count_changes += 1
+                pass
+    print(f"count_changes = {count_changes}")
+    return count_changes
+
+
+
 # arquivos CSV de CE
 files = glob.glob("../sbc/CE-2024/SBC-CE-*.csv")
 
 # carregar planilha mestre
 df_master = pd.read_csv("../cs-confs-br-list.csv")
 
-for col in ["SBC-CE", "Nomes Alternativos", "Avaliação SBC", "GS ID", "DBLP ID", "SOL ID"]:
-    if col in df_master.columns:
-        df_master[col] = df_master[col].astype("string").fillna("")
+#for col in ["SBC-CE", "Nomes Alternativos", "Siglas Alternativas", "Avaliação SBC", "GS ID", "DBLP ID", "SOL ID"]:
+#    if col in df_master.columns:
+#        df_master[col] = df_master[col].astype("string").fillna("")
 
 # índice por Sigla para facilitar merge
 df_master.set_index("Sigla", inplace=True)
+
+
+print("ROUND 1")
+r1_c1, r1_c2 = corrige_nomes(df_master, files, False)
+print(f"mudanças = {r1_c1}  novas = {r1_c2} (SEM CRIAR NOVAS)")
+#
+print("ROUND 2")
+r2_c1,r2_c2 = corrige_nomes(df_master, files, True)
+print(f"mudanças = {r2_c1}  novas = {r2_c2} (CRIANDO NOVAS)")
+#
+print("ROUND 3")
+r3_c1,r3_c2 = corrige_nomes(df_master, files, False)
+print(f"mudanças = {r3_c1}  novas = {r3_c2} (SEM CRIAR NOVAS)")
+assert(r3_c2 == 0)
+#
+print("ROUND 4")
+r4_c1,r4_c2 = corrige_nomes(df_master, files, False)
+print(f"mudanças = {r4_c1}  novas = {r4_c2} (SEM CRIAR NOVAS) -> Verificação final!")
+assert(r4_c1 == 0)
+assert(r4_c2 == 0)
+#
+print("ROUND 5")
+r5_c1 = altera_sigla_primaria(df_master, files)
+print(f"mudanças = {r5_c1} (ALTERACOES DE NOMES)")
+#
+print("ROUND 6")
+r6_c1,r6_c2 = corrige_nomes(df_master, files, False)
+print(f"mudanças = {r6_c1}  novas = {r6_c2} (SEM CRIAR NOVAS) -> Verificação final FINAL!")
+assert(r6_c1 == 0)
+assert(r6_c2 == 0)
+#
+print("========== RESUMO ETAPA 1 ============")
+print(f"mudanças = {r1_c1}  novas = {r1_c2} (SEM CRIAR NOVAS)")
+print(f"mudanças = {r2_c1}  novas = {r2_c2} (CRIANDO NOVAS)")
+print(f"mudanças = {r3_c1}  novas = {r3_c2} (SEM CRIAR NOVAS)")
+print(f"mudanças = {r4_c1}  novas = {r4_c2} (SEM CRIAR NOVAS) -> Verificação final!")
+print(f"mudanças = {r5_c1} (ALTERACOES DE NOMES)")
+print(f"mudanças = {r6_c1}  novas = {r6_c2} (SEM CRIAR NOVAS) -> Verificação final FINAL!")
+print("======================================")
+
 
 # índice auxiliar case-insensitive para siglas principais
 master_siglas_insensitive = {k.strip().casefold(): k for k in df_master.index}
@@ -68,14 +274,6 @@ for sigla_principal, row in df_master.iterrows():
         alt = alt.strip()
         if alt:
             alt_siglas_insensitive[alt.casefold()] = sigla_principal
-
-def get_sigla_principal(sigla):
-    sigla_key = sigla.strip().casefold()
-    if sigla_key in master_siglas_insensitive:
-        return master_siglas_insensitive[sigla_key]
-    if sigla_key in alt_siglas_insensitive:
-        return alt_siglas_insensitive[sigla_key]
-    return None
 
 count_ok = 0
 count_not_ok = 0
@@ -90,8 +288,13 @@ for f in files:
 
     for _, row in df_ce.iterrows():
         sigla = str(row["SIGLA"]).strip()
-        nome = str(row["NOME"]).strip()
-        alt_nome = str(row.get("Nome Alternativo", "")).strip()
+        nome = row["NOME"] if pd.notna(row["NOME"]) else ""
+        alt_nome = row.get("Nome Alternativo", "")
+        alt_nome = alt_nome if pd.notna(alt_nome) else ""
+        novo_nome = row.get("Novo Nome", "")
+        novo_nome = novo_nome if pd.notna(novo_nome) else ""
+        nova_sigla = row.get("Nova Sigla", "")
+        nova_sigla = nova_sigla if pd.notna(nova_sigla) else ""
         top = str(row["TOP"]).strip() if "TOP" in row else ""
         top = normalize_avaliacao(top)
         gs_id = extract_gs_id(row.get("GOOGLE METRICS LINK", ""))
@@ -108,7 +311,7 @@ for f in files:
 
         #sigla_key = sigla.casefold()
 
-        sigla_real = get_sigla_principal(sigla)
+        sigla_real, is_main = get_sigla_principal(sigla, master_siglas_insensitive, alt_siglas_insensitive)
         if sigla_real:
 
             count_ok += 1
@@ -119,6 +322,10 @@ for f in files:
             origens.add("SBC CE-2024")
             df_master.at[sigla_real, "Origem Cadastro"] = "|".join(sorted(x for x in origens if x))
 
+            adiciona_nome_sigla_alternativos(sigla_real, df_master, nome, sigla)
+            adiciona_nome_sigla_alternativos(sigla_real, df_master, alt_nome, nova_sigla)
+            
+            '''
             # nomes alternativos (evita repetição)
             nomes_alt = set(str(ev.get("Nomes Alternativos", "")).split("|")) if pd.notna(ev.get("Nomes Alternativos", "")) else set()
             if nome != ev["Nome do evento"]:
@@ -126,6 +333,16 @@ for f in files:
             if alt_nome:
                 nomes_alt.add(alt_nome)
             df_master.at[sigla_real, "Nomes Alternativos"] = "|".join(sorted(x for x in nomes_alt if x))
+
+            # siglas alternativas (atualiza incluindo a Nova Sigla)
+            siglas_alt = set(str(ev.get("Siglas Alternativas", "")).split("|")) if pd.notna(ev.get("Siglas Alternativas", "")) else set()
+            if sigla_real != sigla:
+                siglas_alt.add(sigla)
+            nova_sigla = str(row.get("Nova Sigla", "")).strip()
+            if nova_sigla and sigla_real != nova_sigla:
+                siglas_alt.add(nova_sigla)
+            df_master.at[sigla_real, "Siglas Alternativas"] = "|".join(sorted(x for x in siglas_alt if x))
+            '''
 
             # avaliação (agregar em vez de sobrescrever)
             avaliacoes = set(str(ev.get("Avaliação SBC", "")).split("|")) if pd.notna(ev.get("Avaliação SBC", "")) else set()
@@ -175,6 +392,7 @@ for f in files:
                 "DBLP Link": dblp_id
             }
             '''
+            pass
 
 print(f"OK = {count_ok};  NOT OK = {count_not_ok}")
 print(f"top10 = {dic_ce_top10}")
@@ -184,5 +402,7 @@ print(f"rec len = {len(dic_ce_rec)}")
 
 # salvar planilha atualizada
 df_master.reset_index(inplace=True)
-df_master.to_csv("../cs-confs-br-list-updated.csv", index=False)
+# df_master.to_csv("../cs-confs-br-list-updated.csv", index=False)
+df_master.to_csv("../cs-confs-br-list-updated.csv", index=False, na_rep="")
+
 print("Planilha atualizada (cópia)")
