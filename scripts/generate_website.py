@@ -16,8 +16,8 @@ H5_IGNORE_FILE  = '../h5-gs/h5-gs-ignore.csv'
 H5_MAIN_FILE    = '../h5-gs/out-h5-gs-2025-09.csv'
 CONFS_LIST_FILE = '../data/confs-list.csv'
 OUTPUT_FILE     = '../out/website-2025.csv'
-ANO_REF = 2025
-PACOTE_DADOS  = '2025_09'
+YEAR_REF = 2025
+BATCH  = '2025_09'
 
 print(f"github.com/cs-confs-br/cs-confs-br-data: BEGIN script generate_website.py")
 print(f"-------------------------------")
@@ -25,8 +25,8 @@ print(f"H5_IGNORE_FILE = {H5_IGNORE_FILE}")
 print(f"H5_MAIN_FILE = {H5_MAIN_FILE}")
 print(f"CONFS_LIST_FILE = {CONFS_LIST_FILE}")
 print(f"OUTPUT_FILE = {OUTPUT_FILE}")
-print(f"ANO_REF = {ANO_REF}")
-print(f"PACOTE_DADOS = {PACOTE_DADOS}")
+print(f"YEAR_REF = {YEAR_REF}")
+print(f"BATCH = {BATCH}")
 print(f"-------------------------------")
 
 
@@ -113,7 +113,7 @@ for _, row in df_main.iterrows():
         # se estiver na lista de inclusão, tenta calcular via calc_h5
         if nome in manual_includes:
             print(f"   => INFO: CALCULATING h5 for {nome} using calc_h5.py...")
-            h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(ANO_REF, sigla, PACOTE_DADOS)
+            h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(YEAR_REF, sigla, BATCH)
             #print("IGNORANDO SCRIPT POR AGORA!")
             #h5_total = -1
             final_rows.append({
@@ -137,7 +137,7 @@ for nome, sigla in manual_includes.items():
         print(f"Incluindo manualmente {nome} (não estava no arquivo principal)")
         print("IGNORANDO SCRIPT POR AGORA! v2")
         h5_total = -1
-        #h5_total, h5_med_total, _, _, _ = run_h5_script(ANO_REF, sigla, PACOTE_DADOS)
+        #h5_total, h5_med_total, _, _, _ = run_h5_script(YEAR_REF, sigla, BATCH)
         final_rows.append({
             'Conference' : nome,
             'Acronym' :  sigla,

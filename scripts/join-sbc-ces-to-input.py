@@ -7,7 +7,7 @@ import re
 files = glob.glob("../sbc/CE-2024/SBC-CE-*.csv")
 
 # carregar planilha mestre
-df_master = pd.read_csv("../input-list.csv")
+df_master = pd.read_csv("../cs-confs-br-list.csv")
 
 for col in ["SBC-CE", "Nomes Alternativos", "Avaliação SBC", "GS Link", "DBLP Link", "Anais Link"]:
     if col in df_master.columns:
@@ -130,5 +130,5 @@ print(f"rec len = {len(dic_ce_rec)}")
 
 # salvar planilha atualizada
 df_master.reset_index(inplace=True)
-df_master.to_csv("../input-list-atualizado.csv", index=False)
-print("Planilha atualizada em input-list-atualizado.csv")
+df_master.to_csv("../cs-confs-br-list-updated.csv", index=False)
+print("Planilha atualizada (cópia)")

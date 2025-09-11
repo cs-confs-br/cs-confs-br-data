@@ -14,12 +14,18 @@ Events are encoded in acronyms to be systematically used.
 
 Initially, the data/ folder will be ignored, until V0 is properly released.
 
-Workflow is:
+General Workflow is:
 
 1. Extract data and add it in raw format
 2. Perform Manual fixes, whenever possible
    - Check if papers with most citations are correct
 3. Run calculation scripts and update the public csv
+
+Official Workflow:
+
+![workflow cs-confs-br](./docs/workflow-cs-confs-br.drawio.png)
+
+
 
 IMPORTANT: this repo should not store PDF versions of papers, only important metadata for calculation of metrics.
 
