@@ -1,6 +1,10 @@
 # cs-confs-br-data
 Raw data for cs-confs-br website: [CS-Confs-BR - Brazilian Computer Science Conference Metrics](https://cs-confs-br.github.io/)
 
+This project aggregates and calculates metrics for computer science conferences in Brazil and Worldwide.
+
+## Project details
+
 Data dumps are organized in CSV format, mostly extracted from public academic databases like:
 
 - openalex (OA)
@@ -14,12 +18,16 @@ Events are encoded in acronyms to be systematically used.
 
 Initially, the data/ folder will be ignored, until V0 is properly released.
 
+### General Workflow 
+
 General Workflow is:
 
 1. Extract data and add it in raw format
 2. Perform Manual fixes, whenever possible
    - Check if papers with most citations are correct
 3. Run calculation scripts and update the public csv
+
+### Complete Workflow
 
 Official Workflow:
 
