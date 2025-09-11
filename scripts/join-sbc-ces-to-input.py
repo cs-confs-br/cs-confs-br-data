@@ -96,7 +96,7 @@ def corrige_nomes(df_main, ce_files, cria_novas = False):
     count_novas = 0
     for f in ce_files:
         #print(f"Processando '{f}'...")
-        ce = os.path.basename(f).replace("SBC-", "").replace("-2024.csv", "")
+        ce = os.path.basename(f).replace("SBC-", "").replace("-2024.ce.csv", "")
         #print(f"CE = {ce}")
         df_ce = pd.read_csv(f)
 
@@ -173,7 +173,7 @@ def altera_sigla_primaria(df_main, ce_files):
     count_changes = 0
     for f in ce_files:
         print(f"Processando '{f}'...")
-        ce = os.path.basename(f).replace("SBC-", "").replace("-2024.csv", "")
+        ce = os.path.basename(f).replace("SBC-", "").replace("-2024.ce.csv", "")
         print(f"CE = {ce}")
         df_ce = pd.read_csv(f)
 
@@ -211,10 +211,10 @@ def altera_sigla_primaria(df_main, ce_files):
 
 
 # arquivos CSV de CE
-files = glob.glob("../sbc/CE-2024/SBC-CE-*.csv")
+files = glob.glob("../sbc/CE-2024/SBC-CE-*.ce.csv")
 
 # carregar planilha mestre
-df_master = pd.read_csv("../cs-confs-br-list.csv")
+df_master = pd.read_csv("../cs-confs-br-list.site.csv")
 
 #for col in ["SBC-CE", "Nomes Alternativos", "Siglas Alternativas", "Avaliação SBC", "GS ID", "DBLP ID", "SOL ID"]:
 #    if col in df_master.columns:
@@ -403,6 +403,6 @@ print(f"rec len = {len(dic_ce_rec)}")
 # salvar planilha atualizada
 df_master.reset_index(inplace=True)
 # df_master.to_csv("../cs-confs-br-list-updated.csv", index=False)
-df_master.to_csv("../cs-confs-br-list-updated.csv", index=False, na_rep="")
+df_master.to_csv("../cs-confs-br-list-updated.site.csv", index=False, na_rep="")
 
 print("Planilha atualizada (cópia)")
