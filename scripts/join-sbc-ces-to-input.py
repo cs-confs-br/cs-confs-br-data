@@ -3,22 +3,6 @@ import glob
 import os
 import re
 
-# arquivos CSV de CE
-files = glob.glob("../sbc/CE-2024/SBC-CE-*.csv")
-
-# carregar planilha mestre
-df_master = pd.read_csv("../cs-confs-br-list.csv")
-
-for col in ["SBC-CE", "Nomes Alternativos", "Avaliação SBC", "GS ID", "DBLP ID", "SOL ID"]:
-    if col in df_master.columns:
-        df_master[col] = df_master[col].astype("string").fillna("")
-
-# índice por Sigla para facilitar merge
-df_master.set_index("Sigla", inplace=True)
-
-# índice auxiliar case-insensitive
-master_siglas_insensitive = {k.strip().casefold(): k for k in df_master.index}
-
 def extract_gs_id(url):
     if pd.isna(url) or not isinstance(url, str) or not url.strip():
         return ""
@@ -60,6 +44,39 @@ def normalize_avaliacao(val):
         print(f"WARNING: normalize_avaliacao val = {val}")
         return "Recommended"
 
+# arquivos CSV de CE
+files = glob.glob("../sbc/CE-2024/SBC-CE-*.csv")
+
+# carregar planilha mestre
+df_master = pd.read_csv("../cs-confs-br-list.csv")
+
+for col in ["SBC-CE", "Nomes Alternativos", "Avaliação SBC", "GS ID", "DBLP ID", "SOL ID"]:
+    if col in df_master.columns:
+        df_master[col] = df_master[col].astype("string").fillna("")
+
+# índice por Sigla para facilitar merge
+df_master.set_index("Sigla", inplace=True)
+
+# índice auxiliar case-insensitive para siglas principais
+master_siglas_insensitive = {k.strip().casefold(): k for k in df_master.index}
+
+# índice auxiliar case-insensitive para siglas alternativas
+alt_siglas_insensitive = {}
+for sigla_principal, row in df_master.iterrows():
+    alt_str = str(row.get("Siglas Alternativas", ""))
+    for alt in alt_str.split("|"):
+        alt = alt.strip()
+        if alt:
+            alt_siglas_insensitive[alt.casefold()] = sigla_principal
+
+def get_sigla_principal(sigla):
+    sigla_key = sigla.strip().casefold()
+    if sigla_key in master_siglas_insensitive:
+        return master_siglas_insensitive[sigla_key]
+    if sigla_key in alt_siglas_insensitive:
+        return alt_siglas_insensitive[sigla_key]
+    return None
+
 count_ok = 0
 count_not_ok = 0
 dic_ce_top10 = {}
@@ -89,10 +106,11 @@ for f in files:
         else:
             dic_ce_rec[ce] = dic_ce_rec.get(ce, 0) + 1
 
-        sigla_key = sigla.casefold()
+        #sigla_key = sigla.casefold()
 
-        if sigla_key in master_siglas_insensitive:
-            sigla_real = master_siglas_insensitive[sigla_key]  # pega a versão original
+        sigla_real = get_sigla_principal(sigla)
+        if sigla_real:
+
             count_ok += 1
             ev = df_master.loc[sigla_real]
 

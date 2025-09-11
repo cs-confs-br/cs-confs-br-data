@@ -119,7 +119,7 @@ BIGDATASERVICE,2025,IEEE International Conference on Big Data Computing Service 
 BIGDSE,2025,IEEE/ACM International Workshop on Big Data Software Engineering,,,,,,Qualis 2017-2020,,,,
 BigSpatial,2025,ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data,,International Workshop on Analytics for Big Geospatial Data|nan,,Recommended,CE-Geoinformatica,Qualis 2017-2020|SBC CE-2024,,,,bigspatial-ws
 BioCOMP-WC,2025,International Conference on Bioinformatics & Computational Biology,,,,,,Qualis 2017-2020,,,,
-BioRob,2025,IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics,,,,,,Qualis 2017-2020,,,,
+BioRob,2025,IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics,,nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,mll7l7Q4NakJ,
 BIOSENSORS,2025,World Congress on Biosensors,,,,,,Qualis 2017-2020,,,,
 BIS,2025,International Conference on Business Information Systems,,BIS: Business Information Systems,,Recommended,CE-SI,Qualis 2017-2020|SBC CE-2024,,,qAXde7fvX5YJ,bis
 BLACKSEACOM,2025,IEEE International Black Sea Conference on Communications and Networking,,,,,,Qualis 2017-2020,,,,
@@ -129,9 +129,9 @@ BMVC,2025,British Machine Vision Conference,,nan,,Recommended,CE-GRAPI|CE-RV,Qua
 BPM,2025,International Conference on Business Process Management,,nan,,Top10,CE-SI,Qualis 2017-2020|SBC CE-2024,,,0N6unYCR7HoJ,bpm
 BPMS2,2025,Workshop on Social and Human Aspects of Business Process Management,,nan,,Recommended,CE-SI,Qualis 2017-2020|SBC CE-2024,,,,bpm
 BRACIS,2025,Brazilian Conference on Intelligent Systems,,nan,,Top10,CE-IA|CE-IC,Qualis 2017-2020|SBC CE-2024,,bracis,qXwIadFVNCsJ,bracis
-BRAHUR,2025,Brazilian Humanoid Robot Workshop,,,,,,Qualis 2017-2020,,,,
+BRAHUR,2025,Brazilian Humanoid Robot Workshop,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 BRAINS,2025,"Blockchain, Robotics and AI for Networking Security Conference",,,,,,Qualis 2017-2020,,,,
-BRASERO,2025,Brazilian Workshop on Service Robotics,,,,,,Qualis 2017-2020,,,,
+BRASERO,2025,Brazilian Workshop on Service Robotics,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 BRASNAM,2025,Brazilian Workshop on Social Network Analysis and Mining,,Workshop Brasileiro de Análise de Redes Sociais e Mineração|Workshop Brasileiro de Análise de Redes Sociais e Mineração (BraSNAM)|nan,,Top10,CE-BD|CE-PLN|CE-SI|CE-WEBMEDIA,Qualis 2017-2020|SBC CE-2024,,brasnam,uCHdYLLURp0J,
 BRESCI,2025,Brazilian e-Science Workshop,,nan,,Recommended,CE-BD,Qualis 2017-2020|SBC CE-2024,,bresci,,
 BSB,2025,Brazilian Symposium on Bioinformatics,,nan,,Top20,CE-BioComp,Qualis 2017-2020|SBC CE-2024,,,,
@@ -156,7 +156,7 @@ CASES,2025,"International Conference on Compilers, Architecture, and Synthesis f
 CATA,2025,International Conference on Computers and their Applications,,,,,,Qualis 2017-2020,,,,
 CATE,2025,Computers and Advanced Technology in Education,,nan,,Recommended,CE-IE,Qualis 2017-2020|SBC CE-2024,,,,cate
 CAV,2025,International Conference on Computer Aided Verification,,nan,,Top10,CE-MF,Qualis 2017-2020|SBC CE-2024,,,qgBvh59sjMQJ,
-CBA,2025,Congresso Brasileiro de Automática,,nan,,Recommended,CE-RV,Qualis 2017-2020|SBC CE-2024,,,dV-L3bCgyPcJ,
+CBA,2025,Congresso Brasileiro de Automática,,nan,,Recommended,CE-R|CE-RV,Qualis 2017-2020|SBC CE-2024,,,dV-L3bCgyPcJ,
 CBEB,2025,Congresso Brasileiro de Engenharia Biomédica,,nan,,Recommended,CE-CAS|CE-RV,Qualis 2017-2020|SBC CE-2024,,,,
 CBI,2025,IEEE Conference on Business Informatics,,nan,,Top20,CE-SI,Qualis 2017-2020|SBC CE-2024,,,EBKFsSXXhfYJ,cbi
 CBIC,2025,Congresso Brasileiro de Inteligência Computacional,,Brazilian Congress on Computational Intelligence|nan,,Recommended,CE-IA,Qualis 2017-2020|SBC CE-2024,,,,
@@ -292,7 +292,7 @@ CyberSecurity,2025,International Conference on Cyber Security And Protection Of 
 DAC,2025,Design Automation Conference,,ACM/IEEE Design Automation Conference|nan,,Top10,CE-ACPAD|CE-CCI|CE-ESC,Qualis 2017-2020|SBC CE-2024,,,LMgtaHBu8WIJ,dac
 DAFX,2025,International Conference on Digital Audio Effects,,nan,,Top10,CE-CM,Qualis 2017-2020|SBC CE-2024,,,,
 DAMON,2025,International Workshop on Data Management on New Hardware,,nan,,Recommended,CE-BD,Qualis 2017-2020|SBC CE-2024,,,,damon
-DARS,2025,International Symposium on Distributed Autonomous Robotic Systems,,,,,,Qualis 2017-2020,,,,
+DARS,2025,International Symposium on Distributed Autonomous Robotic Systems,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 DASC,2025,"IEEE International Conference on Dependable, Autonomic & Secure Computing",,,,,,Qualis 2017-2020,,,,
 DASFAA,2025,International Conference on Database Systems for Advanced Applications,,nan,,Top20,CE-BD,Qualis 2017-2020|SBC CE-2024,,,,dasfaa
 DASIP,2025,Conference on Design and Architectures for Signal and Image Processing,,,,,,Qualis 2017-2020,,,,
@@ -353,7 +353,7 @@ ECCV,2025,European Conference on Computer Vision,,nan,,Recommended,CE-GRAPI|CE-R
 ECIR,2025,European Conference on Information Retrieval,,nan,,Recommended,CE-BD,Qualis 2017-2020|SBC CE-2024,,,,ecir
 ECIS,2025,European Conference on Information Systems,,nan,,Top10,CE-BD|CE-SI,Qualis 2017-2020|SBC CE-2024,,,dF8xpB0_PnwJ,ecis
 ECML,2025,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,,European Conference on Machine Learning and Knowledge Discovery in Databases|nan,,Top10,CE-BD|CE-IC,Qualis 2017-2020|SBC CE-2024,,,B_DfwWWmEnMJ,ecml
-ECMR,2025,European Conference on Mobile Robots,,,,,,Qualis 2017-2020,,,,
+ECMR,2025,European Conference on Mobile Robots,,nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,E-Dt3HzExLsJ,
 ECMS,2025,European Conference on Modelling and Simulation,,,,,,Qualis 2017-2020,,,,
 ECOOP,2025,European Conference on Object-Oriented Programming,,European Conference on Object-oriented Programming (ECOOP)|nan,,Top10,CE-ES|CE-LP,Qualis 2017-2020|SBC CE-2024,,,QHz4g2YxOYgJ,ecoop
 ECRTS,2025,Euromicro Conference on Real-Time Systems,,nan,,Top10,CE-ESC,Qualis 2017-2020|SBC CE-2024,,,TjHsSEvIdkIJ,ecrts
@@ -459,7 +459,7 @@ FSCD,2025,International Conference on Formal Structures for Computation and Dedu
 FSE,2025,Fast Software Encryption,,nan,,Recommended,CE-SEG,Qualis 2017-2020|SBC CE-2024,,,u0EMblNmhEoJ,fse
 FSE/ESEC,2025,Joint Meeting on European Software Engineering Conference and Foundations of Software Engineering,,ACM SIGSOFT International Symposium on Foundations of Software Engineering,,Top10,CE-ES,Qualis 2017-2020|SBC CE-2024,,,CwfZO4J4a4UJ,esec
 FSEN,2025,International Conference on Fundamentals of Software Engineering,,,,,,Qualis 2017-2020,,,,
-FSR,2025,Conference on Field and Service Robotics,,,,,,Qualis 2017-2020,,,,
+FSR,2025,Conference on Field and Service Robotics,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 FTC,2025,Future Technologies Conference,,,,,,Qualis 2017-2020,,,,
 FUN,2025,International Conference on Fun with Algorithms,,nan,,Recommended,CE-ACO,Qualis 2017-2020|SBC CE-2024,,,,fun
 FUSION,2025,International Conference on Information Fusion,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,eAoE06EVARcJ,
@@ -491,7 +491,7 @@ GROUP,2025,International Conference on Supporting Group Work,,GROUP - Internatio
 GVIZ,2025,Workshop on New Directions in Geovisual Analytics,,nan,,Recommended,CE-Geoinformatica,Qualis 2017-2020|SBC CE-2024,,,,
 GWN,2025,International Global Wordnet Conference,,,,,,Qualis 2017-2020,,,,
 HAIS,2025,International Conference on Hybrid Artificial Intelligence Systems,,,,,,Qualis 2017-2020,,,,
-HAPTICS,2025,IEEE Haptics Symposium,,Conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems|World Haptics Conference (WHC)|nan,,Top10,CE-IHC|CE-RV,Qualis 2017-2020|SBC CE-2024,,,,haptics
+HAPTICS,2025,IEEE Haptics Symposium,,Conference and Symposium on Haptic Interfaces for Virtual Environment and Teleoperator Systems|World Haptics Conference (WHC)|nan,,Top10,CE-IHC|CE-R|CE-RV,Qualis 2017-2020|SBC CE-2024,,,OgfFzjmc8_gJ,haptics
 HASE,2025,IEEE International Symposium on High Assurance Systems Engineering,,IEEE High Assurance Systems Engineering Symposium|nan,,Top20,CE-TF,Qualis 2017-2020|SBC CE-2024,,,EhHHXze7CIMJ,hase
 HCOMP,2025,AAAI Conference on Human Computation and Crowdsourcing,,AAAI Conference on Human Computation & Crowdsourcing|Conference on Human Computation and Crowdsourcing|nan,,Top20,CE-IHC|CE-SC|CE-SI,Qualis 2017-2020|SBC CE-2024,,,,hcomp
 HCSE,2025,International Conference on Human-Centered Software Engineering,,International Working Conference on Human-Centered Software Engineering|nan,,Recommended,CE-IHC,Qualis 2017-2020|SBC CE-2024,,,,hcse
@@ -523,7 +523,7 @@ I2MTC,2025,IEEE International Instrumentation and Measurement Technology Confere
 I3D,2025,ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games,,ACM Symposium on Interactive 3D Graphics and Games|Symposium on Interactive 3D Graphics|Symposium on Interactive 3D Graphics and Games|nan,,Top10,CE-GRAPI|CE-IHC|CE-JOGOS|CE-RV,Qualis 2017-2020|SBC CE-2024,,,,si3d
 IAAI,2025,International Conference of the Italian Association for Artificial Intelligence,,,,,,Qualis 2017-2020,,,,
 IAS,2025,Industry Applications Society Annual Meeting,,nan,,Recommended,CE-SI,Qualis 2017-2020|SBC CE-2024,,,,ias
-IAV,2025,IFAC Symposium on Intelligent Autonomous Vehicles,,,,,,Qualis 2017-2020,,,,
+IAV,2025,IFAC Symposium on Intelligent Autonomous Vehicles,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 IBERAMIA,2025,Ibero-American Conference on Artificial Intelligence,,,,,,Qualis 2017-2020,,,,
 IBERCHIP,2025,Workshop Iberchip,,IBERCHIP Workshop,,Recommended,CE-CCI,Qualis 2017-2020|SBC CE-2024,,,,
 IC2E,2025,IEEE International Conference on Cloud Engineering,,,,,,Qualis 2017-2020,,,,
@@ -537,8 +537,8 @@ ICALP,2025,"International Colloquium on Automata, Languages, and Programming",,n
 ICALT,2025,IEEE International Conference on Advanced Learning Technologies,,nan,,Top10,CE-IE|CE-IHC,Qualis 2017-2020|SBC CE-2024,,,-QH-Ge-vaUsJ,icalt
 ICANN,2025,International Conference on Artificial Neural Networks,,nan,,Top20,CE-IC,Qualis 2017-2020|SBC CE-2024,,,Tt40B1pBgEEJ,icann
 ICAPS,2025,International Conference on Automated Planning and Scheduling,,nan,,Top10,CE-IA,Qualis 2017-2020|SBC CE-2024,,,Mr2FEgodZ4QJ,icaps
-ICAR,2025,International Conference on Advanced Robotics,,nan,,Recommended,CE-RV,Qualis 2017-2020|SBC CE-2024,,,QTCI2sX39qUJ,icar
-ICARA,2025,"International Conference on Automation, Robotics and Applications",,,,,,Qualis 2017-2020,,,,
+ICAR,2025,International Conference on Advanced Robotics,,nan,,Top10,CE-R|CE-RV,Qualis 2017-2020|SBC CE-2024,,,QTCI2sX39qUJ,icar
+ICARA,2025,"International Conference on Automation, Robotics and Applications",,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,Pbr-U05RvUoJ,
 ICARM,2025,International Conference on Advanced Robotics and Mechatronics,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,2ZThoUFv558J,
 ICAROB,2025,International Conference on Artificial Life and Robotics,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 ICARSC,2025,IEEE International Conference on Autonomous Robot Systems and Competitions,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,heT8SiJEaWsJ,
@@ -651,7 +651,7 @@ ICOIN,2025,International Conference on Information Networking,,nan,,Recommended,
 ICOMPWC,2025,International Conference on Internet Computing and Internet of Things,,nan,,Recommended,CE-ESC,Qualis 2017-2020|SBC CE-2024,,,,
 ICONIP,2025,International Conference on Neural Information Processing,,nan,,Recommended,CE-IC,Qualis 2017-2020|SBC CE-2024,,,sz4vWIwy-_cJ,iconip
 ICORES,2025,International Conference on Operations Research and Enterprise Systems,,,,,,Qualis 2017-2020,,,,
-ICORR,2025,IEEE International Conference on Rehabilitation Robotics,,,,,,Qualis 2017-2020,,,,
+ICORR,2025,IEEE International Conference on Rehabilitation Robotics,,nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,w8zcF49hRv8J,
 ICPADS,2025,International Conference on Parallel and Distributed Systems,,IEEE International Conference on Parallel and Distributed Systems|nan,,Recommended,CE-ACPAD|CE-TF,Qualis 2017-2020|SBC CE-2024,,,J2WvLRIhE6UJ,icpads
 ICPC,2025,International Conference on Program Comprehension,,IEEE International Conference on Program Comprehension,,Recommended,CE-ES,Qualis 2017-2020|SBC CE-2024,,,Q7aNVRgyGrYJ,iwpc
 ICPE,2025,International Conference on Performance Engineering,,ACM/SPEC International Conference on Performance Engineering,,Recommended,CE-ES|CE-ESC,Qualis 2017-2020|SBC CE-2024,,,nS824tflG3QJ,wosp
@@ -713,7 +713,7 @@ IEEENANO,2025,International Conference on Nanotechnology,,,,,,Qualis 2017-2020,,
 IEEESCC,2025,IEEE International Conference on Services Computing,,,,,,Qualis 2017-2020,,,,
 IESS,2025,IFIP International Embedded Systems Symposium,,nan,,Recommended,CE-ESC,Qualis 2017-2020|SBC CE-2024,,,,iess
 IESTEC,2025,"International Engineering, Sciences and Technology Conference",,,,,,Qualis 2017-2020,,,,
-IFAC,2025,World Congress of the International Federation of Automatic Control,,nan,,Recommended,CE-ESC,Qualis 2017-2020|SBC CE-2024,,,bIF9l832asoJ,
+IFAC,2025,World Congress of the International Federation of Automatic Control,,IFAC - World Congress of the International Federation of Automatic Control|nan,,Recommended,CE-ESC|CE-R,Qualis 2017-2020|SBC CE-2024,,,pq9AC66DKAMJ,
 IFIPIoT,2025,IFIP International Internet of Things Conference,,,,,,Qualis 2017-2020,,,,
 IFIPISC,2025,IFIP International Information Security Conference,,,,,,Qualis 2017-2020,,,,
 IFM,2025,International Conference on Integrated Formal Methods,,Integrated Formal Methods|nan,,Top10,CE-MF,Qualis 2017-2020|SBC CE-2024,,,Gzge6qp3seEJ,
@@ -773,7 +773,7 @@ IRIS,2025,IEEE International Symposium on Robotics and Intelligent Sensors,,,,,,
 IROS,2025,IEEE/RSJ International Conference on Intelligent Robots and Systems,,IEEE/RJS International Conference on Intelligent Robots and Systems|IEEE/RSJ Interrnational Conference on Intelligent Robots and Systems|IEEE/RSJ Intrernational Conference on Intelligent Robots and Systems|nan,,Top10,CE-GRAPI|CE-IA|CE-IC|CE-R|CE-RV,Qualis 2017-2020|SBC CE-2024,,,QZ31s4XlF8EJ,iros
 ISAAC,2025,International Symposium on Algorithms and Computation,,nan,,Top20,CE-ACO,Qualis 2017-2020|SBC CE-2024,,,REeNFlEptmgJ,isaac
 ISADS,2025,International Symposium on Autonomous Decentralized Systems,,nan,,Recommended,CE-RESD,Qualis 2017-2020|SBC CE-2024,,,,isads
-ISAM,2025,IEEE International Symposium on Assembly and Manufacturing,,,,,,Qualis 2017-2020,,,,
+ISAM,2025,IEEE International Symposium on Assembly and Manufacturing,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 ISAmI,2025,International Symposium on Ambient Intelligence,,,,,,Qualis 2017-2020,,,,
 ISAP,2025,International Conference on Intelligent System Applications to Power Systems,,,,,,Qualis 2017-2020,,,,
 ISAS,2025,International Static Analysis Symposium,,,,,,Qualis 2017-2020,,,,
@@ -792,7 +792,7 @@ ISDA,2025,International Conference on Intelligent Systems Design and Application
 ISEA,2025,International Symposium on Electronic Arts,,International Symposium on Electronic /Emerging Art|nan,,Recommended,CE-IHC,Qualis 2017-2020|SBC CE-2024,,,,
 ISeC,2025,International Conference on Information Security,,,,,,Qualis 2017-2020,,,,
 ISECON,2025,Information Systems Education Conference,,nan,,Recommended,CE-IE,Qualis 2017-2020|SBC CE-2024,,,,
-ISER,2025,International Symposium on Experimental Robotics,,,,,,Qualis 2017-2020,,,,
+ISER,2025,International Symposium on Experimental Robotics,,nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,ke1g66ZJCWoJ,
 ISGT,2025,IEEE PES Innovative Smart Grid Technologies,,nan,,Recommended,CE-RESD,Qualis 2017-2020|SBC CE-2024,,,9nASlar3rTYJ,isgt
 ISGT-Europe,2025,IEEE PES Innovative Smart Grid Technologies Conference Europe,,nan,,Recommended,CE-RESD,Qualis 2017-2020|SBC CE-2024,,,clIpBqTfgOsJ,isgteurope
 ISGT-LA,2025,IEEE PES Innovative Smart Grid Technologies Latin America,,,,,,Qualis 2017-2020,,,,
@@ -817,8 +817,8 @@ ISPASS,2025,IEEE International Symposium on Performance Analysis of Systems and 
 ISPD,2025,ACM International Symposium on Physical Design,,International Symposium on Physical Design|nan,,Top10,CE-CCI,Qualis 2017-2020|SBC CE-2024,,,qcCDTf9GIAMJ,ispd
 ISPDC,2025,International Symposium on Parallel and Distributed Computing,,nan,,Recommended,CE-ACPAD|CE-TF,Qualis 2017-2020|SBC CE-2024,,,BZK2l1JW2UsJ,ispdc
 ISQED,2025,International Symposium on Quality Electronic Design,,nan,,Recommended,CE-CCI,Qualis 2017-2020|SBC CE-2024,,,CAKBHPJLxuMJ,isqed
-ISR,2025,IEEE International Conference on Intelligence and Safety for Robotics,,,,,,Qualis 2017-2020,,,,
-ISRR,2025,International Symposium on Robotics Research,,,,,,Qualis 2017-2020,,,,
+ISR,2025,IEEE International Conference on Intelligence and Safety for Robotics,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,CVpdLFbXIAIJ,
+ISRR,2025,International Symposium on Robotics Research,,nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,eX0qXcAClWoJ,
 ISS,2025,ACM International Conference on Interactive Surfaces and Spaces,,ACM Interactive Surfaces and Spaces|nan,,Top20,CE-RV,Qualis 2017-2020|SBC CE-2024,,,js1p_d4DBXkJ,tabletop
 ISSA,2025,Information Security for South Africa,,nan,,Recommended,CE-SEG,Qualis 2017-2020|SBC CE-2024,,,mjGhRMqAqs8J,issa
 ISSCC,2025,IEEE International Solid-State Circuits Conference,,,,,,Qualis 2017-2020,,,,
@@ -937,7 +937,7 @@ MESA,2025,IEEE/ASME International Conference on Mechatronic and Embedded Systems
 META,2025,International Workshop on Meta-Programming Techniques and Reflection,,,,,,Qualis 2017-2020,,,,
 MetaLearn,2025,Workshop on Meta-Learning,,,,,,Qualis 2017-2020,,,,
 MFCS,2025,International Symposium on Mathematical Foundations of Computer Science,,nan,,Top20,CE-ACO|CE-L,Qualis 2017-2020|SBC CE-2024,,,b7Wt8oz6uqAJ,mfcs
-MFI,2025,IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems,,,,,,Qualis 2017-2020,,,,
+MFI,2025,IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,MbouORldYUUJ,
 MIC,2025,Metaheuristics International Conference,,,,,,Qualis 2017-2020,,,,
 MICAI,2025,Mexican International Conference on Artificial Intelligence,,nan,,Recommended,CE-IA|CE-PLN,Qualis 2017-2020|SBC CE-2024,,,uhZEgJcD4mIJ,micai
 MICRO,2025,IEEE/ACM International Symposium on Microarchitecture,,nan,,Top10,CE-ACPAD,Qualis 2017-2020|SBC CE-2024,,,UpKDzfQ1ak8J,micro
@@ -971,7 +971,7 @@ MODELSWARD,2025,International Conference on Model-Driven Engineering and Softwar
 MODRE,2025,International Model-Driven Requirements Engineering,,nan,,Recommended,CE-ES,Qualis 2017-2020|SBC CE-2024,,,,
 MODULARITY,2025,International Conference on Modularity,,,,,,Qualis 2017-2020,,,,
 MoMM,2025,International Conference on Advances in Mobile Computing & Multimedia,,nan,,Recommended,CE-WEBMEDIA,Qualis 2017-2020|SBC CE-2024,,,PZoAL1XKdJoJ,momm
-MRS,2025,International Symposium on Multi-Robot and Multi-Agent Systems,,,,,,Qualis 2017-2020,,,,
+MRS,2025,International Symposium on Multi-Robot and Multi-Agent Systems,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 MSN,2025,International Conference on Mobile Ad-Hoc and Sensor Networks,,nan,,Recommended,CE-RESD,Qualis 2017-2020|SBC CE-2024,,,neOh05x3OTMJ,msn
 MSR,2025,Working Conference on Mining Software Repositories,,Mining Software Repositories,,Top10,CE-ES,Qualis 2017-2020|SBC CE-2024,,,XpB0TY0OXkoJ,msr
 MSSiS,2025,Workshop deModelagem e Simulação de Sistemas Intensivos em Software,,Workshop de Modelagem e Simulação de Sistemas Intensivos em Software|nan,,Recommended,CE-ES,Qualis 2017-2020|SBC CE-2024,,mssis,,
@@ -981,7 +981,7 @@ MTSR,2025,International Conference on Metadata and Semantics Research,,nan,,Reco
 MULTI,2025,International Workshop on Multi-Level Modeling,,,,,,Qualis 2017-2020,,,,
 MULTITEMP,2025,International Workshop on the Analysis of Multitemporal Remote Sensing Images,,,,,,Qualis 2017-2020,,,,
 MUM,2025,International Conference on Mobile and Ubiquitous Multimedia,,nan,,Recommended,CE-WEBMEDIA,Qualis 2017-2020|SBC CE-2024,,,ZC8PGgykt-EJ,mum
-MVA,2025,IAPR International Conference on Machine Vision Applications,,International Conference on Machine Vision Applications|nan,,Recommended,CE-GRAPI|CE-RV,Qualis 2017-2020|SBC CE-2024,,,jv1gvzv4-LgJ,mva
+MVA,2025,IAPR International Conference on Machine Vision Applications,,International Conference on Machine Vision Applications|nan,,Recommended,CE-GRAPI|CE-R|CE-RV,Qualis 2017-2020|SBC CE-2024,,,5GsHps3NV78J,mva
 MWE,2025,Workshop on Multiword Expressions,,,,,,Qualis 2017-2020,,,,
 MWSCAS,2025,International Midwest Symposium on Circuits and Systems,,IEEE International Midwest Symposium on Circuits and Systems|nan,,Top20,CE-CCI,Qualis 2017-2020|SBC CE-2024,,,IKwP_BZwq3kJ,mwscas
 NAACL,2025,North American Chapter of the Association for Computational Linguistics Annual Meeting,,Conference of the North American Chapter of the ACL|nan,,Top10,CE-IA|CE-PLN,Qualis 2017-2020|SBC CE-2024,,,ORSK3meVbY4J,naacl
@@ -1095,7 +1095,7 @@ RO-MAN,2025,IEEE International Symposium on Robot and Human Interactive Communic
 ROBIO,2025,IEEE International Conference on Robotics and Biomimetics,,nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,bcF8fuNAeawJ,
 ROBOCUP,2025,Robocup International Symposium,,RoboCup - Robocup International Symposium|nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,KMzWyzFUAoQJ,
 RoboSoft,2025,IEEE International Conference on Soft Robotics,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,ozuU4D3JRbUJ,
-ROBOT,2025,Iberian Robotics Conference,,,,,,Qualis 2017-2020,,,,
+ROBOT,2025,Iberian Robotics Conference,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,QJsHI8scVfoJ,
 RoMoCo,2025,International Workshop on Robot Motion and Control,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,a7sB4asTg0EJ,
 ROOTS,2025,Reversing and Offensive-Oriented Trends Symposium,,,,,,Qualis 2017-2020,,,,
 ROSE,2025,IEEE International Symposium on Robotic and Sensors Environments,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
@@ -1120,7 +1120,7 @@ SAST,2025,Brazilian Symposium on Systematic and Automated Software Testing,,nan,
 SAT,2025,International Conference on Theory and Applications of Satisfiability Testing,,nan,,Top20,CE-L,Qualis 2017-2020|SBC CE-2024,,,Ydp6NbVxpcEJ,sat
 SBAC-PAD,2025,International Symposium on Computer Architecture and High Performance Computing,,SBAC-PAD - International Symposium on Computer Architecture and High Performance Computing|nan,,Top10,CE-ACPAD|CE-RV|CE-TF,Qualis 2017-2020|SBC CE-2024,,sbac-pad,xujU2BmpDawJ,sbac-pad
 SBACPADW,2025,International Symposium on Computer Architecture and High Performance Computing Workshop,,,,,,Qualis 2017-2020,,,,
-SBAI,2025,Simpósio Brasileiro de Automação Inteligente,,nan,,Recommended,CE-RV,Qualis 2017-2020|SBC CE-2024,,,poyWVKlO8ggJ,
+SBAI,2025,Simpósio Brasileiro de Automação Inteligente,,nan,,Recommended,CE-R|CE-RV,Qualis 2017-2020|SBC CE-2024,,,poyWVKlO8ggJ,
 SBBD,2025,Simpósio Brasileiro de Banco de Dados,,Brazilian Symposium on Databases|Simpósio Brasileiro de Bancos de Dados|nan,,Top10,CE-BD|CE-Geoinformatica,Qualis 2017-2020|SBC CE-2024,,sbbd,ixetonJUY2YJ,sbbd
 SBCARS,2025,"Brazilian Symposium on Components, Architectures and Reuse Software",,nan,,Top10,CE-ES,Qualis 2017-2020|SBC CE-2024,,sbcars,,sbcars
 SBCAS,2025,Simpósio Brasileiro de Computação Aplicada à Saúde,,nan,,Top20,CE-CAS,Qualis 2017-2020|SBC CE-2024,,sbcas,FToOQu3w6DQJ,
@@ -1194,7 +1194,7 @@ SIGSPATIAL,2025,ACM SIGSPATIAL International Conference on Advances in Geographi
 SII,2025,IEEE/SICE International Symposium on System Integration,,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,fNsEtErxZiIJ,
 SIIE,2025,Simpósio Internacional de Informática Educatica,,,,,,Qualis 2017-2020,,,,
 SIMBig,2025,Annual International Symposium on Information Management and Big Data,,nan,,Recommended,CE-BD,Qualis 2017-2020|SBC CE-2024,,,,simbig
-SIMPAR,2025,"IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots",,,,,,Qualis 2017-2020,,,,
+SIMPAR,2025,"IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots",,nan,,Recommended,CE-R,Qualis 2017-2020|SBC CE-2024,,,,
 SIMPDA,2025,International Sysmposium on Data-Driven Process Discovery and Analysis,,,,,,Qualis 2017-2020,,,,
 SIMULTECH,2025,"International Conference on Simulation and Modeling Methodologies, Technologies and Applications",,,,,,Qualis 2017-2020,,,,
 SIoT,2025,International Workshop on Secure Internet of Things,,,,,,Qualis 2017-2020,,,,
@@ -1327,7 +1327,7 @@ WABI,2025,Workshop on Algorithms in Bioinformatics,,nan,,Top10,CE-BioComp,Qualis
 WAC,2025,Web Audio Conference,,nan,,Top20,CE-CM,Qualis 2017-2020|SBC CE-2024,,,,
 WACV,2025,Workshop on Applications of Computer Vision,,Winter Conference on Applications of Computer Vision|nan,,Recommended,CE-GRAPI|CE-RV,Qualis 2017-2020|SBC CE-2024,,,uo-zCIky-iEJ,wacv
 WADS,2025,Algorithms and Data Structures Symposium,,nan,,Top20,CE-ACO,Qualis 2017-2020|SBC CE-2024,,,WuJ205lBDckJ,wads
-WAFR,2025,Workshop on the Algorithmic Foundations of Robotics,,,,,,Qualis 2017-2020,,,,
+WAFR,2025,Workshop on the Algorithmic Foundations of Robotics,,nan,,Top20,CE-R,Qualis 2017-2020|SBC CE-2024,,,k40T75326PgJ,
 WAIHCWS,2025,Workshop sobre Aspectos da Interação Humano-Computador para a Web Social,,nan,,Recommended,CE-IHC,Qualis 2017-2020|SBC CE-2024,,waihcws,,
 WALCOM,2025,International Workshop on Algorithms and Computation,,nan,,Recommended,CE-ACO,Qualis 2017-2020|SBC CE-2024,,,Qm-_RD142XUJ,walcom
 WAlgProg,2025,"Workshop de Ensino em Pensamento Computacional, Algoritmos e Programação",,,,,,Qualis 2017-2020,,,,
@@ -1403,4 +1403,4 @@ WTF,2025,Workshop de Testes e Tolerância a Falhas,,nan,,Recommended,CE-TF,Quali
 WTranS,2025,Workshop de Transparência de Sistema,,,,,,Qualis 2017-2020,,,,
 WVC,2025,Workshop de Visão Computacional,,nan,,Top20,CE-GRAPI,Qualis 2017-2020|SBC CE-2024,,,,
 WWW,2025,International World Wide Web Conferences,,nan,,Top10,CE-BD|CE-RESD|CE-WEBMEDIA,Qualis 2017-2020|SBC CE-2024,,,VtCeQ7ShDloJ,www
-XP,2025,International Conference on Agile Software Development,,International Conference on Agile Processes in Software Engineering and Extreme Programming (XP),,Recommended,CE-ES,Qualis 2017-2020|SBC CE-2024,,,CWzNub7mXWkJ,xpu
+XP,2025,International Conference on Agile Software Development,,"Brazilian Symposium on Robotics|Computer on The Beach|International Conference of the Italian Association for Artificial Intelligence|International Conference on Agile Processes in Software Engineering and Extreme Programming (XP)|International Conference on Neural Information Processing|RoboCup Symposium|Workshop on Tractable Probabilistic Modeling|Workshop-School on Agents, Environments, and Applications|nan",,Recommended,CE-ES|CE-IA|CE-IHC,Qualis 2017-2020|SBC CE-2024,,,blumkO6J_ywJ,iconip
