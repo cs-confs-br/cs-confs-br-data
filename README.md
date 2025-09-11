@@ -2,6 +2,8 @@
 Raw data for cs-confs-br website: [CS-Confs-BR - Brazilian Computer Science Conference Metrics](https://cs-confs-br.github.io/)
 
 This project aggregates and calculates metrics for computer science conferences in Brazil and Worldwide.
+We organize the raw data/ here, so if you want to get some metrics, just visit the website directly.
+If you want to fix some metrics, some wrong data, etc, this is the correct place :)
 
 ## Project details
 
