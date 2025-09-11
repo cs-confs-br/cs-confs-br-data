@@ -9,7 +9,7 @@ files = glob.glob("../sbc/CE-2024/SBC-CE-*.csv")
 # carregar planilha mestre
 df_master = pd.read_csv("../cs-confs-br-list.csv")
 
-for col in ["SBC-CE", "Nomes Alternativos", "Avaliação SBC", "GS Link", "DBLP Link", "Anais Link"]:
+for col in ["SBC-CE", "Nomes Alternativos", "Avaliação SBC", "GS ID", "DBLP ID", "SOL ID"]:
     if col in df_master.columns:
         df_master[col] = df_master[col].astype("string").fillna("")
 
@@ -121,12 +121,12 @@ for f in files:
             df_master.at[sigla_real, "SBC-CE"] = "|".join(sorted(x for x in ces if x))
 
             # GS/DBLP
-            if not ev.get("GS Link") and gs_id:
-                df_master.at[sigla_real, "GS Link"] = gs_id
-            if not ev.get("DBLP Link") and dblp_id:
-                df_master.at[sigla_real, "DBLP Link"] = dblp_id
-            if not ev.get("Anais Link") and sol_link:
-                df_master.at[sigla_real, "Anais Link"] = sol_link
+            if not ev.get("GS ID") and gs_id:
+                df_master.at[sigla_real, "GS ID"] = gs_id
+            if not ev.get("DBLP ID") and dblp_id:
+                df_master.at[sigla_real, "DBLP ID"] = dblp_id
+            if not ev.get("SOL ID") and sol_link:
+                df_master.at[sigla_real, "SOL ID"] = sol_link
 
 
         else:
@@ -141,7 +141,7 @@ for f in files:
                 "Avaliação SBC": top,
                 "SBC-CE": ce,
                 "Anais": "",
-                "Anais Link": sol_link,
+                "SOL Link": sol_link,
                 "GS Link": gs_id,
                 "DBLP Link": dblp_id
             }
