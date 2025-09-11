@@ -36,6 +36,16 @@ def extract_dblp_id(url):
     m = re.search(r"/db/conf/([^/]+)/", url)
     return m.group(1) if m else ""
 
+def extract_sol_id(url):
+    """
+    Extrai o ID de um link da SOL.
+    Exemplo: https://sol.sbc.org.br/index.php/bresci -> bresci
+    """
+    if pd.isna(url) or not isinstance(url, str) or not url.strip():
+        return ""
+    m = re.search(r"/index\.php/([^/?#]+)", url)
+    return m.group(1) if m else ""
+
 def normalize_avaliacao(val):
     if not isinstance(val, str):
         return ""
@@ -69,7 +79,8 @@ for f in files:
         top = normalize_avaliacao(top)
         gs_id = extract_gs_id(row.get("GOOGLE METRICS LINK", ""))
         dblp_id = extract_dblp_id(row.get("Link da DBLP", ""))
-        sol_link = str(row.get("Link da SOL", "")).strip()
+        #sol_link = str(row.get("Link da SOL", "")).strip()
+        sol_id = extract_sol_id(row.get("Link da SOL", ""))
 
         if top == "Top10":
             dic_ce_top10[ce] = dic_ce_top10.get(ce, 0) + 1
@@ -125,8 +136,8 @@ for f in files:
                 df_master.at[sigla_real, "GS ID"] = gs_id
             if not ev.get("DBLP ID") and dblp_id:
                 df_master.at[sigla_real, "DBLP ID"] = dblp_id
-            if not ev.get("SOL ID") and sol_link:
-                df_master.at[sigla_real, "SOL ID"] = sol_link
+            if not ev.get("SOL ID") and sol_id:
+                df_master.at[sigla_real, "SOL ID"] = sol_id
 
 
         else:
