@@ -1,0 +1,1400 @@
+edition_id,cs_id,name,acronym,society,year,total_citations,total_papers,h5_index,isbn,doi,extended_issn,id_springer,id_scholar_conference,id_dblp_conference,id_openalex_proceedings,created_at
+1,900001,"International Conference on the Art, Science, and Engineering of Programming",<Programming>,,2025,0,0,,,,,,,programming,,2025-09-13T21:56:10.714769
+2,900002,Eurographics Workshop on 3D Object Retrieval,3DOR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+3,900003,IEEE Conference on Virtual Reality and 3D User Interfaces ,VR,IEEE,2025,0,0,,,,,,,3dui,,2025-09-13T21:56:10.714769
+4,900004,International Conference on 3D Vision,3DV,,2025,0,0,,,,,,_QeiDtrgUSoJ.2024,3dim,,2025-09-13T21:56:10.714769
+5,900005,"International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies",3ICT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+6,900006,IEEE 5G World Forum,5GWF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+7,900007,"International Workshop on Automating Test Case Design, Selection and Evaluation",A-TEST,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+8,900008,AAAI Conference on Artificial Intelligence,AAAI,,2025,0,0,,,,,,PV9sQN5dnPsJ.2024,aaai,,2025-09-13T21:56:10.714769
+9,900009,International Conference on Autonomous Agents and Multiagent Systems,AAMAS,,2025,0,0,,,,,,yWxsQWGuQ-sJ.2024,atal,,2025-09-13T21:56:10.714769
+10,900010,"International ABZ Conference ASM, Alloy, B, TLA, VDM, Z",ABZ,,2025,0,0,,,,,,P_bGcOzNXgIJ.2019,,,2025-09-13T21:56:10.714769
+11,900011,IADIS International Conference on Applied Computing,AC-IADIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+12,900012,American Control Conference,ACC,,2025,0,0,,,,,,tgZe9odv5lUJ.2020,,,2025-09-13T21:56:10.714769
+13,900013,Asian Conference on Computer Vision,ACCV,,2025,0,0,,,,,,C6G2a_KY88AJ.2024,accv,,2025-09-13T21:56:10.714769
+14,900014,International Conference on Advances in Computer Entertainment Technology,ACE,,2025,0,0,,,,,,,ACMace,,2025-09-13T21:56:10.714769
+15,900015,IARIA International Conference on Advances in Computer-Human Interactions,ACHI-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+16,900016,International Conference on Affective Computing and Intelligent Interaction,ACII,,2025,0,0,,,,,,n8TWwN8Kc5cJ.2024,acii,,2025-09-13T21:56:10.714769
+17,900017,Asia-Pacific Conference on Intelligent Robot Systems,ACIRS,,2025,0,0,,,,,,dQMJcSWIFtgJ.2020,,,2025-09-13T21:56:10.714769
+18,900018,Australasian Conference on Information Security and Privacy,ACISP,,2025,0,0,,,,,,o0S2wIvNbXEJ.2024,acisp,,2025-09-13T21:56:10.714769
+19,900019,Advanced Concepts for Intelligent Vision Systems,ACIVS,,2025,0,0,,,,,,,acivs,,2025-09-13T21:56:10.714769
+20,900020,Annual Meeting of the Association for Computational Linguistics,ACL,,2025,0,0,,,,,,Y3UjV9bSCxMJ.2024,acl,,2025-09-13T21:56:10.714769
+21,900021,Creativity & Cognition,ACM CC,,2025,0,0,,,,,,fckQPrz_q_gJ.2024,candc,,2025-09-13T21:56:10.714769
+22,900022,Annual Symposium on Computer-Human Interaction in Play,ACM CHI PLAY,,2025,0,0,,,,,,WNLxUj5tg3gJ.2024,chiplay,,2025-09-13T21:56:10.714769
+23,900023,ACM International Conference on Interactive Media Experiences,ACM IMX,,2025,0,0,,,,,,DSB1DhJ431MJ.2024,tvx,,2025-09-13T21:56:10.714769
+24,900024,ACM Internacional Conference on Interaction Design and Children,ACMIDC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+25,900025,ACM International Conference on Multimedia,ACMMM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+26,900026,ACM Symposium on Cloud Computing,ACMSOCC,,2025,0,0,,,,,,o1durVJyeP4J.2023,cloud,,2025-09-13T21:56:10.714769
+27,900027,Applied Cryptography and Network Security,ACNS,,2025,0,0,,,,,,uX6tRrNG0lQJ.2024,acns,,2025-09-13T21:56:10.714769
+28,900028,Australasian Conference on Robotics and Automation,ACRA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+29,900029,Computer Security Applications Conference,ACSAC,,2025,0,0,,,,,,88oopSfS28MJ.2024,acsac,,2025-09-13T21:56:10.714769
+30,900030,East European Conference on Advances in Databases and Information Systems,ADBIS,,2025,0,0,,,,,,pEYfHFCSslcJ.2024,adbis,,2025-09-13T21:56:10.714769
+31,900031,International Conference on Ad-Hoc Networks and Wireless,ADHOC-NOW,,2025,0,0,,,,,,,adhoc-now,,2025-09-13T21:56:10.714769
+32,900032,International Workshop on Accelerating Analytics and Data Management Systems Using Modern Processor and Storage Architectures,ADMS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+33,900033,International Workshop on Advances in ICT Infrastructures and Services,ADVANCE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+34,900034,International Convention of the Audio Engineering Society,AES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+35,900035,AES International Conference on Semantic Audio,AES-ICSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+36,900036,International Conference on Cryptology in Africa,AFRICACRYPT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+37,900037,Conference on Geographic Information Science,AGILEGIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+38,900038,Augmented Human International Conference,AH,,2025,0,0,,,,,,HqiGvACsawYJ.2024,aughuman,,2025-09-13T21:56:10.714769
+39,900039,NASA/ESA Conference on Adaptive Hardware and Systems,AHS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+40,900040,Canadian Conference on Artificial Intelligence,AI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+41,900041,International Workshop on Artificial Intelligence and Cognition,AIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+42,900042,ACS/IEEE International Conference on Computer Systems and Applications,AICCSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+43,900043,International Conference on Application of Information and Communication Technologies,AICT,,2025,0,0,,,,,,lyn0_4ToR5cJ.2024,aict,,2025-09-13T21:56:10.714769
+44,900044,IARIA Advanced International Conference on Telecommunications,AICT-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+45,900045,International Conference on Artificial Intelligence in Education,AIED,,2025,0,0,,,,,,l2Fh9zgyJ3sJ.2024,aied,,2025-09-13T21:56:10.714769
+46,900046,"AAAI/ACM Conference on AI, Ethics, and Society",AIES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+47,900047,AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment,AIIDE,,2025,0,0,,,,,,,aiide,,2025-09-13T21:56:10.714769
+48,900048,IEEE/ASME International Conference on Advanced Intelligent Mechatronics,AIM,,2025,0,0,,,,,,vvYv-MYYfD0J.2020,,,2025-09-13T21:56:10.714769
+49,900049,Conference on Artificial Intelligence in Medicine,AIME,,2025,0,0,,,,,,G4epD5rVtawJ.2024,aime,,2025-09-13T21:56:10.714769
+50,900050,Advances in Modal Logic,AIML,,2025,0,0,,,,,,,aiml,,2025-09-13T21:56:10.714769
+51,900051,"International Conference on Autonomous Infrastructure, Management and Security",AIMS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+52,900052,IEEE International Conference on Advanced Information Networking and Applications,AINA,,2025,0,0,,,,,,FBp6ksxIdQYJ.2024,aina,,2025-09-13T21:56:10.714769
+53,900053,IEEE International Conference on Advanced Information Networking and Applications Workshops,AINAW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+54,900054,Applied Imagery Pattern Recognition Workshop,AIPR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+55,900055,International Conference on Artificial Intelligence and Statistics,AISTATS,,2025,0,0,,,,,,PhcE9OLs0MUJ.2024,aistats,,2025-09-13T21:56:10.714769
+56,900056,IEEE International Conference On Artificial Intelligence Testing,AITest,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+57,900057,Conference on Advanced Information Technologies for Management,AITM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+58,900058,International Conference on Algorithms for Computational Biology,AlCoB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+59,900059,SIAM Symposium on Algorithm Engineering and Experiments,ALENEX,,2025,0,0,,,,,,,alenex,,2025-09-13T21:56:10.714769
+60,900060,Joint ALIO/EURO International Conference on Applied Combinatorial Optimization,ALIO/EURO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+61,900061,"Allerton Conference on Communication, Control, and Computing",ALLERTON,,2025,0,0,,,,,,HbOjoTJcHB8J.2023,allerton,,2025-09-13T21:56:10.714769
+62,900062,Americas Conference on Information Systems,AMCIS,,2025,0,0,,,,,,Z7jeczV8wooJ.2024,amcis,,2025-09-13T21:56:10.714769
+63,900063,Workshop on Analysis of Movement Data,AMD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+64,900064,Annual Symposium of the American Medical Informatics Association,AMIA,,2025,0,0,,,,,,MtRw20mokCYJ.2024,amia,,2025-09-13T21:56:10.714769
+65,900065,Alberto Mendelzon International Workshop on Foundations of Data Management,AMW,,2025,0,0,,,,,,,amw,,2025-09-13T21:56:10.714769
+66,900066,ACM/IEEE Symposium on Architectures for Networking and Communications Systems,ANCS,,2025,0,0,,,,,,,ancs,,2025-09-13T21:56:10.714769
+67,900067,Congresso da Associação Nacional de Pesquisa e Pós-Graduação em Música,ANPPOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+68,900068,Annual Simulation Symposium,ANSS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+69,900069,"International Conference on Ambient Systems, Networks and Technologies",ANT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+70,900070,IEEE International Conference on Advanced Networks and Telecommuncations Systems,ANTS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+71,900071,IEEE Asia Pacific Conference on Circuits and Systems,APCCAS,,2025,0,0,,,,,,iPNrzhpu_IoJ.2024,apccas,,2025-09-13T21:56:10.714769
+72,900072,ACM on ASIA Public-Key Cryptography Workshop,APKC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+73,900073,Asian Symposium on Programming Languages and Systems,APLAS,,2025,0,0,,,,,,dHznF5bq130J.2022,aplas,,2025-09-13T21:56:10.714769
+74,900074,Asia-Pacific Network Operations and Management Symposium,APNOMS,,2025,0,0,,,,,,,apnoms,,2025-09-13T21:56:10.714769
+75,900075,International Conference on Approximation Algorithms for Combinatorial Optimization Problems,APPROX-RANDOM,,2025,0,0,,,,,,M9oM2PGejDoJ.2024,random,,2025-09-13T21:56:10.714769
+76,900076,Asia-Pacific Web Conference,APWEB,,2025,0,0,,,,,,,apweb,,2025-09-13T21:56:10.714769
+77,900077,International Symposium on Applied Reconfigurable Computing,ARC,,2025,0,0,,,,,,YfOo-Q2IJm8J.2024,arc,,2025-09-13T21:56:10.714769
+78,900078,International Conference on Architecture of Computing Systems,ARCS,,2025,0,0,,,,,,0iDRKaj8G38J.2024,arcs,,2025-09-13T21:56:10.714769
+79,900079,"International Conference on Availability, Reliability and Security",ARES,,2025,0,0,,,,,,GIrj2BSjfiwJ.2024,IEEEares,,2025-09-13T21:56:10.714769
+80,900080,International Workshop on Intelligent and Resilient Cities,ARIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+81,900081,Workshop on Adaptive and Reflective Middleware,ARM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+82,900082,IEEE Workshop on Advanced Robotics and its Social Impacts,ARSO,,2025,0,0,,,,,,MHGPX0ifa6MJ.2020,,,2025-09-13T21:56:10.714769
+83,900083,"IEEE International Conference on Application-specific Systems, Architectures and Processors",ASAP,,2025,0,0,,,,,,8awDgn_OhGYJ.2024,asap,,2025-09-13T21:56:10.714769
+84,900084,IEEE/ACM International Conference on Automated Software Engineering,ASE,,2025,0,0,,,,,,0NzweKVXmpkJ.2024,kbse,,2025-09-13T21:56:10.714769
+85,900085,"ACM ASIA Symposium on Information, Computer and Communications Security",ASIACCS,,2025,0,0,,,,,,3VLtGPwkq54J.2024,asiaccs,,2025-09-13T21:56:10.714769
+86,900086,Annual International Conference on the Theory and Applications of Cryptology and Information Security,ASIACRYPT,,2025,0,0,,,,,,hxrvQsnJSDMJ.2024,asiacrypt,,2025-09-13T21:56:10.714769
+87,900087,"International Conference on Anti-counterfeiting, Security, and Identification in Communication",ASID,,2025,0,0,,,,,,G0FddLwZFDcJ.2024,,,2025-09-13T21:56:10.714769
+88,900088,Advanced Satellite Multimedia Systems Conference,ASMS,,2025,0,0,,,,,,O90WS0zZyBYJ.2019,asms-spsc,,2025-09-13T21:56:10.714769
+89,900089,IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,ASONAM,,2025,0,0,,,,,,71Q5CJZj-VYJ.2024,asunam,,2025-09-13T21:56:10.714769
+90,900090,Asia and South Pacific Design Automation Conference,ASP-DAC,,2025,0,0,,,,,,4OI7pMNBopQJ.2024,aspdac,,2025-09-13T21:56:10.714769
+91,900091,International Conference on Architectural Support for Programming Languages and Operating Systems,ASPLOS,,2025,0,0,,,,,,KlkFB9T8yJEJ.2024,asplos,,2025-09-13T21:56:10.714769
+92,900092,Annual Conference and International Lidar Mapping Forum,ASPRS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+93,900093,International ACM SIGACCESS Conference on Computers and Accessibility,ASSETS,,2025,0,0,,,,,,c5bgEi18VesJ.2024,assets,,2025-09-13T21:56:10.714769
+94,900094,IEEE/ACM International Workshop on Automation of Software Testing,AST,,2025,0,0,,,,,,,ast,,2025-09-13T21:56:10.714769
+95,900095,Australasian Software Engineering Conference,ASWEC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+96,900096,IEEE International Symposium on Asynchronous Circuits and Systems,ASYNC,,2025,0,0,,,,,,,async,,2025-09-13T21:56:10.714769
+97,900097,USENIX Annual Technical Conference,ATC,,2025,0,0,,,,,,UoM6MOnWKE8J.2023,atc,,2025-09-13T21:56:10.714769
+98,900098,International Conference on Agreement Technologies,Atech,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+99,900099,Asian Test Symposium,ATS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+100,900100,International Workshop on Agents in Traffic and Transportation,ATT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+101,900101,Audio Mostly Conference,AUDIOMOSTLY,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+102,900102,Australasian Data Mining Conference,AusDM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+103,900103,International Working Conference on Advanced Visual Interfaces,AVI,,2025,0,0,,,,,,,avi,,2025-09-13T21:56:10.714769
+104,900104,IEEE International Conference on Advanced Video and Signal Based Surveillance,AVSS,,2025,0,0,,,,,,lj8GV_9F0b8J.2024,avss,,2025-09-13T21:56:10.714769
+105,900105,"ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics",BCB,,2025,0,0,,,,,,A0r8tJR7iaEJ.2024,bcb,,2025-09-13T21:56:10.714769
+106,900106,Conference of the British Computer Society Human Computer Interaction Specialist Group,BCS-HCI,,2025,0,0,,,,,,,bcshci,,2025-09-13T21:56:10.714769
+107,900107,"IEEE/ACM International Conference on Big Data Computing, Applications and Technologies",BDCAT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+108,900108,International Conference on Big Data and Cloud Computing,BDCLOUD,,2025,0,0,,,,,,,bdcloud,,2025-09-13T21:56:10.714769
+109,900109,"International Symposium on Benchmarking, Measuring and Optimization",BENCH,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+110,900110,"International Conference on Behavior, Economic and Social Computing",BESC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+111,900111,Bioinformatics: from Algorithms to Applications,BIATA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+112,900112,IEEE International Conference on BioInformatics and BioEngineering,BIBE,,2025,0,0,,,,,,2QSZR8tX_koJ.2019,,,2025-09-13T21:56:10.714769
+113,900113,IEEE International Conference on Bioinformatics and Biomedicine,BIBM,,2025,0,0,,,,,,4m3nKpBBPt4J.2019,,,2025-09-13T21:56:10.714769
+114,900114,EAI International Conference on Bio-inspired Information an Communications Technologies,BICT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+115,900115,IEEE International Conference on Big Data,BIGDATA,,2025,0,0,,,,,,,bigdataconf,,2025-09-13T21:56:10.714769
+116,900116,IEEE International Conference On Big Data Science And Engineering,BigDataSE,,2025,0,0,,,,,,,bigdatase,,2025-09-13T21:56:10.714769
+117,900117,IEEE International Conference on Big Data Computing Service and Applications,BIGDATASERVICE,,2025,0,0,,,,,,,bigdataservice,,2025-09-13T21:56:10.714769
+118,900118,IEEE/ACM International Workshop on Big Data Software Engineering,BIGDSE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+119,900119,ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data,BigSpatial,,2025,0,0,,,,,,,bigspatial-ws,,2025-09-13T21:56:10.714769
+120,900120,International Conference on Bioinformatics & Computational Biology,BioCOMP-WC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+121,900121,IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics,BioRob,,2025,0,0,,,,,,mll7l7Q4NakJ.2020,,,2025-09-13T21:56:10.714769
+122,900122,World Congress on Biosensors,BIOSENSORS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+123,900123,International Conference on Business Information Systems,BIS,,2025,0,0,,,,,,qAXde7fvX5YJ.2024,bis,,2025-09-13T21:56:10.714769
+124,900124,IEEE International Black Sea Conference on Communications and Networking,BLACKSEACOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+125,900125,IEEE International Conference on Blockchain,BLOCKCHAIN,,2025,0,0,,,,,,DGN3r9u7HNQJ.2023,blockchain2,,2025-09-13T21:56:10.714769
+126,900126,International Conference BioMedical Engineering and Informatics,BMEI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+127,900127,British Machine Vision Conference,BMVC,,2025,0,0,,,,,,T_DfB2ikUbwJ.2024,bmvc,,2025-09-13T21:56:10.714769
+128,900128,International Conference on Business Process Management,BPM,,2025,0,0,,,,,,0N6unYCR7HoJ.2024,bpm,,2025-09-13T21:56:10.714769
+129,900129,Workshop on Social and Human Aspects of Business Process Management,BPMS2,,2025,0,0,,,,,,,bpm,,2025-09-13T21:56:10.714769
+130,900130,Brazilian Conference on Intelligent Systems,BRACIS,,2025,0,0,,,,,,qXwIadFVNCsJ.2024,bracis,,2025-09-13T21:56:10.714769
+131,900131,Brazilian Humanoid Robot Workshop,BRAHUR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+132,900132,"Blockchain, Robotics and AI for Networking Security Conference",BRAINS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+133,900133,Brazilian Workshop on Service Robotics,BRASERO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+134,900134,Brazilian Workshop on Social Network Analysis and Mining,BRASNAM,,2025,0,0,,,,,,uCHdYLLURp0J.2024,,,2025-09-13T21:56:10.714769
+135,900135,Brazilian e-Science Workshop,BRESCI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+136,900136,Brazilian Symposium on Bioinformatics,BSB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+137,900137,IEEE-EMBS International Conference on Wearable and Implantable Body Sensor Networks,BSN,,2025,0,0,,,,,,L-flmcutX4sJ.2024,bsn,,2025-09-13T21:56:10.714769
+138,900138,"IEEE International Conference on Biometrics: Theory, Applications, and Systems",BTAS,,2025,0,0,,,,,,FetF6O7LEY8J.2024,btas,,2025-09-13T21:56:10.714769
+139,900139,International Conference on Communities and Technologies,C&T,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+140,900140,"International Workshop on Cloud for Business, Industry and Enterprises",C4BIE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+141,900141,International CAD Conference,CAD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+142,900142,International Conference on Automated Deduction,CADE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+143,900143,International Conference on Computer Analysis of Images and Patterns,CAIP,,2025,0,0,,,,,,,caip,,2025-09-13T21:56:10.714769
+144,900144,International Conference on Advanced Information Systems Engineering,CAISE,,2025,0,0,,,,,,5PSS5xHm_KwJ.2024,caise,,2025-09-13T21:56:10.714769
+145,900145,International Conference on Algorithms and Discrete Applied Mathematics,CALDAM,,2025,0,0,,,,,,oMZjQ-X5R1EJ.2024,caldam,,2025-09-13T21:56:10.714769
+146,900146,IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks,CAMAD,,2025,0,0,,,,,,zsyVgJ0BX8MJ.2023,camad,,2025-09-13T21:56:10.714769
+147,900147,International Symposium on Computing and Networking,CANDAR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+148,900148,International Conference on Cryptology and Network Security,CANS,,2025,0,0,,,,,,q7kWOn3QmqYJ.2024,cans,,2025-09-13T21:56:10.714769
+149,900149,Conferência da Associação Portuguesa de Sistemas de Informação,CAPSI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+150,900150,Latin America High Performance Computing Conference,CARLA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+151,900151,Conference on Computer Animation and Social Agents,CASA,,2025,0,0,,,,,,,ca,,2025-09-13T21:56:10.714769
+152,900152,Annual International Conference on Computer Science and Software Engineering,CASCON,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+153,900153,IEEE Conference on Automation Science and Engineering,CASE,,2025,0,0,,,,,,iJOqTiZA0TgJ.2020,,,2025-09-13T21:56:10.714769
+154,900154,"International Conference on Compilers, Architecture, and Synthesis for Embedded Systems",CASES,,2025,0,0,,,,,,,cases,,2025-09-13T21:56:10.714769
+155,900155,International Conference on Computers and their Applications,CATA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+156,900156,Computers and Advanced Technology in Education,CATE,,2025,0,0,,,,,,,cate,,2025-09-13T21:56:10.714769
+157,900157,International Conference on Computer Aided Verification,CAV,,2025,0,0,,,,,,qgBvh59sjMQJ.2019,,,2025-09-13T21:56:10.714769
+158,900158,Congresso Brasileiro de Automática,CBA,,2025,0,0,,,,,,dV-L3bCgyPcJ.2024,,,2025-09-13T21:56:10.714769
+159,900159,Congresso Brasileiro de Engenharia Biomédica,CBEB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+160,900160,IEEE Conference on Business Informatics,CBI,,2025,0,0,,,,,,EBKFsSXXhfYJ.2024,cbi,,2025-09-13T21:56:10.714769
+161,900161,Congresso Brasileiro de Inteligência Computacional,CBIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+162,900162,Congresso Brasileiro de Informática em Saúde,CBIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+163,900163,International Workshop on Content-Based Multimedia Indexing,CBMI,,2025,0,0,,,,,,nZ1bm2kqGmUJ.2023,cbmi,,2025-09-13T21:56:10.714769
+164,900164,International Symposium on Computer-Based Medical Systems,CBMS,,2025,0,0,,,,,,cFvi1RZjX1gJ.2024,cbms,,2025-09-13T21:56:10.714769
+165,900165,IEEE International Conference on Cyborg and Bionic Systems,CBS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+166,900166,Congresso Brasileiro de Sistemas Fuzzy,CBSF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+167,900167,Brazilian Conference on Software: Theory and Practice,CBSoft,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+168,900168,Congresso Brasileiro de Telemedicina e Telesaúde,CBTMS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+169,900169,International Conference on Compiler Construction,CC,,2025,0,0,,,,,,,cc,,2025-09-13T21:56:10.714769
+170,900170,IEEE Conference on Computational Complexity,CCC,,2025,0,0,,,,,,VHvULLS5ORIJ.2024,coco,,2025-09-13T21:56:10.714769
+171,900171,Canadian Conference on Computational Geometry,CCCG,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+172,900172,Canadian Conference on Electrical and Computer Engineering,CCECE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+173,900173,"IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",CCGRID,,2025,0,0,,,,,,,ccgrid,,2025-09-13T21:56:10.714769
+174,900174,Annual IEEE Consumer Communications & Networking Conference,CCNC,,2025,0,0,,,,,,IzHKIKh35TsJ.2023,ccnc,,2025-09-13T21:56:10.714769
+175,900175,ACM Symposium on Computer and Communications Security,CCS,,2025,0,0,,,,,,Pg42P_rbavwJ.2023,ccs,,2025-09-13T21:56:10.714769
+176,900176,Workshop on Core Computations on Spatial Information,CCSI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+177,900177,IEEE Conference on Decision and Control,CDC,,2025,0,0,,,,,,1dJxuEkKfpEJ.2020,,,2025-09-13T21:56:10.714769
+178,900178,International Conference on Digital Health,CDH,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+179,900179,"International Conference on Cooperative Design, Visualization, and Engineering",CDVE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+180,900180,IEEE Congress on Evolutionary Computation,CEC,,2025,0,0,,,,,,ThxTsNVxvT8J.2024,cec,,2025-09-13T21:56:10.714769
+181,900181,Central European Cybersecurity Conference,CECC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+182,900182,Cognition and Exploratory Learning in Digital Age,CELDA,,2025,0,0,,,,,,,iadiscelda,,2025-09-13T21:56:10.714769
+183,900183,Conference on ENTERprise Information Systems,CENTERIS,,2025,0,0,,,,,,,centeris,,2025-09-13T21:56:10.714769
+184,900184,International Workshop on Conducting Empirical Studies in Industry,CESI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+185,900185,ACM International Conference on Computing Frontiers,CF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+186,900186,Computer Graphics International Conference,CGI,,2025,0,0,,,,,,Eta5Rw7ikZgJ.2024,cgi,,2025-09-13T21:56:10.714769
+187,900187,International Symposium on Code Generation and Optimization,CGO,,2025,0,0,,,,,,ol9-bwToVWEJ.2024,cgo,,2025-09-13T21:56:10.714769
+188,900188,International Workshop on Cooperative and Human Aspects of Software Engineering,CHASE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+189,900189,Conference on Cryptographic Hardware and Embedded Systems,CHES,,2025,0,0,,,,,,fxQZq2l4GcMJ.2019,ches,,2025-09-13T21:56:10.714769
+190,900190,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,CHI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+191,900191,Conference on Human Information Interaction and Retrieval,CHIIR,,2025,0,0,,,,,,,chiir,,2025-09-13T21:56:10.714769
+192,900192,ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play,CHIPlay,,2025,0,0,,,,,,,chiplay,,2025-09-13T21:56:10.714769
+193,900193,International Conference on Algorithms and Complexity,CIAC,,2025,0,0,,,,,,3cSHcC5AA7QJ.2020,ciac,,2025-09-13T21:56:10.714769
+194,900194,Iberoamerican Congress on Pattern Recognition,CIARP,,2025,0,0,,,,,,-G7ZDWMFougJ.2024,ciarp,,2025-09-13T21:56:10.714769
+195,900195,IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology,CIBCB,,2025,0,0,,,,,,ybNREko_Be0J.2019,,,2025-09-13T21:56:10.714769
+196,900196,Conferencia Iberoamericana de Software Engineering,CIbSE,,2025,0,0,,,,,,Jh0oWyA5hnEJ.2024,cibse,,2025-09-13T21:56:10.714769
+197,900197,International Conference on Collaboration and Internet Computing,CIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+198,900198,IEEE Custom Integrated Circuits Conference,CICC,,2025,0,0,,,,,,yHnzH6ndKgwJ.2024,cicc,,2025-09-13T21:56:10.714769
+199,900199,International Conference on Intelligent Text Processing and Computational Linguistics,CICLING,,2025,0,0,,,,,,,cicling,,2025-09-13T21:56:10.714769
+200,900200,Congresso Internacional de Design da Informação,CIDI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+201,900201,Symposium on Computational Intelligence and Data Mining,CIDM,,2025,0,0,,,,,,,cidm,,2025-09-13T21:56:10.714769
+202,900202,Biennial Conference on Innovative Data Systems Research,CIDR,,2025,0,0,,,,,,,cidr,,2025-09-13T21:56:10.714769
+203,900203,IEEE Conference on Computational Intelligence and Games,CIG,,2025,0,0,,,,,,HU8fT-f-Q8YJ.2024,cig,,2025-09-13T21:56:10.714769
+204,900204,ACM International Conference on Information and Knowledge Management,CIKM,,2025,0,0,,,,,,V-IMg2OTpU8J.2024,cikm,,2025-09-13T21:56:10.714769
+205,900205,Iberian Latin American Congress on Computational Methods,CILAMCE,,2025,0,0,,,,,,lPvkMWc1mQ8J.2024,,,2025-09-13T21:56:10.714769
+206,900206,"Conferencia Iberoamericana en Sistemas, Cibernética e Informática",CISCI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+207,900207,"International Conference on Complex, Intelligent, and Software Intensive Systems",CISIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+208,900208,Iberian Conference on Information Systems and Technologies,CISTI,,2025,0,0,,,,,,8MjqfFw7-w4J.2024,,,2025-09-13T21:56:10.714769
+209,900209,IEEE International Conference on Computer and Information Technology,CIT,,2025,0,0,,,,,,,cit,,2025-09-13T21:56:10.714769
+210,900210,"International Conference on Computer, Information, and Telecommunication Systems",CITS,,2025,0,0,,,,,,FdZkG8N8jboJ.2024,cits,,2025-09-13T21:56:10.714769
+211,900211,Corpus Linguistics Conference,CL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+212,900212,Latin-Ibero-American Conference on Operations Research,CLAIO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+213,900213,Conference and Labs of the Evaluation Forum,CLEF,,2025,0,0,,,,,,,clef,,2025-09-13T21:56:10.714769
+214,900214,Conferencia Latinoamericana de Informática,CLEI,,2025,0,0,,,,,,ThEGj_a76ZUJ.2024,clei,,2025-09-13T21:56:10.714769
+215,900215,Latin American Conference on Human Computer Interaction,CLIHC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+216,900216,International Conference on Cloud Computing and Services Science,CLOSER,,2025,0,0,,,,,,hltkuBaF_uEJ.2024,closer,,2025-09-13T21:56:10.714769
+217,900217,IEEE International Conference on Cloud Computing,CLOUD,,2025,0,0,,,,,,ioohKoS5imcJ.2024,IEEEcloud,,2025-09-13T21:56:10.714769
+218,900218,IEEE International Conference on Cloud Computing Technology and Science,CloudCom,,2025,0,0,,,,,,aNZ314HiR4YJ.2024,cloudcom,,2025-09-13T21:56:10.714769
+219,900219,"IARIA International Conference on Cloud Computing, GRIDs, and Virtualization",CLOUDCOMPUTING-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+220,900220,IEEE International workshop on Cloud data management,CLOUDDB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+221,900221,IEEE International Conference on Cloud Networking,CloudNet,,2025,0,0,,,,,,xDYTOighRhwJ.2024,cloudnet,,2025-09-13T21:56:10.714769
+222,900222,International Conference on Cloud Computing Technologies and Applications,CLOUDTECH,,2025,0,0,,,,,,,cloudtech,,2025-09-13T21:56:10.714769
+223,900223,IEEE International Conference on Cluster Computing,CLUSTER,,2025,0,0,,,,,,55hG19HkCfUJ.2024,cluster,,2025-09-13T21:56:10.714769
+224,900224,International Symposium on Computer Music Multidisciplinary Research,CMMR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+225,900225,Congress on Numerical Methods in Engineering,CMN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+226,900226,Congresso Nacional de Matemática Aplicada e Computacional,CNMAC,SBMAC,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+227,900227,IEEE Conference on Communications and Network Security,CNS,,2025,0,0,,,,,,nZuTYevUj1wJ.2024,cns,,2025-09-13T21:56:10.714769
+228,900228,International Conference on Network and Service Management,CNSM,,2025,0,0,,,,,,D9Ngi53e3FUJ.2023,cnsm,,2025-09-13T21:56:10.714769
+229,900229,Workshop On Computing Techniques For Spatio-Temporal Data in Archaeology And Cultural Heritage,CoARCH,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+230,900230,International Conference on Combinatorial Optimization and Applications,COCOA,,2025,0,0,,,,,,xFmuhcLxNaUJ.2024,cocoa,,2025-09-13T21:56:10.714769
+231,900231,International Computing and Combinatorics Conference,COCOON,,2025,0,0,,,,,,nuQnbkFkrG0J.2024,cocoon,,2025-09-13T21:56:10.714769
+232,900232,ACM Conference on Data and Application Security and Privacy,CODASPY,,2025,0,0,,,,,,LWRwHw7mGBMJ.2024,codaspy,,2025-09-13T21:56:10.714769
+233,900233,IEEE/ACM/IFIP International Conference on Hardware/Software Codesign and System Synthesis,CODES+ISS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+234,900234,IEEE Conference on Games,COG,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+235,900235,International Workshop on Cognitive Aspects of Information Systems Engineering,COGNISE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+236,900236,Annual Meeting of the Cognitive Science Society,COGSCI,,2025,0,0,,,,,,e23jKy7NXr8J.2024,cogsci,,2025-09-13T21:56:10.714769
+237,900237,IEEE International Multi-Disciplinary Conference on Cognitive Methods in Situation Awareness and Decision Support,CogSIMA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+238,900238,IEEE Colombian Conference on Applications in Computational Intelligence,ColCACI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+239,900239,International Conference on Computational Linguistics,COLING,,2025,0,0,,,,,,6AfzgED5a7MJ.2024,coling,,2025-09-13T21:56:10.714769
+240,900240,"International Conference on Collaborative Computing: Networking, Applications and Worksharing",CollaborateCom,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+241,900241,Collaboration Technologies and Social Computing,CRIWG,,2025,0,0,,,,,,,collabtech,,2025-09-13T21:56:10.714769
+242,900242,Conference on Learning Theory,COLT,,2025,0,0,,,,,,z7sajJgd5jIJ.2024,,,2025-09-13T21:56:10.714769
+243,900243,Computational Methods in Systems and Software,CoMeSySo,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+244,900244,International Conference on Computational Models of Argument,COMMA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+245,900245,IEEE Computer Software and Applications Conference,COMPSAC,,2025,0,0,,,,,,VV1RRR7eju4J.2024,compsac,,2025-09-13T21:56:10.714769
+246,900246,International Conference on Communication Systems & NetworkS,COMSNETS,,2025,0,0,,,,,,zHwZkHkaM2EJ.2023,comsnets,,2025-09-13T21:56:10.714769
+247,900247,International Workshop on Computational Social Choice,COMSOC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+248,900248,International Conference on Concurrency Theory,CONCUR,,2025,0,0,,,,,,wkpUPIDgNa4J.2019,,,2025-09-13T21:56:10.714769
+249,900249,Conference on Emerging Network Experiment and Technology,CONEXT,,2025,0,0,,,,,,pj0-opwdew8J.2023,conext,,2025-09-13T21:56:10.714769
+250,900250,International Conference on Information Resources Management,CONFIRM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+251,900251,International Conference in Software Engineering Research and Innovation,CONISOFT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+252,900252,Conference on Natural Language Learning,CoNLL,,2025,0,0,,,,,,H7TUtVM_vm4J.2024,conll,,2025-09-13T21:56:10.714769
+253,900253,International Conference on Information Systems and Technology Management,CONTECSI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+254,900254,International Workshop on Context for Business Process Management,CONTEXT-BPM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+255,900255,APCA International Conference on Automatic Control and Soft Computing,CONTROLO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+256,900256,International Conference on Cooperative Information Systems,CoopIS,,2025,0,0,,,,,,,coopis,,2025-09-13T21:56:10.714769
+257,900257,Conference on Robot Learning,CoRL,,2025,0,0,,,,,,kWi-GfxuXpEJ.2020,,,2025-09-13T21:56:10.714769
+258,900258,International Conference on Spatial Information Theory,COSIT,,2025,0,0,,,,,,g1IeG8tN8KAJ.2018,cosit,,2025-09-13T21:56:10.714769
+259,900259,Conference on Online Social Networks,COSN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+260,900260,Workshop of Urban Computing,COURB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+261,900261,International Conference on Principles and Practice of Constraint Programming,CP,,2025,0,0,,,,,,S648KV_osZMJ.2024,cp,,2025-09-13T21:56:10.714769
+262,900262,Annual Symposium on Combinatorial Pattern Matching,CPM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+263,900263,International Conference on Certified Programs and Proofs,CPP,,2025,0,0,,,,,,kLPk-HmRGuYJ.2024,cpp,,2025-09-13T21:56:10.714769
+264,900265,International Conference on Cognitive Radio Oriented Wireless Networks,CrownCom,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+265,900266,Canadian Conference on Computer and Robot Vision,CRV,,2025,0,0,,,,,,F-LopY4ucWMJ.2020,,,2025-09-13T21:56:10.714769
+266,900267,International Cryptology Conference,CRYPTO,,2025,0,0,,,,,,nqcB6RwzhMQJ.2024,crypto,,2025-09-13T21:56:10.714769
+267,900268,Congresso da Sociedade Brasileira de Computação,CSBC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+268,900269,International Conference on Computational Systems-Biology and Bioinformatics,CSBIO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+269,900270,International Conference on Computer Supported Collaborative Learning,CSCL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+270,900271,IEEE Conference on Standards for Communications and Networking,CSCN,,2025,0,0,,,,,,fRCvy-8x_TkJ.2023,cscn,,2025-09-13T21:56:10.714769
+271,900272,ACM Conference on Computer Supported Cooperative Work & Social Computing,CSCW,,2025,0,0,,,,,,kXowlNFROIgJ.2024,cscw,,2025-09-13T21:56:10.714769
+272,900273,IEEE International Conference on Computer Supported Cooperative Work in Design,CSCWD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+273,900274,Conference of the System Dynamics Society,CSDS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+274,900275,International Conference on Computational Science and Engineering,CSE,,2025,0,0,,,,,,V3s-huB8LYEJ.2024,cse,,2025-09-13T21:56:10.714769
+275,900276,International Conference on Computer Supported Education,CSEDU,,2025,0,0,,,,,,nzz9FASca4MJ.2024,csedu,,2025-09-13T21:56:10.714769
+276,900277,Conference on Software Engineering Education and Training,CSEE&T,,2025,0,0,,,,,,yIZ19I9U66oJ.2024,csee,,2025-09-13T21:56:10.714769
+277,900278,IEEE Computer Security Foundations Symposium,CSF,,2025,0,0,,,,,,5Sz4yUnI16AJ.2020,csfw,,2025-09-13T21:56:10.714769
+278,900279,International Workshop on Crowdsourcing in Software Engineering,CSI-SE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+279,900280,Conference for Computer Science Logic,CSL,,2025,0,0,,,,,,xfuNJ8sxOdEJ.2024,csl,,2025-09-13T21:56:10.714769
+280,900281,Conference on Computer Simulation of Musical Creativity,CSMC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+281,900282,"International Symposium on Communication Systems, Networks and Digital Signal Processing",CSNDSP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+282,900283,Cyber Security in Networking Conference,CSNet,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+283,900284,International CSound Conference,CSOUND,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+284,900285,International Conference on Computational Thinking Education,CTE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+285,900286,International Conference on Collaboration and Technology,CTS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+286,900287,IEEE Conference on Computer Vision and Pattern Recognition,CVPR,,2025,0,0,,,,,,FXe-a9w0eycJ.2024,cvpr,,2025-09-13T21:56:10.714769
+287,900288,IEEE Conference on Computer Vision and Pattern Recognition Workshops,CVPRW,,2025,0,0,,,,,,ihIDe6biV1gJ.2024,,,2025-09-13T21:56:10.714769
+288,900289,"International Conference on Cyber Situational Awareness, Data Analytics and Assessment",CyberSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+289,900290,International Conference on Cyber Security And Protection Of Digital Services,CyberSecurity,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+290,900291,Design Automation Conference,DAC,,2025,0,0,,,,,,LMgtaHBu8WIJ.2024,dac,,2025-09-13T21:56:10.714769
+291,900292,International Conference on Digital Audio Effects,DAFX,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+292,900293,International Workshop on Data Management on New Hardware,DAMON,,2025,0,0,,,,,,,damon,,2025-09-13T21:56:10.714769
+293,900294,International Symposium on Distributed Autonomous Robotic Systems,DARS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+294,900295,"IEEE International Conference on Dependable, Autonomic & Secure Computing",DASC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+295,900296,International Conference on Database Systems for Advanced Applications,DASFAA,,2025,0,0,,,,,,,dasfaa,,2025-09-13T21:56:10.714769
+296,900297,Conference on Design and Architectures for Signal and Image Processing,DASIP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+297,900298,"International Conference on Data Science, Technology and Applications",DATA,,2025,0,0,,,,,,aRfvSgRTrjoJ.2024,data,,2025-09-13T21:56:10.714769
+298,900299,IARIA International Conference on Data Analytics,DATAANALYTICS-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+299,900300,"Design, Automation and Test in Europe Conference and Exhibition",DATE,,2025,0,0,,,,,,cP2AyDfWCcQJ.2024,date,,2025-09-13T21:56:10.714769
+300,900301,International Conference on Big Data Analytics and Knowledge Discovery,DAWAK,,2025,0,0,,,,,,,dawak,,2025-09-13T21:56:10.714769
+301,900302,"IARIA International Conference on Advances in Databases, Knowledge, and Data Applications",DBKD-AIARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+302,900303,IFIP WG 11.3 Conference on Data and Applications Security and Privacy,DBSec,,2025,0,0,,,,,,t9ttKFRoPtkJ.2024,dbsec,,2025-09-13T21:56:10.714769
+303,900304,International Symposium on Distributed Computing and Artificial Intelligence,DCAI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+304,900305,Workshop on Detection and Classification of Acoustic Scenes and Events,DCASE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+305,900306,Data Compression Conference,DCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+306,900307,International Conference on Distributed Computing in Sensor Systems,DCOSS,,2025,0,0,,,,,,ps72WqVeHX4J.2023,dcoss,,2025-09-13T21:56:10.714769
+307,900308,IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems,DDECS,,2025,0,0,,,,,,7-_qFtHfavIJ.2024,ddecs,,2025-09-13T21:56:10.714769
+308,900309,International Conference on Distributed and Event-Based Systems,DEBS,,2025,0,0,,,,,,tlrCVwIsX4kJ.2023,debs,,2025-09-13T21:56:10.714769
+309,900310,International Conference on Dependability and Complex Systems,DEPCOS,,2025,0,0,,,,,,,depcos,,2025-09-13T21:56:10.714769
+310,900311,Workshop de Desafios da Computação Aplicada à Educação,DESAFIE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+311,900312,International Conference on Database and Expert Systems Applications,DEXA,,2025,0,0,,,,,,,dexa,,2025-09-13T21:56:10.714769
+312,900313,IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems,DFT,,2025,0,0,,,,,,y53zu2cNqqkJ.2018,dft,,2025-09-13T21:56:10.714769
+313,900314,Discrete Geometry for Computer Imagery,DGCI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+314,900315,Annual International Conference on Digital Government Research,DGO,,2025,0,0,,,,,,,dgo,,2025-09-13T21:56:10.714769
+315,900316,Digital Heritage,DH,,2025,0,0,,,,,,,dh,,2025-09-13T21:56:10.714769
+316,900317,Digital Games Research Association International Conference,DIGRA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+317,900318,International Conference on Data Integration in Life Sciences,DILS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+318,900319,"International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment",DIMVA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+319,900320,Conference on Designing Interactive Systems,DIS,,2025,0,0,,,,,,NL3siS1OXxYJ.2024,ACMdis,,2025-09-13T21:56:10.714769
+320,900321,International Symposium on Distributed Computing,DISC,,2025,0,0,,,,,,I09_2V3FJhwJ.2024,wdag,,2025-09-13T21:56:10.714769
+321,900322,ACM Symposium on Development and Analysis of Intelligent Vehicular Networks and Applications,DIVANET,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+322,900323,International Workshop on Description Logics,DL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+323,900324,Dynamic Languages Symposium,DLS,,2025,0,0,,,,,,,dls,,2025-09-13T21:56:10.714769
+324,900325,International Conference on Data Mining and Applications,DMA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+325,900326,International DMS Conference on Visualization and Visual Languages,DMSVIVA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+326,900327,ACM Symposium on Document Engineering,DOCENG,,2025,0,0,,,,,,C6AfMlHpHa0J.2024,doceng,,2025-09-13T21:56:10.714769
+327,900328,International Workshop On Data Warehousing and OLAP,DOLAP,,2025,0,0,,,,,,,dolap,,2025-09-13T21:56:10.714769
+328,900329,International Workshop on Data Privacy Management,DPM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+329,900330,International Conference on the Design of Reliable Communication Networks,DRCN,,2025,0,0,,,,,,,drcn,,2025-09-13T21:56:10.714769
+330,900331,International Conference on Discovery Science,DS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+331,900332,IEEE/ACM International Symposium on Distributed Simulation and Real-Time Applications,DS-RT,,2025,0,0,,,,,,JO6ZL899IMAJ.2024,dsrt,,2025-09-13T21:56:10.714769
+332,900333,IEEE International Conference on Data Science and Advanced Analytics,DSAA,,2025,0,0,,,,,,ZHdJbJwh40EJ.2024,dsaa,,2025-09-13T21:56:10.714769
+333,900334,International Conference on Software Development for Enhancing Accessibility and Fighting Info-exclusion,DSAI,,2025,0,0,,,,,,,dsai,,2025-09-13T21:56:10.714769
+334,900335,IEEE Conference on Dependable and Secure Computing,DSC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+335,900336,"Euromicro Conference on Digital System Design, Architectures, Methods and Tools",DSD,,2025,0,0,,,,,,42wcJhr2yF0J.2024,dsd,,2025-09-13T21:56:10.714769
+336,900337,Annual IEEE/IFIP International Conference on Dependable Systems and Networks,DSN,,2025,0,0,,,,,,MVYbyyKMpToJ.2024,dsn,,2025-09-13T21:56:10.714769
+337,900338,IEEE International Conference on Dependable Systems and Networks Workshops,DSNW,,2025,0,0,,,,,,,dsn,,2025-09-13T21:56:10.714769
+338,900339,International Conference on Digital Signal Processing,DSP,,2025,0,0,,,,,,aJnwgzbfDTUJ.2024,icdsp,,2025-09-13T21:56:10.714769
+339,900340,Design & Technology of Integrated Systems in Nanoscale Era,DTIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+340,900341,IEEE Symposium on New Frontiers in Dynamic Spectrum Access Networks,DySPAN,,2025,0,0,,,,,,0y6OyqiGt8MJ.2023,dyspan,,2025-09-13T21:56:10.714769
+341,900342,Conference of the European Chapter of the Association for Computational Linguistics,EACL,,2025,0,0,,,,,,JnFTLT-D1FUJ.2024,eacl,,2025-09-13T21:56:10.714769
+342,900343,International Conference on Evaluation and Assessment in Software Engineering,EASE,,2025,0,0,,,,,,jk7nbKX2c8EJ.2024,ease,,2025-09-13T21:56:10.714769
+343,900344,Euro American Conference on Telematics and Information Systems,EATIS,,2025,0,0,,,,,,as1viggupKQJ.2024,eatis,,2025-09-13T21:56:10.714769
+344,900345,ACM conference on Economics and Computation,EC,,2025,0,0,,,,,,dpWPf1oNwIgJ.2023,sigecom,,2025-09-13T21:56:10.714769
+345,900346,European Conference on Technology Enhanced Learning,EC-TEL,,2025,0,0,,,,,,_1QDFIU09Q8J.2024,ectel,,2025-09-13T21:56:10.714769
+346,900347,European Conference on Artificial Intelligence,ECAI,,2025,0,0,,,,,,ryLBm7fgHNMJ.2024,ecai,,2025-09-13T21:56:10.714769
+347,900348,IEEE/ACM International Workshop on Establishing the Community-Wide Infrastructure for Architecture-Based Software Engineering,ECASE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+348,900349,European Control Conference,ECC,,2025,0,0,,,,,,uyMX5yvvkyoJ.2020,,,2025-09-13T21:56:10.714769
+349,900350,European Conference on Circuit Theory and Design,ECCTD,,2025,0,0,,,,,,,ecctd,,2025-09-13T21:56:10.714769
+350,900351,European Conference on Computer Vision,ECCV,,2025,0,0,,,,,,cwIh2C-xo8kJ.2024,eccv,,2025-09-13T21:56:10.714769
+351,900352,European Conference on Information Retrieval,ECIR,,2025,0,0,,,,,,,ecir,,2025-09-13T21:56:10.714769
+352,900353,European Conference on Information Systems,ECIS,,2025,0,0,,,,,,dF8xpB0_PnwJ.2024,ecis,,2025-09-13T21:56:10.714769
+353,900354,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,ECML,,2025,0,0,,,,,,B_DfwWWmEnMJ.2024,ecml,,2025-09-13T21:56:10.714769
+354,900355,European Conference on Mobile Robots,ECMR,,2025,0,0,,,,,,E-Dt3HzExLsJ.2020,,,2025-09-13T21:56:10.714769
+355,900356,European Conference on Modelling and Simulation,ECMS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+356,900357,European Conference on Object-Oriented Programming,ECOOP,,2025,0,0,,,,,,QHz4g2YxOYgJ.2024,ecoop,,2025-09-13T21:56:10.714769
+357,900358,Euromicro Conference on Real-Time Systems,ECRTS,,2025,0,0,,,,,,TjHsSEvIdkIJ.2024,ecrts,,2025-09-13T21:56:10.714769
+358,900359,European Conference on Software Architecture,ECSA,,2025,0,0,,,,,,hbCKVuECYrEJ.2024,ecsa,,2025-09-13T21:56:10.714769
+359,900360,European Conference on Computer Supported Cooperative Work,ECSCW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+360,900361,European Conference on Symbolic and Quantitative Approaches to Reasoning and Uncertainty,ECSQARU,,2025,0,0,,,,,,NPzpQ2AW63QJ.2024,ecsqaru,,2025-09-13T21:56:10.714769
+361,900362,International Conference on Extending Database Technology,EDBT,,2025,0,0,,,,,,,edbt,,2025-09-13T21:56:10.714769
+362,900363,European Dependable Computing Conference,EDCC,,2025,0,0,,,,,,YcdY4WsTx_sJ.2024,edcc,,2025-09-13T21:56:10.714769
+363,900364,International Conference on Edge Computing,EDGE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+364,900365,International Conference on Educational Data Mining,EDM,,2025,0,0,,,,,,omHmP0TWqbUJ.2024,edm,,2025-09-13T21:56:10.714769
+365,900366,IEEE International Enterprise Distributed Object Computing Conference,EDOC,,2025,0,0,,,,,,HYNXXKncPYAJ.2024,edoc,,2025-09-13T21:56:10.714769
+366,900367,Simpósio Brasileiro de Educação em Computação,EDUCOMP,,2025,0,0,,,,,,9d69RZLoOs8J.2024,,,2025-09-13T21:56:10.714769
+367,900368,IEEE Global Engineering Education Conference,EDUCON,,2025,0,0,,,,,,oWx0DwbR58MJ.2024,educon,,2025-09-13T21:56:10.714769
+368,900369,European Conference on Electrical Engineering and Computer Science,EECS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+369,900370,"International Conference on e-Learning, e-Business, Enterprise Information Systems, and e-Government",EEEWC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+370,900371,International Conference on Electronic Government,EGOV,,2025,0,0,,,,,,UF-KqO2gwjoJ.2024,egov,,2025-09-13T21:56:10.714769
+371,900372,International Conference on Electronic Government/International Conference for E-Democracy and Open Government,EGOV-CEDEM-EPART,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+372,900373,International Conference on Electronic Government and the Information Systems Perspective,EGOVIS,,2025,0,0,,,,,,,egovis,,2025-09-13T21:56:10.714769
+373,900374,ACM SIGCHI Symposium on Engineering Interactive Computing Systems,EICS,,2025,0,0,,,,,,,eics,,2025-09-13T21:56:10.714769
+374,900375,International Conference on Electro Information Technology,EIT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+375,900376,International Conference on Information Modeling and Knowledge,EJC,,2025,0,0,,,,,,,ejc,,2025-09-13T21:56:10.714769
+376,900377,International Workshop on the Use of GIS in Emergency Management,EM-GIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+377,900378,International Workshop on Engineering Multiagent Systems,EMAS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+378,900379,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,EMBC,,2025,0,0,,,,,,la0gAKbHmIkJ.2024,embc,,2025-09-13T21:56:10.714769
+379,900380,International Conference on Biomedical and Health Informatics,BHI,,2025,0,0,,,,,,BgO65-j_oeEJ.2024,bhi,,2025-09-13T21:56:10.714769
+380,900381,Conference on Empirical Methods in Natural Language Processing,EMNLP,,2025,0,0,,,,,,LqrQjvOguiMJ.2024,emnlp,,2025-09-13T21:56:10.714769
+381,900382,International Conference on Evolutionary Multi-Criterion Optimization,EMO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+382,900383,ACM International Conference on Embedded Software,EMSOFT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+383,900384,Encontro Nacional da Associação Nacional de Pós-Graduação e Pesquisa em Administração,ENANPAD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+384,900385,International Conference on Evaluation of Novel Approaches to Software Engineering,ENASE,,2025,0,0,,,,,,Q2z8twK6gqAJ.2024,enase,,2025-09-13T21:56:10.714769
+385,900386,ACM CoNEXT Workshop on Emerging in-Network Computing Paradigms,ENCP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+386,900387,Encontro Nacional de Inteligencia Artificial e Computacional,ENIAC,,2025,0,0,,,,,,DoEKONL9f1YJ.2024,,,2025-09-13T21:56:10.714769
+387,900388,Portuguese Conference on Artificial Intelligence,EPIA,,2025,0,0,,,,,,SDrbTPLn2T0J.2024,epia,,2025-09-13T21:56:10.714769
+388,900389,International Conference on Conceptual Modeling,ER,,2025,0,0,,,,,,wB6WaEpFlvgJ.2024,er,,2025-09-13T21:56:10.714769
+389,900390,Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano Tecnológica,Ergodesign,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+390,900391,European Symposium on Algorithms,ESA,,2025,0,0,,,,,,sNtxnFuOq5YJ.2024,esa,,2025-09-13T21:56:10.714769
+391,900392,"European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning",ESANN,,2025,0,0,,,,,,G2W6LcMuSNwJ.2024,esann,,2025-09-13T21:56:10.714769
+392,900393,IEEE International Conference on e-Science,ESCIENCE,,2025,0,0,,,,,,,eScience,,2025-09-13T21:56:10.714769
+393,900394,Workshop Latinoamericano de Ingeniería de Software Experimental,ESELAW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+394,900395,ACM/IEEE International Symposium on Empirical Software Engineering and Measurement,ESEM,,2025,0,0,,,,,,TWG2GULnchAJ.2024,esem,,2025-09-13T21:56:10.714769
+395,900396,European Conference on Service-Oriented and Cloud Computing,ESOCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+396,900397,European Symposium on Programming,ESOP,,2025,0,0,,,,,,UtpXAOWmk9EJ.2024,esop,,2025-09-13T21:56:10.714769
+397,900398,European Symposium on Research in Computer Security,ESORICS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+398,900399,European Solid State Circuits Conference,ESSCIRC,,2025,0,0,,,,,,rIvU5DZe6gMJ.2024,esscirc,,2025-09-13T21:56:10.714769
+399,900400,European Solid State Device Research Conference,ESSDERC,,2025,0,0,,,,,,u1sD_y1HdVYJ.2024,essderc,,2025-09-13T21:56:10.714769
+400,900401,Extended Semantic Web Conference,ESWC,,2025,0,0,,,,,,AETH84_wOIQJ.2024,esws,,2025-09-13T21:56:10.714769
+401,900402,European Semantic Web Conference,ESWS,,2025,0,0,,,,,,mf0MeYwvqwoJ.2024,esws,,2025-09-13T21:56:10.714769
+402,900403,Encontro de Teoria da Computação,ETC,,2025,0,0,,,,,,S-FAvH1rAgcJ.2024,,,2025-09-13T21:56:10.714769
+403,900404,IEEE International Conference on Emerging Technologies and Factory Automation,ETFA,,2025,0,0,,,,,,oGDa9y0RKw8J.2020,,,2025-09-13T21:56:10.714769
+404,900405,ACM Symposium on Eye Tracking Research & Applications,ETRA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+405,900406,IEEE European Test Symposium,ETS,,2025,0,0,,,,,,t9W1EjUjQrMJ.2024,ets,,2025-09-13T21:56:10.714769
+406,900407,IEEE/IFIP International Conferences on Embedded and Ubiquitous Computing,EUC,,2025,0,0,,,,,,,euc,,2025-09-13T21:56:10.714769
+407,900408,European Conference on Networks and Communications,EuCNC,,2025,0,0,,,,,,NcKP0_ggixQJ.2023,eucnc,,2025-09-13T21:56:10.714769
+408,900409,European Conference on Multi-Agent Systems,EUMAS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+409,900410,European Conference on Operational Research,EURO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+410,900411,"European Conference on Combinatorics, Graph Theory and Applications",EUROCOMB,,2025,0,0,,,,,,wn0aYglh-KMJ.2018,,,2025-09-13T21:56:10.714769
+411,900412,International Conference on Theory and Applications of Cryptographic Techniques,EUROCRYPT,,2025,0,0,,,,,,fsZsNTm7Eh8J.2024,eurocrypt,,2025-09-13T21:56:10.714769
+412,900413,European Association for Computer Graphics,EUROGRAPHICS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+413,900414,Eurohaptics,EUROHAPTICS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+414,900415,European MPI Users Group Meeting,EuroMPI,,2025,0,0,,,,,,eVYF6giBmnoJ.2018,pvm,,2025-09-13T21:56:10.714769
+415,900416,European Conference on Parallel Computing,EUROPAR,,2025,0,0,,,,,,tOMY2Y_aVTMJ.2023,europar,,2025-09-13T21:56:10.714769
+416,900417,European Conference on Pattern Languages of Programs,EuroPloP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+417,900418,European Conference on Software Process Improvement,EuroSPI,,2025,0,0,,,,,,NIvUXCf10OgJ.2024,eurospi,,2025-09-13T21:56:10.714769
+418,900419,European Conference on Computer Systems,EUROSYS,,2025,0,0,,,,,,8LhhnAnPYO8J.2023,eurosys,,2025-09-13T21:56:10.714769
+419,900420,EG/VGTC Conference on Visualization,EuroVis,,2025,0,0,,,,,,,vissym,,2025-09-13T21:56:10.714769
+420,900421,Conference of the European Society for Fuzzy Logic and Technology,EUSFLAT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+421,900422,European Signal Processing Conference,EUSIPCO,,2025,0,0,,,,,,oJ-ZYoNCyCQJ.2024,eusipco,,2025-09-13T21:56:10.714769
+422,900423,European Conference on the Applications of Evolutionary Computation,EVOAPPLICATIONS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+423,900424,European Conference on Evolutionary Computation in Combinatorial Optimization,EVOCOP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+424,900425,Embedded Word Conference,EWC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+425,900426,European Workshop on Software Defined Networks,EWSDN,,2025,0,0,,,,,,,ewsdn,,2025-09-13T21:56:10.714769
+426,900427,European Conference on Wireless Sensor Networks,EWSN,,2025,0,0,,,,,,sTp_oa_iyPIJ.2024,ewsn,,2025-09-13T21:56:10.714769
+427,900428,Experiment@ International Conference,EXP.AT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+428,900429,International Conference on Formal Aspects of Component Software,FACS,,2025,0,0,,,,,,1wsH4YLiPpcJ.2019,,,2025-09-13T21:56:10.714769
+429,900430,International Conference on Fundamental Approaches to Software Engineering,FASE,,2025,0,0,,,,,,KaKG4ZSdHz4J.2019,,,2025-09-13T21:56:10.714769
+430,900431,USENIX Conference on File and Storage Technologies,FAST,,2025,0,0,,,,,,,fast,,2025-09-13T21:56:10.714769
+431,900432,International Conference on Financial Cryptography and Data Security,FC,,2025,0,0,,,,,,gVeDacK3aQwJ.2024,fc,,2025-09-13T21:56:10.714769
+432,900433,IEEE Annual International Symposium on Field-Programmable Custom Computing Machines,FCCM,,2025,0,0,,,,,,uLGTNGzfRS0J.2024,fccm,,2025-09-13T21:56:10.714769
+433,900434,International Symposium on Fundamentals of Computation Theory,FCT,,2025,0,0,,,,,,,fct,,2025-09-13T21:56:10.714769
+434,900435,International Conference on Fuzzy Computation Theory and Applications,FCTA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+435,900436,Foundations of Digital Games,FDG,,2025,0,0,,,,,,,fdg,,2025-09-13T21:56:10.714769
+436,900437,Forum on Specification and Design Languages,FDL,,2025,0,0,,,,,,,fdl,,2025-09-13T21:56:10.714769
+437,900438,International Conference on Frontiers in Education: Computer Science and Computer Engineering,FECS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+438,900439,Federated Conference on Computer Science and Information Systems,FEDCSIS,,2025,0,0,,,,,,PHUeOJr2y-EJ.2024,fedcsis,,2025-09-13T21:56:10.714769
+439,900440,IEEE International Conference on Automatic Face and Gesture Recognition,FGR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+440,900441,International Conference on Future Internet of Things and Cloud,FiCloud,,2025,0,0,,,,,,qesER2iEwMYJ.2023,ficloud,,2025-09-13T21:56:10.714769
+441,900442,IEEE Frontiers in Education Conference,FIE,,2025,0,0,,,,,,G1RhimMOm2wJ.2024,fie,,2025-09-13T21:56:10.714769
+442,900443,International Conference on Forntiers of Information Technology,FIT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+443,900444,International Florida Artificial Intelligence Conference,FLAIRS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+444,900445,International Symposium on Functional and Logic Programming,FLOPS,,2025,0,0,,,,,,,flops,,2025-09-13T21:56:10.714769
+445,900446,International Symposium on Formal Methods,FM,,2025,0,0,,,,,,mvAUTVUvOS0J.2019,,,2025-09-13T21:56:10.714769
+446,900447,International Conference on Formal Methods in Computer-Aided Design,FMCAD,,2025,0,0,,,,,,s5Z0Q8BPlvwJ.2019,,,2025-09-13T21:56:10.714769
+447,900448,IEEE Annual Symposium on Foundations of Computer Science,FOCS,IEEE,2025,0,0,,,,,,QUcbc1kDDcEJ.2024,focs,,2025-09-13T21:56:10.714769
+448,900449,International Conference on Formal Ontology in Information Systems,FOIS,,2025,0,0,,,,,,,fois,,2025-09-13T21:56:10.714769
+449,900450,International Conference on Formal Methods in Software Engineering,FormaliSE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+450,900451,International Workshop on Feature-Oriented Software Development,FOSD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+451,900452,International Conference on Foundations of Software Science and Computation Structures,FoSSaCS,,2025,0,0,,,,,,q-MXMv7GdwAJ.2024,fossacs,,2025-09-13T21:56:10.714769
+452,900453,Symposium on Field Programmable Gate Arrays,FPGA,,2025,0,0,,,,,,X39h_ye2QL4J.2024,fpga,,2025-09-13T21:56:10.714769
+453,900454,International Conference on Field-Programmable Logic and Applications,FPL,,2025,0,0,,,,,,7JfwVbgjkZUJ.2024,fpl,,2025-09-13T21:56:10.714769
+454,900455,IEEE International Conference on Field-Programmable Technology,FPT,,2025,0,0,,,,,,WIezXfeOQkEJ.2024,fpt,,2025-09-13T21:56:10.714769
+455,900456,International Symposium on Frontiers of Combining Systems,FROCOS,,2025,0,0,,,,,,,frocos,,2025-09-13T21:56:10.714769
+456,900457,International Conference on Formal Structures for Computation and Deduction,FSCD,,2025,0,0,,,,,,,fscd,,2025-09-13T21:56:10.714769
+457,900458,Fast Software Encryption,FSE,,2025,0,0,,,,,,u0EMblNmhEoJ.2018,fse,,2025-09-13T21:56:10.714769
+458,900459,ACM International Conference on the Foundations of Software Engineering (FSE) ,FSE,,2025,0,0,,,,,,u0EMblNmhEoJ.2018,fse,,2025-09-13T21:56:10.714769
+459,900460,International Conference on Fundamentals of Software Engineering,FSEN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+460,900461,Conference on Field and Service Robotics,FSR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+461,900462,Future Technologies Conference,FTC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+462,900463,International Conference on Fun with Algorithms,FUN,,2025,0,0,,,,,,,fun,,2025-09-13T21:56:10.714769
+463,900464,International Conference on Information Fusion,FUSION,,2025,0,0,,,,,,eAoE06EVARcJ.2020,,,2025-09-13T21:56:10.714769
+464,900465,IEEE International Conference on Fuzzy Systems,FUZZ,,2025,0,0,,,,,,sateOX2Ni50J.2024,fuzzIEEE,,2025-09-13T21:56:10.714769
+465,900466,Conference on Decision and Game Theory for Security,GameSec,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+466,900467,International Workshop on Games and Software Engineering,GAS,,2025,0,0,,,,,,,icse-gas,,2025-09-13T21:56:10.714769
+467,900468,International Workshop on Graph-Based Representations in Pattern Recognition,GbRPR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+468,900469,Genetic and Evolutionary Computation Conference,GECCO,,2025,0,0,,,,,,pQVER_ii7sMJ.2024,gecco,,2025-09-13T21:56:10.714769
+469,900470,"International Conference on Economics of Grids, Clouds, Systems and Services",GECON,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+470,900471,Global Experimentation for Future Internet,GEFI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+471,900472,"IEEE Games, Entertainment, Media Conference",GEM,,2025,0,0,,,,,,,gamesem,,2025-09-13T21:56:10.714769
+472,900473,International Workshop on AI for Geographic Knowledge Discovery,GeoAI,,2025,0,0,,,,,,,geoai,,2025-09-13T21:56:10.714769
+473,900474,Geographic Object-based Image Analysis,GEOBIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+474,900475,Brazilian Symposium on GeoInformatics,GEOINFO,,2025,0,0,,,,,,,geoinfo,,2025-09-13T21:56:10.714769
+475,900476,"IARIA International Conference on Advanced Geographic Information Systems, Applications, and Services",GeoPROCESSING-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+476,900477,International Workshop on Geospatial Simulation,GeoSim,,2025,0,0,,,,,,,geosim,,2025-09-13T21:56:10.714769
+477,900478,Graphics Interface Conference,GI,,2025,0,0,,,,,,,graphicsinterface,,2025-09-13T21:56:10.714769
+478,900479,Global Information Infrastructure and Networking Symposium,GIIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+479,900480,Workshop on Geographic Information Retrieval,GIR,,2025,0,0,,,,,,,gir,,2025-09-13T21:56:10.714769
+480,900481,International Conference on Geographic Information Science,GIScience,,2025,0,0,,,,,,_va3nqyJpWMJ.2024,giscience,,2025-09-13T21:56:10.714769
+481,900482,Global Conference on Signal and Information Processing,GLOBALSIP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+482,900483,IEEE Global Communications Conference,GLOBECOM,,2025,0,0,,,,,,pZS97tVVUCgJ.2023,globecom,,2025-09-13T21:56:10.714769
+483,900484,Great Lakes Symposium on VLSI,GLSVLSI,,2025,0,0,,,,,,pmoNNwZxCvUJ.2024,glvlsi,,2025-09-13T21:56:10.714769
+484,900485,International Conference on Grid And Pervasive Computing,GPC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+485,900486,ACM International Conference on Generative Programming: Concepts and Experiences,GPCE,,2025,0,0,,,,,,,gpce,,2025-09-13T21:56:10.714769
+486,900487,International Conference on Computer Graphics Theory and Applications,GRAPP,,2025,0,0,,,,,,ulaSNA5ZgjEJ.2024,grapp,,2025-09-13T21:56:10.714769
+487,900488,IEEE International Conference on Green Computing and Communications,GreenCom,,2025,0,0,,,,,,,greencom,,2025-09-13T21:56:10.714769
+488,900489,International Conference on Supporting Group Work,GROUP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+489,900490,Workshop on New Directions in Geovisual Analytics,GVIZ,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+490,900491,International Global Wordnet Conference,GWN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+491,900492,International Conference on Hybrid Artificial Intelligence Systems,HAIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+492,900493,IEEE Haptics Symposium,HAPTICS,,2025,0,0,,,,,,,haptics,,2025-09-13T21:56:10.714769
+493,900494,IEEE International Symposium on High Assurance Systems Engineering,HASE,,2025,0,0,,,,,,EhHHXze7CIMJ.2021,hase,,2025-09-13T21:56:10.714769
+494,900495,AAAI Conference on Human Computation and Crowdsourcing,HCOMP,,2025,0,0,,,,,,,hcomp,,2025-09-13T21:56:10.714769
+495,900496,International Conference on Human-Centered Software Engineering,HCSE,,2025,0,0,,,,,,,hcse,,2025-09-13T21:56:10.714769
+496,900497,"IEEE International Conference on E-health Networking, Application & Services",HEALTHCOM,,2025,0,0,,,,,,MfW4vBJSWVEJ.2023,healthcom,,2025-09-13T21:56:10.714769
+497,900498,International Conference on Health Informatics,HEALTHINF,,2025,0,0,,,,,,kQsANTx_InUJ.2024,biostec,,2025-09-13T21:56:10.714769
+498,900499,"International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing",HEALTHINFO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+499,900500,Hawaii International Conference on System Sciences,HICSS,,2025,0,0,,,,,,6wBd043QhTIJ.2024,hicss,,2025-09-13T21:56:10.714769
+500,900501,Workshop on Human-In-the-Loop Data Analytics,HILDA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+501,900502,International Conference on Health Informatics and Medical Systems,HIMS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+502,900503,IEEE International Conference on High Performance Computing,HIPC,,2025,0,0,,,,,,rjLGlFQoqI8J.2018,hipc,,2025-09-13T21:56:10.714769
+503,900504,International Conference on Hybrid Intelligent Systems,HIS,,2025,0,0,,,,,,hF3Mhj6UPToJ.2024,his,,2025-09-13T21:56:10.714769
+504,900505,International Workshop on Hybrid Metaheuristics,HM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+505,900506,IEEE International Symposium on Hardware Oriented Security and Trust,HOST,,2025,0,0,,,,,,_3T_r4GbfNcJ.2024,host,,2025-09-13T21:56:10.714769
+506,900507,ACM Workshop on Hot Topics in Networks,HOTNETS,,2025,0,0,,,,,,wWkh60cbs_oJ.2023,hotnets,,2025-09-13T21:56:10.714769
+507,900508,IEEE International Symposium on High Performance Computer Architecture,HPCA,,2025,0,0,,,,,,oRj0q6yVVdsJ.2024,hpca,,2025-09-13T21:56:10.714769
+508,900509,International Conference on High Performance Computing and Communications,HPCC,,2025,0,0,,,,,,5z01YqRLwlYJ.2024,hpcc,,2025-09-13T21:56:10.714769
+509,900510,International Conference on High Performance Computing & Simulation,HPCS,,2025,0,0,,,,,,BegUMfxqGy4J.2024,ieeehpcs,,2025-09-13T21:56:10.714769
+510,900511,International Symposium on High Performance Distributed Computing,HPDC,,2025,0,0,,,,,,VcBBCUw4gmMJ.2023,hpdc,,2025-09-13T21:56:10.714769
+511,900512,IEEE High Performance Switching and Routing,HPSR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+512,900513,ACM/IEEE International Conference on Human Robot Interaction,HRI,,2025,0,0,,,,,,ywdGSlWdBhkJ.2024,hri,,2025-09-13T21:56:10.714769
+513,900514,Haskell Symposium,HS,,2025,0,0,,,,,,,haskell,,2025-09-13T21:56:10.714769
+514,900515,International Conference on Hybrid Systems: Computation and Control,HSCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+515,900516,ACM Conference on Hypertext and Social Media,HT,,2025,0,0,,,,,,U4LFuNlM8GMJ.2024,ht,,2025-09-13T21:56:10.714769
+516,900517,IEEE RAS International Conference on Humanoid Robot,Humanoids,,2025,0,0,,,,,,cvOaqvRdsZQJ.2020,,,2025-09-13T21:56:10.714769
+517,900519,"International Symposium on Artificial Intelligence, Robotics and Automation in Space",i-SAIRAS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+518,900520,"Interservice/Industry Training, Simulation & Education Conference",I/ITSEC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+519,900521,IEEE International Instrumentation and Measurement Technology Conference,I2MTC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+520,900522,ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games,I3D,,2025,0,0,,,,,,,si3d,,2025-09-13T21:56:10.714769
+521,900523,International Conference of the Italian Association for Artificial Intelligence,IAAI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+522,900524,Industry Applications Society Annual Meeting,IAS,,2025,0,0,,,,,,,ias,,2025-09-13T21:56:10.714769
+523,900525,IFAC Symposium on Intelligent Autonomous Vehicles,IAV,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+524,900526,Ibero-American Conference on Artificial Intelligence,IBERAMIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+525,900527,Workshop Iberchip,IBERCHIP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+526,900528,IEEE International Conference on Cloud Engineering,IC2E,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+527,900529,"International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",IC3K,,2025,0,0,,,,,,vt63wi0KkScJ.2024,ic3k,,2025-09-13T21:56:10.714769
+528,900530,International Conference on Algorithms and Architectures for Parallel Processing,ICA3PP,,2025,0,0,,,,,,SrrjCUAZeRcJ.2024,ica3pp,,2025-09-13T21:56:10.714769
+529,900531,International Conference on Agents and Artificial Intelligence,ICAART,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+530,900532,International Conference on Applied Informatics,ICAI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+531,900533,International Conference on Artificial Intelligence and Soft Computing,ICAISC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+532,900534,International Conference on Artificial Intelligence,ICAIWC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+533,900535,"International Colloquium on Automata, Languages, and Programming",ICALP,,2025,0,0,,,,,,-jyI22RzDikJ.2024,icalp,,2025-09-13T21:56:10.714769
+534,900536,IEEE International Conference on Advanced Learning Technologies,ICALT,,2025,0,0,,,,,,-QH-Ge-vaUsJ.2024,icalt,,2025-09-13T21:56:10.714769
+535,900537,International Conference on Artificial Neural Networks,ICANN,,2025,0,0,,,,,,Tt40B1pBgEEJ.2024,icann,,2025-09-13T21:56:10.714769
+536,900538,International Conference on Automated Planning and Scheduling,ICAPS,,2025,0,0,,,,,,Mr2FEgodZ4QJ.2024,icaps,,2025-09-13T21:56:10.714769
+537,900539,International Conference on Advanced Robotics,ICAR,,2025,0,0,,,,,,QTCI2sX39qUJ.2024,icar,,2025-09-13T21:56:10.714769
+538,900540,"International Conference on Automation, Robotics and Applications",ICARA,,2025,0,0,,,,,,Pbr-U05RvUoJ.2020,,,2025-09-13T21:56:10.714769
+539,900541,International Conference on Advanced Robotics and Mechatronics,ICARM,,2025,0,0,,,,,,2ZThoUFv558J.2020,,,2025-09-13T21:56:10.714769
+540,900542,International Conference on Artificial Life and Robotics,ICAROB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+541,900543,IEEE International Conference on Autonomous Robot Systems and Competitions,ICARSC,,2025,0,0,,,,,,heT8SiJEaWsJ.2020,,,2025-09-13T21:56:10.714769
+542,900544,"International Conference on Control, Automation, Robotics and Vision",ICARV,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+543,900545,IARIA International Conference on Autonomic and Autonomous Systems,ICAS-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+544,900546,"IEEE International Conference on Acoustics, Speech and Signal Processing",ICASSP,,2025,0,0,,,,,,HHC6AUo36fEJ.2023,icassp,,2025-09-13T21:56:10.714769
+545,900547,International Conference on Biometrics,ICB,,2025,0,0,,,,,,,icb,,2025-09-13T21:56:10.714769
+546,900548,IEEE International Conference on Blockchain and Cryptocurrency,ICBC,,2025,0,0,,,,,,Hh3XGFymILkJ.2024,icbc2,,2025-09-13T21:56:10.714769
+547,900549,International Conference on Biomedical Signal and Image Processing,ICBIP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+548,900550,International Conference on Big Knowledge,ICBK,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+549,900551,International Conference on Interactive Collaborative and Blended Learning,ICBL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+550,900552,IEEE International Conference on Communications,ICC,,2025,0,0,,,,,,RIbmH16J7yoJ.2023,icc,,2025-09-13T21:56:10.714769
+551,900553,IEEE International Conference on Control and Automation,ICCA,,2025,0,0,,,,,,3EfEMUAKK7wJ.2020,,,2025-09-13T21:56:10.714769
+552,900554,International Conference on Computational Advances in Bio and Medical Sciences,ICCABS,,2025,0,0,,,,,,QQeDv53tlF0J.2019,,,2025-09-13T21:56:10.714769
+553,900555,IEEE/ACM International Conference on Computer-Aided Design,ICCAD,,2025,0,0,,,,,,4CNgrChSeFwJ.2024,iccad,,2025-09-13T21:56:10.714769
+554,900556,"International Conference on Control, Automation and Robotics",ICCAR,,2025,0,0,,,,,,VHOTIHOcvjcJ.2020,,,2025-09-13T21:56:10.714769
+555,900557,International Conference on Computational Creativity,ICCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+556,900558,International Conference on Computing in Civil and Building Engineering,ICCCBE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+557,900559,International Conference on Computer Communications and Networks,ICCCN,,2025,0,0,,,,,,DstJkgVOjywJ.2023,icccn,,2025-09-13T21:56:10.714769
+558,900560,International Conference on Computer Design,ICCD,,2025,0,0,,,,,,gt4MHCWp_ckJ.2024,iccd,,2025-09-13T21:56:10.714769
+559,900561,"International Caribbean Conference on Devices, Circuits and Systems",ICCDCS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+560,900562,International Conference on Computers in Education,ICCE-EDU,,2025,0,0,,,,,,,icce,,2025-09-13T21:56:10.714769
+561,900563,"International Conference on Computing, Electronics & Communications Engineering",iCCECE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+562,900564,International Conference on Computers Helping People with Special Needs,ICCHP,,2025,0,0,,,,,,W0UcbMjBS4MJ.2024,icchp,,2025-09-13T21:56:10.714769
+563,900565,International Conference on Computational Logistics,ICCL2,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+564,900566,IEEE International Conference on Intelligent Computer Communication and Processing,ICCP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+565,900567,International Conference on Computing and Pattern Recognition,ICCPR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+566,900568,International Conference on Cyber-Physical Systems,ICCPS,,2025,0,0,,,,,,GtwA7m_XqZUJ.2024,iccps,,2025-09-13T21:56:10.714769
+567,900569,International Conference on Computational Science,ICCS,,2025,0,0,,,,,,,iccS,,2025-09-13T21:56:10.714769
+568,900570,International Conference on Computational Science and Its Applications,ICCSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+569,900571,"International Conference on Communications, Signal Processing, and their Applications",ICCSPA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+570,900572,International Conference on Conceptual Structures,ICCStr,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+571,900573,"International Conference on Computability Theory, Computability and Complexity",ICCTCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+572,900574,IEEE International Conference on Computer Vision,ICCV,,2025,0,0,,,,,,Umlb1kMURG4J.2024,iccv,,2025-09-13T21:56:10.714769
+573,900575,IEEE International Conference on Computer Vision Workshops,ICCVW,,2025,0,0,,,,,,1h7Rot6-J5EJ.2024,iccv,,2025-09-13T21:56:10.714769
+574,900576,IEEE International Conference on Communications Workshops,ICCW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+575,900577,International Conference on Document Analysis and Recognition,ICDAR,,2025,0,0,,,,,,HF-0Hiax7t8J.2024,icdar,,2025-09-13T21:56:10.714769
+576,900578,International Conference on Distributed Computing and Networking,ICDCN,,2025,0,0,,,,,,6yOnSpL6IYsJ.2024,icdcn,,2025-09-13T21:56:10.714769
+577,900579,International Conference on Distributed Computing Systems,ICDCS,,2025,0,0,,,,,,CiHz08Ia1nsJ.2024,icdcs,,2025-09-13T21:56:10.714769
+578,900580,International Conference on Distributed Computing Systems Workshops,ICDCSW,,2025,0,0,,,,,,iYMCTRkCEn4J.2019,icdcs,,2025-09-13T21:56:10.714769
+579,900581,IEEE International Conference on Data Engineering,ICDE,,2025,0,0,,,,,,,icde,,2025-09-13T21:56:10.714769
+580,900582,IFIP International Conference on Digital Forensics,ICDF,,2025,0,0,,,,,,-4oZh5Q9EIcJ.2019,ifip11-9,,2025-09-13T21:56:10.714769
+581,900583,International Conference on Digital Information Management,ICDIM,,2025,0,0,,,,,,,icdim,,2025-09-13T21:56:10.714769
+582,900584,International Conference on Digital Image Processing,ICDIP,,2025,0,0,,,,,,Zv1cF-tcqjsJ.2024,icdip,,2025-09-13T21:56:10.714769
+583,900585,IEEE International Conference on Development and Learning and Epigenetic Robotics,ICDL-EpiRob,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+584,900586,IEEE International Conference on Data Mining,ICDM,,2025,0,0,,,,,,A0l3VPFKwDYJ.2024,icdm,,2025-09-13T21:56:10.714769
+585,900587,IEEE International Conference on Data Mining Workshop,ICDMW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+586,900588,International Conference on Database Theory,ICDT,,2025,0,0,,,,,,,icdt,,2025-09-13T21:56:10.714769
+587,900589,"International Conference on Emerging Trends in Computing, Communication and Nanotechnology",ICE-CCN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+588,900590,IEEE International Conference on e-Business Engineering,ICEBE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+589,900591,IFIP International Conference on Entertainment Computing,ICEC,,2025,0,0,,,,,,,iwec,,2025-09-13T21:56:10.714769
+590,900592,"IEEE International Conference on Electronics, Circuits and Systems",ICECS,,2025,0,0,,,,,,9Io6PPD79ysJ.2024,icecsys,,2025-09-13T21:56:10.714769
+591,900593,International Conference on eDemocracy & eGovernment,ICEDEG,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+592,900594,International Conference on Theory and Practice of Eletronic Governance,ICEGOV,,2025,0,0,,,,,,CvhnNEBhA8sJ.2024,icegov,,2025-09-13T21:56:10.714769
+593,900595,International Conference on Enterprise Information Systems,ICEIS,,2025,0,0,,,,,,zsGWp1QJr3AJ.2024,iceis,,2025-09-13T21:56:10.714769
+594,900596,International Computing Education Research,ICER,,2025,0,0,,,,,,v0xCU4OEvKUJ.2024,icer,,2025-09-13T21:56:10.714769
+595,900597,"International Conference of Education, Research and Innovation",ICERI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+596,900598,International Conference on Formal Concept Analysis,ICFCA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+597,900599,International Conference on Formal Engineering Methods,ICFEM,,2025,0,0,,,,,,LIYEKQ4Mf5YJ.2019,,,2025-09-13T21:56:10.714769
+598,900600,International Conference on Frontiers in Handwriting Recognition,ICFHR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+599,900601,International Conference on Future Networks and Distributed Systems,ICFNDS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+600,900602,International Conference on Functional Programming,ICFP,,2025,0,0,,,,,,uAiqErfInCIJ.2019,icfp,,2025-09-13T21:56:10.714769
+601,900603,International Conference on Grammatical Inference,ICGI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+602,900604,"International Conference on Game Jams, Hackathons, and Game Creation Events",ICGJ,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+603,900605,IEEE International Conference on Global Software Engineering,ICGSE,,2025,0,0,,,,,,,icgse,,2025-09-13T21:56:10.714769
+604,900606,International Conference on Graph Transformation,ICGT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+605,900607,IEEE International Conference on Healthcare Informatics,ICHI,,2025,0,0,,,,,,B2gupySN5PsJ.2024,ichi,,2025-09-13T21:56:10.714769
+606,900608,International Conference on Image Analysis and Processing,ICIAP,,2025,0,0,,,,,,KC9Tb2aNScwJ.2024,iciap,,2025-09-13T21:56:10.714769
+607,900609,International Conference on Image Analysis and Recognition,ICIAR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+608,900610,International Conference on Intelligent Computing,ICIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+609,900611,International Conference on Information and Communications Security,ICICS,,2025,0,0,,,,,,PlU5605zcRkJ.2024,icics,,2025-09-13T21:56:10.714769
+610,900612,International Conference on Information and Computer Technologies,ICICT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+611,900613,International Conference on Interactive Digital Storytelling,ICIDS,,2025,0,0,,,,,,,icids,,2025-09-13T21:56:10.714769
+612,900614,"International Conference on Innovations in Information, Embedded and Communication Systems",ICIIECS,,2025,0,0,,,,,,j_CZ9hAXkzIJ.2022,,,2025-09-13T21:56:10.714769
+613,900615,"International Conference on Informatics in Control, Automation and Robotics",ICINCO,,2025,0,0,,,,,,hedKTD2-CbAJ.2020,,,2025-09-13T21:56:10.714769
+614,900616,International Conference on the Internet of Things,ICIOT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+615,900617,IEEE International Conference on Image Processing,ICIP,,2025,0,0,,,,,,a9ZSGA40nccJ.2024,icip,,2025-09-13T21:56:10.714769
+616,900618,International Conference on Intelligent Robotics and Applications,ICIRA,,2025,0,0,,,,,,zwftP5XWkKIJ.2020,,,2025-09-13T21:56:10.714769
+617,900619,International Conference on Information Systems,ICIS,,2025,0,0,,,,,,hL4tvEz50McJ.2024,icis,,2025-09-13T21:56:10.714769
+618,900620,International Conference on Information Security and Cryptology,ICISC,,2025,0,0,,,,,,MSHaZsrVGwsJ.2024,icisc,,2025-09-13T21:56:10.714769
+619,900621,International Conference on Informatics and Semiotics in Organisations,ICISO,,2025,0,0,,,,,,,iciso,,2025-09-13T21:56:10.714769
+620,900622,International Conference on Information Systems Security,ICISS,,2025,0,0,,,,,,p8h6FO7flgIJ.2021,iciss,,2025-09-13T21:56:10.714769
+621,900623,International Conference on Information and Software Technologies,ICIST,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+622,900624,IEEE International Conference on Industrial Technology,ICIT,,2025,0,0,,,,,,LumpKNGPVQMJ.2024,icit,,2025-09-13T21:56:10.714769
+623,900625,International Conference on Information Theoretic Security,ICITS,,2025,0,0,,,,,,DX1aBBbAiv8J.2024,,,2025-09-13T21:56:10.714769
+624,900626,International Conference for Internet Technology and Secured Transactions,ICITST,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+625,900627,"International Conference on Image, Vision and Computing",ICIVC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+626,900628,International Conference on Interactive Collaborative Learning,ICL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+627,900629,International Conference on Logic Programming,ICLP,,2025,0,0,,,,,,,iclp,,2025-09-13T21:56:10.714769
+628,900630,International Conference on Learning Representations,ICLR,,2025,0,0,,,,,,0032SoU2xY4J.2024,iclr,,2025-09-13T21:56:10.714769
+629,900631,International Conference on Microelectronics,ICM,,2025,0,0,,,,,,Im4h2DUUqYEJ.2024,icm2,,2025-09-13T21:56:10.714769
+630,900632,IEEE International Conference on Mechatronics and Automation,ICMA,,2025,0,0,,,,,,jeVF5tN0JH4J.2020,,,2025-09-13T21:56:10.714769
+631,900633,International Computer Music Conference,ICMC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+632,900634,"International Conference on Mechatronics, Control and Robotics",ICMCR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+633,900635,IEEE International Conference on Multimedia and Expo,ICME,,2025,0,0,,,,,,xYXdFLRJbCMJ.2024,icmcs,,2025-09-13T21:56:10.714769
+634,900636,IEEE International Conference on Multimedia and Expo Workshops,ICMEW,,2025,0,0,,,,,,Nb-CRah8-lcJ.2023,,,2025-09-13T21:56:10.714769
+635,900637,ACM International Conference on Multimodal Interfaces,ICMI,,2025,0,0,,,,,,FeNM07eYolwJ.2024,icmi,,2025-09-13T21:56:10.714769
+636,900638,International Conference on Mathematics & Information Science,ICMIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+637,900639,International Conference on Machine Learning,ICML,,2025,0,0,,,,,,wL2oxc9mT4YJ.2024,icml,,2025-09-13T21:56:10.714769
+638,900640,IEEE International Conference on Machine Learning and Applications,ICMLA,,2025,0,0,,,,,,jv1gvzv4-LgJ.2024,icmla,,2025-09-13T21:56:10.714769
+639,900641,International Conference on Machine Learning and Computing,ICMLC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+640,900642,International Conference on Music Perception and Cognition,ICMPC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+641,900643,ACM International Conference on Multimedia Retrieval,ICMR,,2025,0,0,,,,,,_3Q9NfFmueMJ.2024,mir,,2025-09-13T21:56:10.714769
+642,900644,IARIA International Conference on Networks,ICN-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+643,900645,"International Conference on Computing, Networking and Communications",ICNC,,2025,0,0,,,,,,dHfyvFtXJEcJ.2023,icnc,,2025-09-13T21:56:10.714769
+644,900646,"International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery",ICNC-FSKD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+645,900647,International Conference on Network Protocols,ICNP,,2025,0,0,,,,,,uhUmlwFgx3kJ.2023,icnp,,2025-09-13T21:56:10.714769
+646,900648,"IEEE International Conference on Networking, Sensing and Control",ICNSC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+647,900649,International Conference on Information Networking,ICOIN,,2025,0,0,,,,,,5Xez39t0_4UJ.2023,icoin,,2025-09-13T21:56:10.714769
+648,900650,International Conference on Internet Computing and Internet of Things,ICOMP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+649,900651,International Conference on Neural Information Processing,ICONIP,,2025,0,0,,,,,,sz4vWIwy-_cJ.2024,iconip,,2025-09-13T21:56:10.714769
+650,900652,International Conference on Operations Research and Enterprise Systems,ICORES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+651,900653,IEEE International Conference on Rehabilitation Robotics,ICORR,,2025,0,0,,,,,,w8zcF49hRv8J.2020,,,2025-09-13T21:56:10.714769
+652,900654,International Conference on Parallel and Distributed Systems,ICPADS,,2025,0,0,,,,,,J2WvLRIhE6UJ.2024,,,2025-09-13T21:56:10.714769
+653,900655,International Conference on Program Comprehension,ICPC,,2025,0,0,,,,,,Q7aNVRgyGrYJ.2024,iwpc,,2025-09-13T21:56:10.714769
+654,900656,International Conference on Performance Engineering,ICPE,,2025,0,0,,,,,,nS824tflG3QJ.2024,wosp,,2025-09-13T21:56:10.714769
+655,900657,"International Conference on Philosophy, Music and Emotion",ICPME,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+656,900658,International Conference on Parallel Processing,ICPP,,2025,0,0,,,,,,x2Xq7JEL5msJ.2024,icpp,,2025-09-13T21:56:10.714769
+657,900659,International Conference on Pattern Recognition,ICPR,,2025,0,0,,,,,,cVHg_1PrXPkJ.2024,icpr,,2025-09-13T21:56:10.714769
+658,900660,IEEE International Conference on Robotics and Automation,ICRA,,2025,0,0,,,,,,5FWz4DClk1YJ.2024,icra,,2025-09-13T21:56:10.714769
+659,900661,International Conference on Robotics and Automation Engineering,ICRAE,,2025,0,0,,,,,,U0jXyBJv17EJ.2020,,,2025-09-13T21:56:10.714769
+660,900662,IEEE International Conference on Rebooting Computing,ICRC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+661,900663,International Conference on Robot Ethics and Standards,ICRES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+662,900664,International Conference on Supercomputing,ICS,,2025,0,0,,,,,,3tXj5_VxBMkJ.2024,ics,,2025-09-13T21:56:10.714769
+663,900665,International Conference on Semantic Computing,ICSC,,2025,0,0,,,,,,xo4pTqxCvn8J.2024,icsc,,2025-09-13T21:56:10.714769
+664,900666,International Conference on Software Engineering,ICSE,,2025,0,0,,,,,,vtDF2hFAQ-cJ.2024,icse,,2025-09-13T21:56:10.714769
+665,900667,IARIA International Conference on Software Engineering Advances,ICSEA-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+666,900668,International Conference on Software Engineering and Service Science,ICSESS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+667,900669,International Conference on Software Engineering Workshops,ICSEW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+668,900670,International Conference on Swarm Intelligence,ICSI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+669,900671,IEEE International Conference on Signal and Image Processing,ICSIP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+670,900672,International Conference on Smart Learning Environments,ICSLE,,2025,0,0,,,,,,,icsle,,2025-09-13T21:56:10.714769
+671,900673,IEEE International Conference on Software Maintenance and Evolution,ICSME,,2025,0,0,,,,,,rYWnDlpKBukJ.2024,icsm,,2025-09-13T21:56:10.714769
+672,900674,International Conference on Software Business,ICSOB,,2025,0,0,,,,,,lySJ7rWrE4EJ.2024,icsob,,2025-09-13T21:56:10.714769
+673,900675,International Conference on Service Oriented Computing,ICSOC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+674,900676,International Conference on Software Technologies,ICSOFT,,2025,0,0,,,,,,3zneIArE2G0J.2024,icsoft,,2025-09-13T21:56:10.714769
+675,900677,"International Conference on Signal Processing, Communication, Power and Embedded System",ICSPCEC,,2025,0,0,,,,,,tS8iHNcH760J.2021,,,2025-09-13T21:56:10.714769
+676,900678,International Conference on Software Reuse,ICSR,,2025,0,0,,,,,,,icsr,,2025-09-13T21:56:10.714769
+677,900679,International Conference on Sensing Technology,ICST,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+678,900680,"IEEE International Conference on Software Testing, Verification and Validation",ICSTV,,2025,0,0,,,,,,DQUq5mthvPAJ.2024,icst,,2025-09-13T21:56:10.714769
+679,900681,"IEEE International Conference on Software Testing, Verification and Validation Workshops",ICSTW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+680,900682,International Conference on Telecommunications,ICT,,2025,0,0,,,,,,,ict,,2025-09-13T21:56:10.714769
+681,900683,International Colloquium on Theoretical Aspects of Computing,ICTAC,,2025,0,0,,,,,,foujqxJmEBEJ.2019,,,2025-09-13T21:56:10.714769
+682,900684,IEEE International Conference on Tools with Artificial Intelligence,ICTAI,,2025,0,0,,,,,,7SUUxQF2w2cJ.2024,ictai,,2025-09-13T21:56:10.714769
+683,900685,International Conference on Information and Communication Technology Convergence,ICTC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+684,900686,Italian Conference on Theoretical Computer Science,ICTCS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+685,900687,Conference on the Theory of Information Retrieval,ICTIR,,2025,0,0,,,,,,,ictir,,2025-09-13T21:56:10.714769
+686,900688,International Conference on Transparent Optical Networks,ICTON,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+687,900689,IFIP International Conference on Testing Software and Systems,ICTSS,,2025,0,0,,,,,,,pts,,2025-09-13T21:56:10.714769
+688,900690,International Conference on Unmanned Aircraft Systems,ICUAS,,2025,0,0,,,,,,P7JmirE2spgJ.2024,,,2025-09-13T21:56:10.714769
+689,900691,International Conference on Ultra Modern Telecommunications,ICUMT,,2025,0,0,,,,,,Lpmu4bd0tVsJ.2023,icumt,,2025-09-13T21:56:10.714769
+690,900692,International Conference on Visualization: Imaging and Image Processing,ICVIIP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+691,900693,International Conference on Virtual Rehabilitation,ICVR,,2025,0,0,,,,,,rw5ieHT7BnMJ.2024,,,2025-09-13T21:56:10.714769
+692,900694,International Conference on Virtual Reality and Visualization,ICVRV,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+693,900695,International Conference on Computer Vision Systems,ICVS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+694,900696,International Conference on Web Engineering,ICWE,,2025,0,0,,,,,,I8L8xmsrq2EJ.2024,icwe,,2025-09-13T21:56:10.714769
+695,900697,International Conference on Web-Based Learning,ICWL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+696,900698,International Conference on Wireless Networks,ICWN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+697,900699,IEEE International Conference on Web Services,ICWS,,2025,0,0,,,,,,UYzshLpmx2EJ.2024,icws,,2025-09-13T21:56:10.714769
+698,900700,International AAAI Conference on Web and Social Media,ICWSM,,2025,0,0,,,,,,eH4qSzdbVtwJ.2023,icwsm,,2025-09-13T21:56:10.714769
+699,900701,International Symposium on Intelligent Distributed Computing,IDC,,2025,0,0,,,,,,6bHuP8hpZRIJ.2024,acmidc,,2025-09-13T21:56:10.714769
+700,900702,International Conference on Internet and Distributed Computing Systems,IDCS,,2025,0,0,,,,,,,idcs,,2025-09-13T21:56:10.714769
+701,900703,International Database Engineering and Applications Symposium,IDEAS,,2025,0,0,,,,,,,ideas,,2025-09-13T21:56:10.714769
+702,900704,International Conference on Industrial Engineering & Other Applications of Appled Intelligence Systems,IEAAIE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+703,900705,Annual Conference of the IEEE Industrial Electronics Society,IECON,,2025,0,0,,,,,,j7dS7aP2eTEJ.2020,,,2025-09-13T21:56:10.714769
+704,900706,IEEE International Conference on Imaging Systems and Techniques,IEEE IST,,2025,0,0,,,,,,Q_PhJS0hr7sJ.2024,ist,,2025-09-13T21:56:10.714769
+705,900707,IEEE Conference on Nanotechnology,IEEE NANO,,2025,0,0,,,,,,q_zVL_Uah5UJ.2024,,,2025-09-13T21:56:10.714769
+706,900708,IEEE Visualization,IEEE VIS,,2025,0,0,,,,,,ISkzejISPjIJ.2024,visualization,,2025-09-13T21:56:10.714769
+707,900709,IEEE Cloud Summit,IEEECloudS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+708,900710,IEEE International Symposium on Wearable Computers,IEEEISWC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+709,900711,International Conference on Nanotechnology,IEEENANO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+710,900712,IEEE International Conference on Services Computing,IEEESCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+711,900713,IFIP International Embedded Systems Symposium,IESS,,2025,0,0,,,,,,,iess,,2025-09-13T21:56:10.714769
+712,900714,"International Engineering, Sciences and Technology Conference",IESTEC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+713,900715,World Congress of the International Federation of Automatic Control,IFAC,,2025,0,0,,,,,,pq9AC66DKAMJ.2020,,,2025-09-13T21:56:10.714769
+714,900716,IFIP International Internet of Things Conference,IFIPIoT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+715,900717,IFIP International Information Security Conference,IFIPISC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+716,900718,International Conference on Integrated Formal Methods,IFM,,2025,0,0,,,,,,Gzge6qp3seEJ.2019,,,2025-09-13T21:56:10.714769
+717,900719,World Congress of International Fuzzy Systems Association,IFSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+718,900720,International Green and Sustainable Computing Conference,IGSC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+719,900721,ACM Workshop on Information Hiding and Multimedia Security,IH&MMSec,,2025,0,0,,,,,,VXpZxWaAe0QJ.2023,,,2025-09-13T21:56:10.714769
+720,900722,Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais,IHC,,2025,0,0,,,,,,jyopF_8JEZIJ.2024,ihc,,2025-09-13T21:56:10.714769
+721,900723,Conférence Francophone sur l’Interaction Homme-Machine,IHM,,2025,0,0,,,,,,,ihm,,2025-09-13T21:56:10.714769
+722,900724,International Conference on Intelligent Information Hiding and Multimedia Signal Processing,IIH-MSP,,2025,0,0,,,,,,glSJUMMggrUJ.2020,iih-msp,,2025-09-13T21:56:10.714769
+723,900725,"International Conference on Information, Intelligence, Systems and Applications",IISA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+724,900726,IEEE International Symposium on Workload Characterization,IISWC,,2025,0,0,,,,,,4qd95Riz9Y4J.2024,iiswc,,2025-09-13T21:56:10.714769
+725,900727,International Conference on Information Integration and Web-based Applications & Services,IIWAS,,2025,0,0,,,,,,Tq_VLYZkpzwJ.2024,iiwas,,2025-09-13T21:56:10.714769
+726,900728,International Joint Conference on Artificial Intelligence,IJCAI,,2025,0,0,,,,,,4HxsSu0PUdYJ.2024,ijcai,,2025-09-13T21:56:10.714769
+727,900729,International Joint Conference on Automated Reasoning,IJCAR,,2025,0,0,,,,,,,ijcar,,2025-09-13T21:56:10.714769
+728,900730,International Joint Conference on Computational Intelligence,IJCCI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+729,900731,International Joint Conference on Natural Language Processing,IJCNLP,,2025,0,0,,,,,,kYJHGA9yIBMJ.2024,ijcnlp,,2025-09-13T21:56:10.714769
+730,900732,IEEE International Joint Conference on Neural Networks,IJCNN,,2025,0,0,,,,,,-t1SY74YlYcJ.2024,ijcnn,,2025-09-13T21:56:10.714769
+731,900733,Interaction Latin America,ILA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+732,900734,International Conference on Inductive Logic Programming,ILP,,2025,0,0,,,,,,,ilp,,2025-09-13T21:56:10.714769
+733,900735,IFIP/IEEE International Symposium on Integrated Network Management,IM,,2025,0,0,,,,,,_XEusYoPeXgJ.2023,im,,2025-09-13T21:56:10.714769
+734,900736,International Symposium on Model-Based Safety and Assessment,IMBSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+735,900737,ACM Internet Measurement Conference,IMC,,2025,0,0,,,,,,Yh-Vy_bHNYMJ.2023,imc,,2025-09-13T21:56:10.714769
+736,900738,International Conference on Ubiquitous Information Management and Communication,IMCOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+737,900739,International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing,IMIS,,2025,0,0,,,,,,6Xfj7Y8gKaYJ.2023,imis,,2025-09-13T21:56:10.714769
+738,900740,SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference,IMOC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+739,900741,International Conference on Intelligent Networking and Collaborative Systems,INCOS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+740,900742,IEEE International Conference on Industrial Informatics,INDIN,,2025,0,0,,,,,,IRnEg4i2mP4J.2020,,,2025-09-13T21:56:10.714769
+741,900743,International Conference on Cryptology in India,INDOCRYPT,,2025,0,0,,,,,,NQGo0SktmDsJ.2024,indocrypt,,2025-09-13T21:56:10.714769
+742,900744,International Conference on Industry Applications,INDUSCON,,2025,0,0,,,,,,kHVE9lQrYc8J.2024,,,2025-09-13T21:56:10.714769
+743,900745,IEEE International Conference on Computer Communications,INFOCOM,,2025,0,0,,,,,,JMgzZsGYu14J.2023,infocom,,2025-09-13T21:56:10.714769
+744,900747,International Natural Language Generation conference,INLG,,2025,0,0,,,,,,WcIBEdCoDl0J.2024,inlg,,2025-09-13T21:56:10.714769
+745,900748,International Network Optimization Conference,INOC,,2025,0,0,,,,,,,inoc,,2025-09-13T21:56:10.714769
+746,900749,"International Symposium on Instrumentation Systems, Circuits and Transducers",INSCIT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+747,900750,International Conference on Innovative Computing Technology,INTECH,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+748,900751,SAI Intelligent Systems Conference,INTELLISYS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+749,900752,IFIP TC 13 International Conference on Human-Computer Interaction,INTERACT,,2025,0,0,,,,,,6hYO_ZiWs1YJ.2024,interact,,2025-09-13T21:56:10.714769
+750,900753,Conference of the International Speech Communication Association,INTERSPEECH,,2025,0,0,,,,,,ssdQ_yPkyjAJ.2024,interspeech,,2025-09-13T21:56:10.714769
+751,900754,INTelligent Embedded Systems Architectures and Applications Workshop,INTESA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+752,900755,IEEE International On-Line Testing Symposium,IOLTS,,2025,0,0,,,,,,0SR2S8_NVfUJ.2024,iolts,,2025-09-13T21:56:10.714769
+753,900756,Workshop on Internet of Things for Ambient Assisted Living,IoTAAL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+754,900757,International Conference on Internet of Things and Big Data and Security,IoTBDS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+755,900758,"International Conference on Internet of Things: Systems, Management and Security",IOTSMS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+756,900759,International Provenance and Annotation Workshop,IPAW,,2025,0,0,,,,,,,ipaw,,2025-09-13T21:56:10.714769
+757,900760,"International Performance, Computing, and Communications Conference",IPCCC,,2025,0,0,,,,,,LM8Vo6K7w5QJ.2023,ipccc,,2025-09-13T21:56:10.714769
+758,900761,Conference on Integer Programming and Combinatorial Optimization,IPCO,,2025,0,0,,,,,,_8wwFhBIq4cJ.2023,ipco,,2025-09-13T21:56:10.714769
+759,900762,"International Conference on Image Processing, Computer Vision, and Pattern Recognition",IPCVWC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+760,900763,International Population Data Linkage Network,IPDLN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+761,900764,IEEE International Parallel & Distributed Processing Symposium,IPDPS,,2025,0,0,,,,,,Cge5_JoKLicJ.2024,ipps,,2025-09-13T21:56:10.714769
+762,900765,IEEE International Parallel & Distributed Processing Symposium Workshops,IPDPSW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+763,900766,International Symposium on Parameterized and Exact Computation,IPEC,,2025,0,0,,,,,,omO5C9pkf-8J.2024,iwpec,,2025-09-13T21:56:10.714769
+764,900767,International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems,IPMU,,2025,0,0,,,,,,DxTMQsOcxf0J.2024,ipmu,,2025-09-13T21:56:10.714769
+765,900768,International Conference on Information Processing in Sensor Networks,IPSN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+766,900769,IEEE International Conference on Robotic Computing,IRC,,2025,0,0,,,,,,X5iIIuMWM_8J.2020,,,2025-09-13T21:56:10.714769
+767,900770,IEEE International Conference on Information Reuse and Integration,IRI,,2025,0,0,,,,,,,iri,,2025-09-13T21:56:10.714769
+768,900771,IEEE International Symposium on Robotics and Intelligent Sensors,IRIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+769,900772,IEEE/RSJ International Conference on Intelligent Robots and Systems,IROS,,2025,0,0,,,,,,QZ31s4XlF8EJ.2024,iros,,2025-09-13T21:56:10.714769
+770,900773,International Symposium on Algorithms and Computation,ISAAC,,2025,0,0,,,,,,REeNFlEptmgJ.2024,isaac,,2025-09-13T21:56:10.714769
+771,900774,International Symposium on Autonomous Decentralized Systems,ISADS,,2025,0,0,,,,,,,isads,,2025-09-13T21:56:10.714769
+772,900775,IEEE International Symposium on Assembly and Manufacturing,ISAM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+773,900776,International Symposium on Ambient Intelligence,ISAmI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+774,900777,International Conference on Intelligent System Applications to Power Systems,ISAP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+775,900778,International Static Analysis Symposium,ISAS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+776,900779,IEEE International Symposium on Biomedical Imaging,ISBI,,2025,0,0,,,,,,BvOzx47YdqIJ.2024,isbi,,2025-09-13T21:56:10.714769
+777,900780,International Symposium on Bioinformatics Research and Applications,ISBRA,,2025,0,0,,,,,,CYFIxMLpkUsJ.2019,,,2025-09-13T21:56:10.714769
+778,900781,International Supercomputing Conference,ISC,,2025,0,0,,,,,,Vnq3DIsft2YJ.2024,isw,,2025-09-13T21:56:10.714769
+779,900782,IEEE International Smart Cities Conference,ISC2,,2025,0,0,,,,,,yFTutsygf2gJ.2023,isc2,,2025-09-13T21:56:10.714769
+780,900783,International Symposium on Computer Architecture,ISCA,,2025,0,0,,,,,,-RiAttlQ-g0J.2024,isca,,2025-09-13T21:56:10.714769
+781,900784,IEEE International Symposium on Circuits and Systems,ISCAS,,2025,0,0,,,,,,V91jHpOGqs0J.2024,iscas,,2025-09-13T21:56:10.714769
+782,900785,International Symposium on Computers and Communications,ISCC,,2025,0,0,,,,,,0jK8bHjCH68J.2024,iscc,,2025-09-13T21:56:10.714769
+783,900786,International Symposium on Computer and Information Sciences,ISCIS,,2025,0,0,,,,,,,iscis,,2025-09-13T21:56:10.714769
+784,900787,International Symposium on Combinatorial Optimization,ISCO,,2025,0,0,,,,,,_nw1GAGIGkEJ.2019,isco,,2025-09-13T21:56:10.714769
+785,900788,International Conference on Information Systems for Crisis Response and Management,ISCRAM,,2025,0,0,,,,,,jpqK-S5bXocJ.2024,iscram,,2025-09-13T21:56:10.714769
+786,900789,International Conference on Information Systems Development,ISD,,2025,0,0,,,,,,IXwBVJe3Y30J.2024,isdevel,,2025-09-13T21:56:10.714769
+787,900790,International Conference on Intelligent Systems Design and Applications,ISDA,,2025,0,0,,,,,,vtykNI3af7IJ.2024,isda,,2025-09-13T21:56:10.714769
+788,900791,International Symposium on Electronic Arts,ISEA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+789,900792,International Conference on Information Security,ISeC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+790,900793,Information Systems Education Conference,ISECON,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+791,900794,International Symposium on Experimental Robotics,ISER,,2025,0,0,,,,,,ke1g66ZJCWoJ.2020,,,2025-09-13T21:56:10.714769
+792,900795,IEEE PES Innovative Smart Grid Technologies,ISGT,,2025,0,0,,,,,,9nASlar3rTYJ.2023,isgt,,2025-09-13T21:56:10.714769
+793,900796,IEEE PES Innovative Smart Grid Technologies Conference Europe,ISGT-Europe,,2025,0,0,,,,,,clIpBqTfgOsJ.2023,isgteurope,,2025-09-13T21:56:10.714769
+794,900797,IEEE PES Innovative Smart Grid Technologies Latin America,ISGT-LA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+795,900798,IEEE International Conference on Intelligence and Security Informatics,ISI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+796,900799,IEEE International Symposium on Industrial Electronics,ISIE,,2025,0,0,,,,,,nvZjR0BHub4J.2020,,,2025-09-13T21:56:10.714769
+797,900800,International Symposium on Low Power Electronics and Design,ISLPED,,2025,0,0,,,,,,NoKVsOmGgEMJ.2024,islped,,2025-09-13T21:56:10.714769
+798,900801,IEEE International Symposium on Multimedia,ISM,,2025,0,0,,,,,,np9OvZCkWLIJ.2023,ism,,2025-09-13T21:56:10.714769
+799,900802,IEEE International Symposium on Mixed and Augmented Reality,ISMAR,,2025,0,0,,,,,,saKKhfQeF-MJ.2024,ismar,,2025-09-13T21:56:10.714769
+800,900803,Intelligent Systems for Molecular Biology / European Conference on Computational Biology,ISMB/ECCB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+801,900804,International Symposium on Measurement and Control in Robotics,ISMCR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+802,900805,International Symposium on Memory Management,ISMEM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+803,900806,International Society for Music Information Retrieval Conference,ISMIR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+804,900807,International Symposium on Methodologies for Intelligent Systems,ISMIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+805,900808,International Symposium on Mathematical Morphology,ISMM,,2025,0,0,,,,,,gOjRemocSxMJ.2020,iwmm,,2025-09-13T21:56:10.714769
+806,900809,International Symposium on Medical Robotics,ISMR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+807,900810,"International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence",ISMSI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+808,900811,IEEE International Symposium on Multiple-Valued Logic,ISMVL,,2025,0,0,,,,,,K6125zrCIPYJ.2024,ismvl,,2025-09-13T21:56:10.714769
+809,900812,International Symposium on Neural Networks,ISNN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+810,900813,"International Symposium on Leveraging Applications of Formal Methods, Verification and Validation",ISOLA,,2025,0,0,,,,,,wOH94ungceEJ.2019,,,2025-09-13T21:56:10.714769
+811,900814,IEEE International Symposium on RealTime Distributed Computing,ISORC,,2025,0,0,,,,,,BsXPy-a3od0J.2024,isorc,,2025-09-13T21:56:10.714769
+812,900815,IEEE International Symposium on Performance Analysis of Systems and Software,ISPASS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+813,900816,ACM International Symposium on Physical Design,ISPD,,2025,0,0,,,,,,qcCDTf9GIAMJ.2024,ispd,,2025-09-13T21:56:10.714769
+814,900817,International Symposium on Parallel and Distributed Computing,ISPDC,,2025,0,0,,,,,,BZK2l1JW2UsJ.2024,ispdc,,2025-09-13T21:56:10.714769
+815,900818,International Symposium on Quality Electronic Design,ISQED,,2025,0,0,,,,,,CAKBHPJLxuMJ.2024,isqed,,2025-09-13T21:56:10.714769
+816,900819,IEEE International Conference on Intelligence and Safety for Robotics,ISR,,2025,0,0,,,,,,CVpdLFbXIAIJ.2020,,,2025-09-13T21:56:10.714769
+817,900820,International Symposium on Robotics Research,ISRR,,2025,0,0,,,,,,eX0qXcAClWoJ.2020,,,2025-09-13T21:56:10.714769
+818,900821,ACM International Conference on Interactive Surfaces and Spaces,ISS,,2025,0,0,,,,,,js1p_d4DBXkJ.2024,tabletop,,2025-09-13T21:56:10.714769
+819,900822,Information Security for South Africa,ISSA,,2025,0,0,,,,,,mjGhRMqAqs8J.2019,issa,,2025-09-13T21:56:10.714769
+820,900823,IEEE International Solid-State Circuits Conference,ISSCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+821,900824,International Society of Scientometrics and Informetrics Conference,ISSI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+822,900825,IEEE International Symposium on Software Reliability Engineering,ISSRE,,2025,0,0,,,,,,xJhIFxijeG8J.2024,issre,,2025-09-13T21:56:10.714769
+823,900826,IEEE International Symposium on Software Reliability Engineering Workshops,ISSREW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+824,900827,International Symposium on Software Testing and Analysis,ISSTA,,2025,0,0,,,,,,llVusf8drOoJ.2024,issta,,2025-09-13T21:56:10.714769
+825,900828,International i*Workshop,ISTAR,,2025,0,0,,,,,,,istar,,2025-09-13T21:56:10.714769
+826,900829,International Symposium on Visual Computing,ISVC,,2025,0,0,,,,,,gkPBkimMWRYJ.2024,isvc,,2025-09-13T21:56:10.714769
+827,900830,IEEE Computer Society Annual Symposium on VLSI,ISVLSI,,2025,0,0,,,,,,YnM0PRNMjrsJ.2024,isvlsi,,2025-09-13T21:56:10.714769
+828,900831,Information Security Conference,ISW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+829,900832,International Semantic Web Conference,ISWC,,2025,0,0,,,,,,_spLz2dfW1AJ.2024,iswc,,2025-09-13T21:56:10.714769
+830,900833,International Symposium on Wireless Communication Systems,ISWCS,,2025,0,0,,,,,,bKvDXIhWqbQJ.2023,iswcs,,2025-09-13T21:56:10.714769
+831,900834,International Test Conference,ITC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+832,900835,Conference on Innovations in Theoretical Computer Science,ITCS,,2025,0,0,,,,,,YFgbcWcmuG4J.2024,itcs,,2025-09-13T21:56:10.714769
+833,900836,Information Technology in Disaster Risk Reduction,ITDRR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+834,900837,International Conference on Information Technology Based Higher Education and Training,ITHET,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+835,900838,Conference on Innovation and Technology in Computer Science Education,ITICSE,,2025,0,0,,,,,,68UDAZLIQo8J.2024,iticse,,2025-09-13T21:56:10.714769
+836,900839,International Conference on Information Technology : New Generations,ITNG,,2025,0,0,,,,,,n4KqZc83JT0J.2024,itng,,2025-09-13T21:56:10.714769
+837,900840,International Conference on Interactive Theorem Proving,ITP,,2025,0,0,,,,,,dC3V1ZRAEU4J.2019,,,2025-09-13T21:56:10.714769
+838,900841,International Conference on Intelligent Tutoring Systems,ITS,,2025,0,0,,,,,,,tabletop,,2025-09-13T21:56:10.714769
+839,900842,IEEE International Conference on Intelligent Transportation Systems,ITSC,,2025,0,0,,,,,,F_tKvHBbkU8J.2023,itsc,,2025-09-13T21:56:10.714769
+840,900843,Interactive Tabletops and Surfaces,ITSS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+841,900844,International Conference on Intelligent User Interfaces,IUI,,2025,0,0,,,,,,-_BzfdwqRVsJ.2024,iui,,2025-09-13T21:56:10.714769
+842,900845,International Conference on Information Visualisation,ICIV,,2025,0,0,,,,,,vRWGetFmuFkJ.2024,iv,,2025-09-13T21:56:10.714769
+843,900846,International Conference on Intelligent Virtual Agents,IVA,,2025,0,0,,,,,,,iva,,2025-09-13T21:56:10.714769
+844,900847,International Conference on Information Visualization Theory and Applications,IVAPP,,2025,0,0,,,,,,,ivapp,,2025-09-13T21:56:10.714769
+845,900848,International Work-Conference on Artificial Neural Networks,IWANN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+846,900849,International Work-Conference on Bioinformatics and Biomedical Engineering,IWBBIO,,2025,0,0,,,,,,T4IEJzWRVqIJ.2019,,,2025-09-13T21:56:10.714769
+847,900850,International Workshop on Biometrics and Forensics,IWBF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+848,900851,International Wireless Communications and Mobile Computing Conference,IWCMC,,2025,0,0,,,,,,VmAg1pGpY18J.2023,iwcmc,,2025-09-13T21:56:10.714769
+849,900852,International Workshop on Computational Semantics,IWCS,,2025,0,0,,,,,,,iwcs,,2025-09-13T21:56:10.714769
+850,900853,International Workshop on Computational Transportation Science,IWCTS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+851,900854,ACM Workshop on GeoStreaming,IWGS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+852,900855,International Workshop on Combinatorial Algorithms,IWOCA,,2025,0,0,,,,,,aEFAi4RU6TEJ.2024,iwoca,,2025-09-13T21:56:10.714769
+853,900856,International Workshop on OpenMP,IWOMP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+854,900857,Iberchip Workshop,IWS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+855,900858,International Workshop on Software Ecosystems,IWSECO,,2025,0,0,,,,,,,iwseco,,2025-09-13T21:56:10.714769
+856,900859,"International Conference on Systems, Signals and Image Processing",IWSSIP,,2025,0,0,,,,,,GsvS_jxfxCoJ.2024,iwssip,,2025-09-13T21:56:10.714769
+857,900860,Iberoamerican Conference on Applications and Usability of Interactive TV,jAUTI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+858,900861,ACM/IEEE Joint Conference on Digital Libraries,JCDL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+859,900862,Joint International Conference on Serious Games,JCSG,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+860,900863,Workshop on Job Scheduling Strategies for Parallel Processing,JSSPP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+861,900864,International Conference on Legal Knowledge and Information Systems,JURIX,,2025,0,0,,,,,,hTnzOl0B1DQJ.2024,jurix,,2025-09-13T21:56:10.714769
+862,900865,ACM SIGKDD Conference on Knowledge Discovery and Data Mining,KDD,,2025,0,0,,,,,,DxPOk84pRIIJ.2024,kdd,,2025-09-13T21:56:10.714769
+863,900866,International Conference on Knowledge Discovery and Information Retrieval,KDIR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+864,900867,"Symposium on Knowledge Discovery, Mining and Learning",KDMILE,,2025,0,0,,,,,,ktOlY8k93VoJ.2024,,,2025-09-13T21:56:10.714769
+865,900868,Workshop on Knowledge Engineering for Planning and Scheduling,KEPS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+866,900869,International Conference on Knowledge-Based and Intelligent Information & Engineering Systems,KES,,2025,0,0,,,,,,,kes,,2025-09-13T21:56:10.714769
+867,900870,International KES Conference on Agents and Multi-Agent Systems: Technologies and Applications,KESAMSTA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+868,900871,International Conference on Knowledge Engineering and Semantic Web,KESW,,2025,0,0,,,,,,,kesw,,2025-09-13T21:56:10.714769
+869,900872,International Conference on Knowledge Management in Organizations,KMO,,2025,0,0,,,,,,-yAq_nHfnI0J.2024,kmo,,2025-09-13T21:56:10.714769
+870,900873,International Conference on Principles of Knowledge Representation and Reasoning,KR,,2025,0,0,,,,,,mK5NIOh7kkEJ.2024,kr,,2025-09-13T21:56:10.714769
+871,900874,ACM Conference on Learning @ Scale,L@S,,2025,0,0,,,,,,36ZL-wFvppYJ.2024,lats,,2025-09-13T21:56:10.714769
+872,900875,Latin American Conference on Computational Intelligence,LA-CCI,,2025,0,0,,,,,,MQjh4nsifjAJ.2024,lacci,,2025-09-13T21:56:10.714769
+873,900876,Linux Audio Conference,LAC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+874,900877,Latin American Conference on Learning Objects and Technologies,LACLO,,2025,0,0,,,,,,dxqVLUIU2J4J.2024,,,2025-09-13T21:56:10.714769
+875,900878,Latin-American Symposium on Dependable Computing,LADC,,2025,0,0,,,,,,,ladc,,2025-09-13T21:56:10.714769
+876,900879,IEEE Latin American GRSS & ISPRS Remote Sensing Conference,LAGIRS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+877,900880,"Latin-American Algorithms, Graphs and Optimization Symposium",LAGOS,,2025,0,0,,,,,,,lagos,,2025-09-13T21:56:10.714769
+878,900881,International Learning Analytics and Knowledge Conference,LAK,,2025,0,0,,,,,,vyPePYGDYIkJ.2024,lak,,2025-09-13T21:56:10.714769
+879,900882,Latin American Networking Conference,LANC,,2025,0,0,,,,,,,lanc,,2025-09-13T21:56:10.714769
+880,900883,IEEE International Symposium on Local and Metropolitan Area Networks,LANMAN,,2025,0,0,,,,,,,lanman,,2025-09-13T21:56:10.714769
+881,900884,Latin American Network Operations and Management Symposium,LANOMS,,2025,0,0,,,,,,,lanoms,,2025-09-13T21:56:10.714769
+882,900885,IEEE Latin American Robotics Symposium,LARS,,2025,0,0,,,,,,,larc,,2025-09-13T21:56:10.714769
+883,900886,IEEE Latin American Symposium on Circuits and Systems,LASCAS,,2025,0,0,,,,,,HwA04ld57EIJ.2024,lascas,,2025-09-13T21:56:10.714769
+884,900887,Latin American Theoretical Informatics Symposium,LATIN,,2025,0,0,,,,,,OeICmY9lwg4J.2023,latin,,2025-09-13T21:56:10.714769
+885,900888,IEEE Latin America Conference on Cloud Computing and Communications,LATINCLOUD,,2025,0,0,,,,,,,latincloud,,2025-09-13T21:56:10.714769
+886,900889,IEEE Latin-American Conference on Communications,LATINCOM,,2025,0,0,,,,,,P88GQzAGJOcJ.2023,latincom,,2025-09-13T21:56:10.714769
+887,900890,International Conference on Cryptology and Information Security in Latin America,LATINCRYPT,,2025,0,0,,,,,,,latincrypt,,2025-09-13T21:56:10.714769
+888,900891,Congresso Latino-americano de Software Livre e Tecnologias Abertas,LATINOWARE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+889,900892,IEEE Latin American Test Symposium,LATS,,2025,0,0,,,,,,IdSNHXeKP5gJ.2024,latw,,2025-09-13T21:56:10.714769
+890,900893,Linguistic Annotation Workshop,LAW,,2025,0,0,,,,,,,acllaw,,2025-09-13T21:56:10.714769
+891,900894,Latin American Workshop on Cliques in Graphs,LAWCG,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+892,900895,Latin-American Workshop on Computational Neuroscience,LAWCN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+893,900896,Latin American Web Congress,LAWEB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+894,900897,IEEE Conference on Local Computer Networks,LCN,,2025,0,0,,,,,,-0SVTi_veasJ.2023,lcn,,2025-09-13T21:56:10.714769
+895,900898,"ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems",LCTES,,2025,0,0,,,,,,,lctrts,,2025-09-13T21:56:10.714769
+896,900899,"ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Real-Time Systems",LCTRTS,,2025,0,0,,,,,,,lctrts,,2025-09-13T21:56:10.714769
+897,900900,IEEE Symposium on Large Data Analysis and Visualization,LDAV,,2025,0,0,,,,,,,ldav,,2025-09-13T21:56:10.714769
+898,900901,Symposium on Logical Foundations of Computer Science,LFCS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+899,900902,ACM/IEEE Symposium on Logic in Computer Science,LICS,,2025,0,0,,,,,,5mWbSIB9be8J.2024,lics,,2025-09-13T21:56:10.714769
+900,900903,Workshop on Learning with Imbalanced Domains: Theory and Applications,LIDTA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+901,900904,Workshop on Linked Democracy : Artificial Intelligence for Democratic Innovation,LINKDEM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+902,900905,Learning and Intelligent Optimization Conference,LION,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+903,900906,Logical Methods in Computer Science,LMCS,,2025,0,0,,,,,,uMkIEwVx22wJ.2024,,,2025-09-13T21:56:10.714769
+904,900907,"International Workshop on Location-Based Recommendations, Geosocial Networks and Geoadvertising",LocalRec,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+905,900908,International Workshop on Location and the Web,LocWeb,,2025,0,0,,,,,,,locweb,,2025-09-13T21:56:10.714769
+906,900909,Location Privacy and Security Workshop,LoPaS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+907,900910,International Symposium on Logic-based Program Synthesis and Transformation,LOPSTR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+908,900911,International Conference on Language Resources and Evaluation,LREC,,2025,0,0,,,,,,qf6JB6yXg1UJ.2024,lrec,,2025-09-13T21:56:10.714769
+909,900912,"International Workshop on Logical and Semantic Frameworks, with Applications",LSFA,,2025,0,0,,,,,,,lsfa,,2025-09-13T21:56:10.714769
+910,900913,International Workshop on Learning Technology for Education Challenges,LTEC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+911,900914,Workshop on Middleware for Context-Aware Applications in the IoT,M4IOT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+912,900915,International Workshop on Multi-Agent Based Simulation,MABS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+913,900916,International Workshop on Management of SDN and NFV Systems,MANSDNNFV,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+914,900917,"International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",MASCOTS,,2025,0,0,,,,,,rUAci4_JCgEJ.2023,mascots,,2025-09-13T21:56:10.714769
+915,900918,IEEE International Conference on Mobile Adhoc and Sensor Systems,MASS,,2025,0,0,,,,,,,mass,,2025-09-13T21:56:10.714769
+916,900919,IEEE International Conference on Mobile Ad-Hoc and Smart Systems,MASS2,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+917,900920,German Conference on Multiagent System Technologies,MATES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+918,900921,International Conference on Multiple Criteria Decision Making,MCDM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+919,900922,International Conference on Mathematics and Computation in Music,MCM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+920,900923,Mexican Conference on Pattern Recognition,MCPR2,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+921,900924,International Symposium on Embedded Multicore/Many-core Systems-on-Chip,MCSoC,,2025,0,0,,,,,,cNDfl82p1FwJ.2024,mcsoc,,2025-09-13T21:56:10.714769
+922,900925,International Conference on Modeling Decisions for Artificial Intelligence,MDAI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+923,900926,IEEE International Conference on Mobile Data Management,MDM,,2025,0,0,,,,,,,mdm,,2025-09-13T21:56:10.714769
+924,900927,Mediterranean Conference on Control and Automation,MED,,2025,0,0,,,,,,GCpVsRNBp7cJ.2020,,,2025-09-13T21:56:10.714769
+925,900928,Mediterranean Communication and Computer Networking Conference,MedComNet,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+926,900929,International Conference on Management of Emergent Digital EcoSystems,MEDES,,2025,0,0,,,,,,8r87ioMWSPAJ.2024,medes,,2025-09-13T21:56:10.714769
+927,900930,Mediterranean Ad Hoc Networking Workshop,MEDHOCNET,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+928,900931,World Congress on Medical and Health Informatics,MEDINFO,,2025,0,0,,,,,,dZLYXaFx_-EJ.2024,medinfo,,2025-09-13T21:56:10.714769
+929,900932,IEEE International Symposium on Medical Measurements and Applications,MEMEA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+930,900933,International Symposium on Memory Systems,MEMSYS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+931,900934,Managing the Evolution and Preservation of the Data Web,MEPDaW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+932,900935,IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications,MESA,,2025,0,0,,,,,,th--Q8zFP48J.2021,mesa,,2025-09-13T21:56:10.714769
+933,900936,International Workshop on Meta-Programming Techniques and Reflection,META,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+934,900937,Workshop on Meta-Learning,MetaLearn,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+935,900938,International Symposium on Mathematical Foundations of Computer Science,MFCS,,2025,0,0,,,,,,b7Wt8oz6uqAJ.2024,mfcs,,2025-09-13T21:56:10.714769
+936,900939,IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems,MFI,,2025,0,0,,,,,,MbouORldYUUJ.2020,,,2025-09-13T21:56:10.714769
+937,900940,Metaheuristics International Conference,MIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+938,900941,Mexican International Conference on Artificial Intelligence,MICAI,,2025,0,0,,,,,,uhZEgJcD4mIJ.2024,micai,,2025-09-13T21:56:10.714769
+939,900942,IEEE/ACM International Symposium on Microarchitecture,MICRO,,2025,0,0,,,,,,UpKDzfQ1ak8J.2024,micro,,2025-09-13T21:56:10.714769
+940,900943,International Middleware Conference,MIDDLEWARE,,2025,0,0,,,,,,NA4iP0Rm0toJ.2024,middleware,,2025-09-13T21:56:10.714769
+941,900944,Medical Informatics Europe,MIE,,2025,0,0,,,,,,dZLYXaFx_-EJ.2024,mie,,2025-09-13T21:56:10.714769
+942,900945,ACM Siggraph Conference on Motion in Games,MIG,,2025,0,0,,,,,,,mig,,2025-09-13T21:56:10.714769
+943,900946,Military Communications Conference,MILCOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+944,900947,Workshop on Modeling in Software Engineering,MISE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+945,900948,International Conference on Mixed Design of Integrated Circuits and Systems,MIXDES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+946,900949,Machine Learning for Health,ML4H,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+947,900950,International Conference on Machine Learning and Data Mining in Pattern Recognition,MLDM,,2025,0,0,,,,,,,mldm,,2025-09-13T21:56:10.714769
+948,900951,"International Workshop on Machine Learning, Optimization and Big Data",MLOBD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+949,900952,IEEE International Workshop on Machine Learning for Signal Processing,MLSP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+950,900953,International Conference on Methods and Models in Automation and Robotics,MMAR,,2025,0,0,,,,,,YI-90EccamMJ.2020,,,2025-09-13T21:56:10.714769
+951,900954,International Conference on Multimedia Modelling,MMM,,2025,0,0,,,,,,Yk_rZmw8Ul4J.2024,mmm,,2025-09-13T21:56:10.714769
+952,900955,International Workshop on Multilayer Music Representation and Processing,MMRP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+953,900956,International Workshop on Multimedia and Signal Processing,MMSP,,2025,0,0,,,,,,_45azmq7lgwJ.2023,mmsp,,2025-09-13T21:56:10.714769
+954,900957,ACM Multimedia Systems Conference,MMSYS,,2025,0,0,,,,,,iRTf4ImdsEQJ.2023,mmsys,,2025-09-13T21:56:10.714769
+955,900958,Mostra Nacional de Robótica,MNR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+956,900959,Workshop on Mobility in the Evolving Internet Architecture,MobiArch,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+957,900960,ACM/IEEE International Conference on Mobile Computing and Networking,MOBICOM,,2025,0,0,,,,,,CYo1GjC2fW8J.2023,mobicom,,2025-09-13T21:56:10.714769
+958,900961,ACM International Symposium on Mobile Ad Hoc Networking and Computing,MOBIHOC,,2025,0,0,,,,,,Okb8aqGJjLgJ.2023,mobihoc,,2025-09-13T21:56:10.714769
+959,900962,International Conference on Human-Computer Interaction with Mobile Devices and Services,MOBILEHCI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+960,900963,International Conference on Mobile Software Engineering and Systems,MOBILESOFT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+961,900964,"International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services",MOBIQUITOUS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+962,900965,"Annual International Conference on Mobile Systems, Applications, and Services",MobiSys,,2025,0,0,,,,,,0mhk3_x__KIJ.2023,mobisys,,2025-09-13T21:56:10.714769
+963,900966,ACM International Symposium on Mobility Management and Wireless Access,MOBIWAC,,2025,0,0,,,,,,,mobiwac,,2025-09-13T21:56:10.714769
+964,900967,International Conference on Movement and Computing,MOCO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+965,900968,International Conference on Model Driven Engineering Languages and Systems,MODELS,,2025,0,0,,,,,,3ppqdCDVTskJ.2024,models,,2025-09-13T21:56:10.714769
+966,900969,International Conference on Model-Driven Engineering and Software Development,MODELSWARD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+967,900970,International Model-Driven Requirements Engineering,MODRE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+968,900971,International Conference on Modularity,MODULARITY,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+969,900972,International Conference on Advances in Mobile Computing & Multimedia,MoMM,,2025,0,0,,,,,,PZoAL1XKdJoJ.2022,momm,,2025-09-13T21:56:10.714769
+970,900973,International Symposium on Multi-Robot and Multi-Agent Systems,MRS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+971,900974,International Conference on Mobile Ad-Hoc and Sensor Networks,MSN,,2025,0,0,,,,,,neOh05x3OTMJ.2023,msn,,2025-09-13T21:56:10.714769
+972,900975,Working Conference on Mining Software Repositories,MSR,,2025,0,0,,,,,,XpB0TY0OXkoJ.2024,msr,,2025-09-13T21:56:10.714769
+973,900976,Workshop deModelagem e Simulação de Sistemas Intensivos em Software,MSSiS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+974,900977,IEEE Symposium on Mass Storage Systems and Technologies,MSST,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+975,900978,"ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",MSWIM,,2025,0,0,,,,,,7xyzSiMupzgJ.2023,mswim,,2025-09-13T21:56:10.714769
+976,900979,International Conference on Metadata and Semantics Research,MTSR,,2025,0,0,,,,,,,mtsr,,2025-09-13T21:56:10.714769
+977,900980,International Workshop on Multi-Level Modeling,MULTI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+978,900981,International Workshop on the Analysis of Multitemporal Remote Sensing Images,MULTITEMP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+979,900982,International Conference on Mobile and Ubiquitous Multimedia,MUM,,2025,0,0,,,,,,ZC8PGgykt-EJ.2023,mum,,2025-09-13T21:56:10.714769
+980,900983,IAPR International Conference on Machine Vision Applications,MVA,,2025,0,0,,,,,,5GsHps3NV78J.2024,mva,,2025-09-13T21:56:10.714769
+981,900984,Workshop on Multiword Expressions,MWE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+982,900985,International Midwest Symposium on Circuits and Systems,MWSCAS,,2025,0,0,,,,,,IKwP_BZwq3kJ.2024,mwscas,,2025-09-13T21:56:10.714769
+983,900986,North American Chapter of the Association for Computational Linguistics Annual Meeting,NAACL,,2025,0,0,,,,,,ORSK3meVbY4J.2024,naacl,,2025-09-13T21:56:10.714769
+984,900987,Annual Conference of the North American Fuzzy Information Processing Society,NAFIPS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+985,900988,IEEE International Symposium on Network Computing and Applications,NCA,,2025,0,0,,,,,,lTgG3I7tby0J.2024,nca,,2025-09-13T21:56:10.714769
+986,900989,Network and Distributed System Security Symposium,NDSS,,2025,0,0,,,,,,q2FcImd5qbgJ.2024,ndss,,2025-09-13T21:56:10.714769
+987,900990,Workshop on Neural-Symbolic Learning and Reasoning,NESY@HLAI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+988,900991,IEEE Conference on Network Softwarization,NETSOFT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+989,900992,International Conference on Networked Systems,NetSys,,2025,0,0,,,,,,a1PaC1R5uZ8J.2023,netsys,,2025-09-13T21:56:10.714769
+990,900993,IFIP Networking Conference,NETWORKING,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+991,900994,International Telecommunications Network Strategy and Planning Symposium,NETWORKS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+992,900995,Neural Information Processing Systems,NeurIPS,,2025,0,0,,,,,,,nips,,2025-09-13T21:56:10.714769
+993,900996,"International Conference on Internet of Things, Smart Spaces, and Next Generation Networks and Systems",NEW2AN,,2025,0,0,,,,,,,new2an,,2025-09-13T21:56:10.714769
+994,900997,IEEE International New Circuits and Systems Conference,NEWCAS,,2025,0,0,,,,,,lCK4wgZQRSUJ.2024,newcas,,2025-09-13T21:56:10.714769
+995,900998,NASA Formal Methods Symposium,NFM,,2025,0,0,,,,,,Nw9VzNrATcAJ.2019,,,2025-09-13T21:56:10.714769
+996,900999,IEEE Conference on Network Function Virtualization and Software Defined Networks,NFV-SDN,,2025,0,0,,,,,,zpJLXcw8LuIJ.2023,nfvsdn,,2025-09-13T21:56:10.714769
+997,901000,Workshop on Narrative and Hypertext,NHT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+998,901001,International Conference on New Interfaces for Musical Expression,NIME,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+999,901002,International Conference on Application of Natural Language to Information Systems,NLDB,,2025,0,0,,,,,,4YrITWKg3KAJ.2024,nldb,,2025-09-13T21:56:10.714769
+1000,901003,ACM/IEEE International Symposium on Networks-on-Chip,NOCS,,2025,0,0,,,,,,,vlsi,,2025-09-13T21:56:10.714769
+1001,901004,International Conference on Network of the Future,NOF,,2025,0,0,,,,,,mg4DaRHarRgJ.2023,nof,,2025-09-13T21:56:10.714769
+1002,901005,IEEE/IFIP Network Operations and Management Symposium,NOMS,,2025,0,0,,,,,,DWJBNISV1bQJ.2023,noms,,2025-09-13T21:56:10.714769
+1003,901006,Nordic Circuits and Systems Conference,NORCAS,,2025,0,0,,,,,,VvyAP556dQAJ.2024,norcas,,2025-09-13T21:56:10.714769
+1004,901007,Nordic Conference on Human-Computer Interaction,NordiCHI,,2025,0,0,,,,,,JMsm_h2lofMJ.2024,nordichi,,2025-09-13T21:56:10.714769
+1005,901008,Networked Systems Design and Implementation,NSDI,,2025,0,0,,,,,,J92rQU3cJVwJ.2023,nsdi,,2025-09-13T21:56:10.714769
+1006,901009,Network and System Security,NSS,,2025,0,0,,,,,,mDgNlZgOboEJ.2024,nss,,2025-09-13T21:56:10.714769
+1007,901010,International Workshop on Numerical Software Verification,NSV,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1008,901011,"IFIP International Conference on New Technologies, Mobility and Security",NTMS,,2025,0,0,,,,,,BJDMFlAVW-cJ.2024,ntms,,2025-09-13T21:56:10.714769
+1009,901012,IEEE Oceans Conference,OCEAN,,2025,0,0,,,,,,gefgzKCl3_0J.2020,,,2025-09-13T21:56:10.714769
+1010,901013,International Workshop on Ontology Matching,OM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1011,901014,Conference on Optical Network Design and Modeling,ONDM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1012,901015,Seminar on Ontology Research in Brazil,ONTOBRAS,,2025,0,0,,,,,,xUT2Pv_FWpIJ.2024,ontobras,,2025-09-13T21:56:10.714769
+1013,901016,Onward!,Onward!,,2025,0,0,,,,,,,onward,,2025-09-13T21:56:10.714769
+1014,901017,"Conference on Object-Oriented Programming Systems, Languages, and Applications",OOPSLA,,2025,0,0,,,,,,k7wjG1erdwwJ.2020,oopsla,,2025-09-13T21:56:10.714769
+1015,901018,International Symposium on Open Collaboration,OpenSym,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1016,901019,International Conference on Principles of Distributed Systems,OPODIS,,2025,0,0,,,,,,0luRC0xHVlsJ.2024,opodis,,2025-09-13T21:56:10.714769
+1017,901020,International Conference on Operations Research,OR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1018,901021,USENIX Symposium on Operating Systems Design and Implementation,OSDI,,2025,0,0,,,,,,nZZ8G3Einp0J.2024,osdi,,2025-09-13T21:56:10.714769
+1019,901022,International Conference on Open Source Systems,OSS,,2025,0,0,,,,,,,oss,,2025-09-13T21:56:10.714769
+1020,901023,Australian Conference on Human-Computer Interaction,OzCHI,,2025,0,0,,,,,,OZvZzNUF9W0J.2024,ozchi,,2025-09-13T21:56:10.714769
+1021,901024,"International Conference on Practical Applications of Agents, Multi-Agent Systems and Sustainability",PAAMS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1022,901025,Practical Aspects of Automated Reasoning,PAAR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1023,901026,International Conference on Practical Applications of Computational Biology & Bioinformatics,PACBB,,2025,0,0,,,,,,mdYvjBmRbpwJ.2019,,,2025-09-13T21:56:10.714769
+1024,901027,IEEE Pacific Visualization Symposium,PacificVis,,2025,0,0,,,,,,eyKsRVMpGxgJ.2024,pacificvis,,2025-09-13T21:56:10.714769
+1025,901028,Pacific Asia Conference on Information Systems,PACIS,,2025,0,0,,,,,,CY_aqjanJeoJ.2024,pacis,,2025-09-13T21:56:10.714769
+1026,901029,International Conference on Parallel Computing Technologies,PACT,,2025,0,0,,,,,,rAbNW5NaTSIJ.2018,pact,,2025-09-13T21:56:10.714769
+1027,901030,International Conference on Parallel Architectures and Compilation Techniques,PACTT,,2025,0,0,,,,,,OLgTDUKI5wUJ.2024,IEEEpact,,2025-09-13T21:56:10.714769
+1028,901031,Pacific-Asia Conference on Knowledge Discovery and Data Mining,PAKDD,,2025,0,0,,,,,,I9UJ598p80sJ.2024,pakdd,,2025-09-13T21:56:10.714769
+1029,901032,Passive and Active Network Measurement Conference,PAM,,2025,0,0,,,,,,fZ5Q0nFEqjEJ.2023,pam,,2025-09-13T21:56:10.714769
+1030,901033,International Conference on Parallel Computing,ParCO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1031,901034,International Conference on the Practice and Theory of Automated Timetabling,PATAT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1032,901035,"International Workshop on Power and Timing Modeling, Optimization and Simulation",PATMOS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1033,901036,International Conferences on Pervasive Patterns and Applications,PATTERNS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1034,901037,Participatory Design Conference,PDC,,2025,0,0,,,,,,-nBNAaWmWB0J.2024,pdc,,2025-09-13T21:56:10.714769
+1035,901038,"International Conference on Parallel and Distributed Computing, Applications and Technologies",PDCAT,,2025,0,0,,,,,,BZK2l1JW2UsJ.2018,pdcat,,2025-09-13T21:56:10.714769
+1036,901039,IFAC International Conference on Programmable Devices and Embedded Systems,PDES,,2025,0,0,,,,,,,pdes,,2025-09-13T21:56:10.714769
+1037,901040,"Euromicro International Conference on Parallel, Distributed and Network-Based Processing",PDP,,2025,0,0,,,,,,YhI5DwI2n2gJ.2023,pdp,,2025-09-13T21:56:10.714769
+1038,901041,"ACM International Symposium on Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks",PE-WASUN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1039,901042,Pervasive and Embedded Computing and Communication Systems,PECCS,,2025,0,0,,,,,,kG0dCDBKbysJ.2020,peccs,,2025-09-13T21:56:10.714769
+1040,901043,International Conference on Pervasive Computing and Communications,PERCOM,,2025,0,0,,,,,,gauoYMg7lZMJ.2023,percom,,2025-09-13T21:56:10.714769
+1041,901044,IEEE International Conference on Pervasive Computing and Communication Workshops,PerComW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1042,901045,International Conference on Pervasive Computing Technologies for Healthcare,PervasiveHealth,,2025,0,0,,,,,,e4Ty9mKqcmgJ.2024,ph,,2025-09-13T21:56:10.714769
+1043,901046,International Workshop on Principles of Engineering Service-Oriented and Cloud Systems,PESOS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1044,901047,ACM International Conference on PErvasive Technologies Related to Assistive Environments,PETRA,,2025,0,0,,,,,,,petra,,2025-09-13T21:56:10.714769
+1045,901048,Pacific Conference on Computer Graphics and Applications,PG,,2025,0,0,,,,,,,pg,,2025-09-13T21:56:10.714769
+1046,901049,International Conference on Probabilistic Graphical Models,PGM,,2025,0,0,,,,,,erUczV5NGi0J.2023,,,2025-09-13T21:56:10.714769
+1047,901050,"International Symposium on Personal, Indoor and Mobile Radio Communications",PIMRC,,2025,0,0,,,,,,z284emjTz40J.2023,pimrc,,2025-09-13T21:56:10.714769
+1048,901051,International Conference on Practice and Theory in Public Key Cryptography,PKC,,2025,0,0,,,,,,6gqvYwOFvq0J.2024,pkc,,2025-09-13T21:56:10.714769
+1049,901052,International Symposium on Platial Information Science,PLATIAL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1050,901053,SIGPLAN Conference on Programming Language Design and Implementation,PLDI,,2025,0,0,,,,,,MJmsjXA6rLIJ.2024,pldi,,2025-09-13T21:56:10.714769
+1051,901054,Conference on Pattern Languages of Programs,PLOP,,2025,0,0,,,,,,,plop,,2025-09-13T21:56:10.714769
+1052,901055,ACM Symposium on Principles of Distributed Computing,PODC,,2025,0,0,,,,,,fcioh0Px5iMJ.2024,podc,,2025-09-13T21:56:10.714769
+1053,901056,Symposium on Principles of Database Systems,PODS,,2025,0,0,,,,,,,pods,,2025-09-13T21:56:10.714769
+1054,901057,IFIP WG 8.1 Working Conference on the Practice of Enterprise Modelling,PoEM,,2025,0,0,,,,,,e5pHNeuFGzEJ.2024,ifip8-1,,2025-09-13T21:56:10.714769
+1055,901058,Symposium on Principles of Programming Languages,POPL,,2025,0,0,,,,,,6CxxSCV0pL8J.2021,popl,,2025-09-13T21:56:10.714769
+1056,901059,International Conference on Principles of Security and Trust,POST,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1057,901060,SIAM Conference on Parallel Processing for Scientific Computing,PP,,2025,0,0,,,,,,,ppsc,,2025-09-13T21:56:10.714769
+1058,901061,International Conference on Parallel Processing and Applied Mathematics,PPAM,,2025,0,0,,,,,,7NHJcpYeTeYJ.2024,ppam,,2025-09-13T21:56:10.714769
+1059,901062,International Symposium on Principles and Practice of Declarative Programming,PPDP,,2025,0,0,,,,,,ktOuQEhO-mwJ.2022,ppdp,,2025-09-13T21:56:10.714769
+1060,901063,ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming,PPOPP,,2025,0,0,,,,,,JDUQTRUV4EYJ.2024,ppopp,,2025-09-13T21:56:10.714769
+1061,901064,International Conference on Parallel Problem Solving from Nature,PPSN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1062,901065,Pacific Rim International Symposium on Dependable Computing,PRDC,,2025,0,0,,,,,,UMMGw1KV79IJ.2024,prdc,,2025-09-13T21:56:10.714769
+1063,901066,International Workshop on Prediction of Human Mobility,PredictGIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1064,901067,nternational Conference on Principles and Practice of Multi-Agent Systems,PRIMA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1065,901068,"Workshop on Society, Privacy and the Semantic Web",PrivOn,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1066,901069,International Conference on Product-Focused Software Process Improvement,PROFES,,2025,0,0,,,,,,FQXvEi7Xod4J.2024,profes,,2025-09-13T21:56:10.714769
+1067,901070,International Conference on Predictive Models and Data Analytics in Software Engineering,PROMISE,,2025,0,0,,,,,,,promise,,2025-09-13T21:56:10.714769
+1068,901071,International Conference on Computational Processing of the Portuguese Language,PROPOR,,2025,0,0,,,,,,,propor,,2025-09-13T21:56:10.714769
+1069,901072,Pacific Symposium on Biocomputing,PSB,,2025,0,0,,,,,,Wzseq37BLhIJ.2019,,,2025-09-13T21:56:10.714769
+1070,901073,Power Systems Computation Conference,PSCC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1071,901074,"International Conference on Privacy, Security and Trust",PST,,2025,0,0,,,,,,xoT0NbWIf-kJ.2024,pst,,2025-09-13T21:56:10.714769
+1072,901075,ACM Symposium on QoS and Security for Wireless and Mobile Networks,Q2SWinet,,2025,0,0,,,,,,,mswim,,2025-09-13T21:56:10.714769
+1073,901076,International Workshop on Quality of Multimedia Experience,QoMEX,,2025,0,0,,,,,,bEDbANOodwgJ.2024,qomex,,2025-09-13T21:56:10.714769
+1074,901077,International Conference on Quality of Information and Communications Technology,QUATIC,,2025,0,0,,,,,,p7mJ2vt7AdAJ.2024,quatic,,2025-09-13T21:56:10.714769
+1075,901078,European Conference on Radiation and its Effects on Components and Systems,RADECS,,2025,0,0,,,,,,PCzjXRB5L8YJ.2024,,,2025-09-13T21:56:10.714769
+1076,901079,IEEE Internacional Conference on Robotics and Automation for Humanitarian Applications,RAHA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1077,901080,"International Symposium on Research in Attacks, Intrusions, and Defenses",RAID,,2025,0,0,,,,,,826ERjda8dUJ.2024,raid,,2025-09-13T21:56:10.714769
+1078,901081,International Conference on Recent Advances in Natural Language Processing,RANLP,,2025,0,0,,,,,,Y7mlmpXAthkJ.2024,ranlp,,2025-09-13T21:56:10.714769
+1079,901082,IEEE International Conference on Real-time Computing and Robotics,RCAR,,2025,0,0,,,,,,LLCdED38YXkJ.2020,,,2025-09-13T21:56:10.714769
+1080,901083,International Conference on Research Challenges in Information Science,RCIS,,2025,0,0,,,,,,yxUYnK6YD7QJ.2024,rcis,,2025-09-13T21:56:10.714769
+1081,901084,IEEE International Requirements Engineering Conference,RE,,2025,0,0,,,,,,fkF-UcrzbCsJ.2024,re,,2025-09-13T21:56:10.714769
+1082,901085,Workshop on Reactive and Event-Based Languages and Systems,REBLS,,2025,0,0,,,,,,,rebls,,2025-09-13T21:56:10.714769
+1083,901086,International Conference on Research in Computational Molecular Biology,RECOMB,,2025,0,0,,,,,,Bt5D8QeIDW8J.2019,,,2025-09-13T21:56:10.714769
+1084,901087,International Conference on Reconfigurable Computing and FPGAs,RECONFIG,,2025,0,0,,,,,,,reconfig,,2025-09-13T21:56:10.714769
+1085,901088,International Symposium on Reconfigurable Communication-centric Systems-on-Chip,RECOSOC,,2025,0,0,,,,,,z8sUAB07Au0J.2020,recosoc,,2025-09-13T21:56:10.714769
+1086,901089,ACM Conference on Recommender Systems,RECSYS,,2025,0,0,,,,,,4-w_STT7RmEJ.2024,recsys,,2025-09-13T21:56:10.714769
+1087,901090,International Working Conference on Requirements Engineering: Foundations for Software Quality,REFSQ,,2025,0,0,,,,,,VATFw1qhessJ.2024,refsq,,2025-09-13T21:56:10.714769
+1088,901091,International Conference on Research in Intelligent and Computing in Engineering,RICE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1089,901092,International Conference on Robot Intelligence Technology and Applications,RITA,,2025,0,0,,,,,,Tct1hCSnseoJ.2020,,,2025-09-13T21:56:10.714769
+1090,901093,IEEE International Symposium on Robot and Human Interactive Communication,RO-MAN,,2025,0,0,,,,,,yHxohuW00noJ.2020,,,2025-09-13T21:56:10.714769
+1091,901094,IEEE International Conference on Robotics and Biomimetics,ROBIO,,2025,0,0,,,,,,bcF8fuNAeawJ.2020,,,2025-09-13T21:56:10.714769
+1092,901095,Robocup International Symposium,ROBOCUP,,2025,0,0,,,,,,KMzWyzFUAoQJ.2020,,,2025-09-13T21:56:10.714769
+1093,901096,IEEE International Conference on Soft Robotics,RoboSoft,,2025,0,0,,,,,,ozuU4D3JRbUJ.2020,,,2025-09-13T21:56:10.714769
+1094,901097,Iberian Robotics Conference,ROBOT,,2025,0,0,,,,,,QJsHI8scVfoJ.2020,,,2025-09-13T21:56:10.714769
+1095,901098,International Workshop on Robot Motion and Control,RoMoCo,,2025,0,0,,,,,,a7sB4asTg0EJ.2020,,,2025-09-13T21:56:10.714769
+1096,901099,Reversing and Offensive-Oriented Trends Symposium,ROOTS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1097,901100,IEEE International Symposium on Robotic and Sensors Environments,ROSE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1098,901101,IEEE International Symposium on Rapid System Prototyping,RSP,,2025,0,0,,,,,,,rsp,,2025-09-13T21:56:10.714769
+1099,901102,Robotics: Science and Systems,RSS,,2025,0,0,,,,,,jl5pTV5Sh0AJ.2024,rss,,2025-09-13T21:56:10.714769
+1100,901103,IEEE REAL-TIME AND EMBEDDED TECHNOLOGY AND APPLICATIONS SYMPOSIUM,RTAS,,2025,0,0,,,,,,2YPqFanDRcAJ.2024,rtas,,2025-09-13T21:56:10.714769
+1101,901104,International Conference on Embedded and Real-Time Computing Systems and Applications,RTCSA,,2025,0,0,,,,,,Mb3P41xz9HIJ.2024,rtcsa,,2025-09-13T21:56:10.714769
+1102,901105,International Conference on Real Time Intelligent Systems,RTIS,,2025,0,0,,,,,,RIIA6l-Mlx0J.2021,,,2025-09-13T21:56:10.714769
+1103,901106,Real-Time Systems Symposium,RTSS,,2025,0,0,,,,,,qvvrZOpbLHgJ.2024,rtss,,2025-09-13T21:56:10.714769
+1104,901107,International Joint Conference on Rules and Reasoning,RuleML+RR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1105,901108,IEEE Symposium on Security and Privacy,S&P,,2025,0,0,,,,,,cyrroHz3a0YJ.2024,sp,,2025-09-13T21:56:10.714769
+1106,901109,ACM Symposium on Applied Computing,SAC,,2025,0,0,,,,,,eLhWa3qzEDsJ.2023,sac,,2025-09-13T21:56:10.714769
+1107,901110,IEEE International Symposium on Applied Computational Intelligence and Informatics,SACI,,2025,0,0,,,,,,DBppmrSv3qgJ.2024,saci,,2025-09-13T21:56:10.714769
+1108,901111,ACM Symposium on Access Control Models and Technologies,SACMAT,,2025,0,0,,,,,,9DZYftdOCUAJ.2024,sacmat,,2025-09-13T21:56:10.714769
+1109,901112,Workshop on Selected Areas in Cryptography,SACRYPT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1110,901113,"International Conference on Computer Safety, Reliability, and Security",SAFECOMP,,2025,0,0,,,,,,fWfpTei59DsJ.2024,safecomp,,2025-09-13T21:56:10.714769
+1111,901114,"International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation",SAMOS,,2025,0,0,,,,,,6GMyv-BpYgwJ.2024,samos,,2025-09-13T21:56:10.714769
+1112,901115,"IEEE International Conference on Software Analysis, Evolution and Reengineering",SANER,,2025,0,0,,,,,,KigRzjvnEC0J.2024,wcre,,2025-09-13T21:56:10.714769
+1113,901116,IEEE Sarnoff Symposium,SARNOFF,,2025,0,0,,,,,,,sarnoff,,2025-09-13T21:56:10.714769
+1114,901117,IEEE Sensors Applications Symposium,SAS,,2025,0,0,,,,,,uB4PZkdP_ikJ.2024,sas,,2025-09-13T21:56:10.714769
+1115,901118,Brazilian Symposium on Systematic and Automated Software Testing,SAST,,2025,0,0,,,,,,,sast,,2025-09-13T21:56:10.714769
+1116,901119,International Conference on Theory and Applications of Satisfiability Testing,SAT,,2025,0,0,,,,,,Ydp6NbVxpcEJ.2024,sat,,2025-09-13T21:56:10.714769
+1117,901120,International Symposium on Computer Architecture and High Performance Computing,SBAC-PAD,,2025,0,0,,,,,,xujU2BmpDawJ.2024,,,2025-09-13T21:56:10.714769
+1118,901121,International Symposium on Computer Architecture and High Performance Computing Workshop,SBACPADW,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1119,901122,Simpósio Brasileiro de Automação Inteligente,SBAI,,2025,0,0,,,,,,poyWVKlO8ggJ.2024,,,2025-09-13T21:56:10.714769
+1120,901123,Simpósio Brasileiro de Banco de Dados,SBBD,,2025,0,0,,,,,,ixetonJUY2YJ.2024,sbbd,,2025-09-13T21:56:10.714769
+1121,901124,"Brazilian Symposium on Components, Architectures and Reuse Software",SBCARS,,2025,0,0,,,,,,,sbcars,,2025-09-13T21:56:10.714769
+1122,901125,Simpósio Brasileiro de Computação Aplicada à Saúde,SBCAS,,2025,0,0,,,,,,FToOQu3w6DQJ.2024,,,2025-09-13T21:56:10.714769
+1123,901126,Symposium on Integrated Circuits and Systems Design,SBCCI,,2025,0,0,,,,,,ce7ecw4OEFoJ.2024,sbcci,,2025-09-13T21:56:10.714769
+1124,901127,Simpósio Brasileiro de Computação Musical,SBCM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1125,901128,Simpósio Brasileiro de Computação Ubíqua e Pervasiva,SBCUP,,2025,0,0,,,,,,KIaJcB9oivgJ.2023,,,2025-09-13T21:56:10.714769
+1126,901129,Brazilian Symposium on Software Engineering,SBES,,2025,0,0,,,,,,rXEm9Hzg5P8J.2024,sbes,,2025-09-13T21:56:10.714769
+1127,901130,Brazilian Symposium on Computing Systems Engineering,SBESC,,2025,0,0,,,,,,EA9qTFRFeoUJ.2024,sbesc,,2025-09-13T21:56:10.714769
+1128,901131,Simpósio Brasileiro de Jogos e Entretenimento Digital,SBGAMES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1129,901132,Congresso Brasileiro de Agroinformática,SBIAGRO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1130,901133,Simpósio Brasileiro de Informática na Educação,SBIE,,2025,0,0,,,,,,DMcB-6XAVukJ.2024,,,2025-09-13T21:56:10.714769
+1131,901134,Brazilian Symposium on Programming Languages,SBLP,,2025,0,0,,,,,,,sblp,,2025-09-13T21:56:10.714769
+1132,901135,Brazilian Symposium on Formal Methods,SBMF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1133,901136,Symposium on Microelectronics Technology and Devices,SBMICRO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1134,901137,Simpósio Brasileiro de Pesquisa Operacional,SBPO,SOBRAPO,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1135,901138,Simpósio Brasileiro de Qualidade de Software,SBQS,,2025,0,0,,,,,,21lpMhOn5OMJ.2024,sbqs,,2025-09-13T21:56:10.714769
+1136,901139,Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos,SBRC,,2025,0,0,,,,,,3vnP2ksW2eAJ.2024,sbrc,,2025-09-13T21:56:10.714769
+1137,901140,Simpósio Brasileiro de Telecomunicações e Processamento de Sinais,SBrT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1138,901141,Simpósio Brasileiro de Sistemas Colaborativos,SBSC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1139,901142,Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais,SBSeg,,2025,0,0,,,,,,Dsyl66B8iM0J.2024,sbsi,,2025-09-13T21:56:10.714769
+1140,901143,Simpósio Brasileiro de Sistemas de Informação,SBSI,,2025,0,0,,,,,,Uj60OIiJKkQJ.2024,sbsi,,2025-09-13T21:56:10.714769
+1141,901144,Simpósio Brasileiro de Sensoriamento Remoto,SBSR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1142,901145,Simpósio Brasileiro de Tecnologia da Informação,SBTI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1143,901146,"International Conference for High Performance Computing, Networking, Storage and Analysis",SC,,2025,0,0,,,,,,s_dKfSWgBmwJ.2024,sc,,2025-09-13T21:56:10.714769
+1144,901147,ACM SIGGRAPH/Eurographics Symposium on Computer Animation,SCA,,2025,0,0,,,,,,,sca,,2025-09-13T21:56:10.714769
+1145,901148,IEEE International Working Conference on Source Code Analysis and Manipulation,SCAM,,2025,0,0,,,,,,m0WHmETFb4sJ.2024,scam,,2025-09-13T21:56:10.714769
+1146,901149,"International Workshop on Smart City Clouds: Technologies, Systems and Applications",SCCTSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1147,901151,Software and Compilers for Embedded Systems,SCOPES,,2025,0,0,,,,,,,scopes,,2025-09-13T21:56:10.714769
+1148,901152,SIAM International Conference on Data Mining,SDM,,2025,0,0,,,,,,eM05sD1nEv4J.2024,sdm,,2025-09-13T21:56:10.714769
+1149,901153,"International Conference on Sensing, Diagnostics, Prognostics, and Control",SDPC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1150,901154,International Conference on Software Defined Systems,SDS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1151,901155,International Workshop on Software Engineering for Science,SE4Science,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1152,901156,International Symposium on Experimental Algorithms,SEA,,2025,0,0,,,,,,5mM2zjnIDtwJ.2024,wea,,2025-09-13T21:56:10.714769
+1153,901157,Euromicro Conference on Software Engineering and Advanced Applications,SEAA,,2025,0,0,,,,,,q4lhGCNkc40J.2024,euromicro,,2025-09-13T21:56:10.714769
+1154,901158,Workshop on Self-Aware Computing,SeAC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1155,901159,International Symposium on Software Engineering for Adaptive and Self-Managing Systems,SEAMS,,2025,0,0,,,,,,-CeAPmbJYRoJ.2024,seams,,2025-09-13T21:56:10.714769
+1156,901160,International Conference on ICT Systems Security and Privacy Protection,SEC,,2025,0,0,,,,,,pMNODcGxo4cJ.2024,sec,,2025-09-13T21:56:10.714769
+1157,901161,International Workshop on Semantic and Conceptual Issues in Geographic Information Systems,SeCoGis,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1158,901162,"IEEE International Conference on Sensing, Communication and Networking",SECON,,2025,0,0,,,,,,Vhi1mcaJdXEJ.2023,secon,,2025-09-13T21:56:10.714769
+1159,901163,International Conference on Security and Cryptography,SECRYPT,,2025,0,0,,,,,,xSWUNlszhlkJ.2024,secrypt,,2025-09-13T21:56:10.714769
+1160,901164,International Conference on Software Engineering and Formal Methods,SEFM,,2025,0,0,,,,,,8ADvAx1bYPYJ.2019,,,2025-09-13T21:56:10.714769
+1161,901165,International Conference on Serious Games and Applications for Health,SEGAH,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1162,901166,International Conference on Software Engineering and Knowledge Engineering,SEKE,,2025,0,0,,,,,,JQUkUFehKJAJ.2024,seke,,2025-09-13T21:56:10.714769
+1163,901167,International Workshop on Semantic Evaluation,SEMEVAL,,2025,0,0,,,,,,nnrJuCTuhnwJ.2024,semeval,,2025-09-13T21:56:10.714769
+1164,901168,Seminário Integrado de Software e Hardware,SEMISH,,2025,0,0,,,,,,wGjmHjjfBacJ.2024,,,2025-09-13T21:56:10.714769
+1165,901169,International Conference on Sensor Networks,SENSORNETS,,2025,0,0,,,,,,xdfwLOgmtocJ.2024,sensornets,,2025-09-13T21:56:10.714769
+1166,901170,ACM Conference on Embedded Network Sensor Systems,SenSys,,2025,0,0,,,,,,LThmRgAPtwoJ.2023,sensys,,2025-09-13T21:56:10.714769
+1167,901171,CONFERENCE OF THE SPANISH SOCIETY FOR NATURAL LANGUAGE PROCESSING,SEPLN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1168,901172,"Software Engineering Research, Management and Applications",SERA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1169,901173,Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers,SERIAL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1170,901174,International Workshop on Software Engineering Research & Practices for the Internet of Things,SERP4IoT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1171,901175,IEEE World Congress on Services,SERVICES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1172,901176,International Workshop on Software Engineering for Systems-of-Systems,SESoS,,2025,0,0,,,,,,,sessos,,2025-09-13T21:56:10.714769
+1173,901177,Workshop on Semantic Web Solutions for Large-Scale Biomedical,SeWeBMeDA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1174,901178,Eurographics Symposium on Geometry Processing,SGP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1175,901179,"Conference on Graphics, Patterns and Images",SIBGRAPI,,2025,0,0,,,,,,sPLlun2OWTwJ.2024,sibgrapi,,2025-09-13T21:56:10.714769
+1176,901180,International Symposium on Industrial Embedded Systems,SIES,,2025,0,0,,,,,,DCw_w5dKpBoJ.2020,sies,,2025-09-13T21:56:10.714769
+1177,901181,ACM SIGCOMM Conference,SIGCOMM,,2025,0,0,,,,,,xd8jQKOw5ikJ.2023,sigcomm,,2025-09-13T21:56:10.714769
+1178,901182,ACM Technical Symposium on Computer Science Education,SIGCSE,,2025,0,0,,,,,,rrlriATuz7wJ.2024,sigcse,,2025-09-13T21:56:10.714769
+1179,901183,Annual Meeting of the Special Interest Group on Discourse and Dialogue,SIGDIAL,,2025,0,0,,,,,,9-0ktENZUpkJ.2024,sigdial,,2025-09-13T21:56:10.714769
+1180,901184,ACM International Conference on Design of Communication,SIGDOC,,2025,0,0,,,,,,Z4k3y0OWHUwJ.2024,sigdoc,,2025-09-13T21:56:10.714769
+1181,901185,International Conference and Exibition on Computer Graphics and Interactive Techniques,SIGGRAPH,,2025,0,0,,,,,,,siggraph,,2025-09-13T21:56:10.714769
+1182,901186,ACM International Conference On Computer Graphics & Interactive Techniques / Asia,SIGGRAPH Asia,,2025,0,0,,,,,,dXZdebXoOt0J.2024,,,2025-09-13T21:56:10.714769
+1183,901187,International ACM SIGIR Conference on Research and Development in Information Retrieval,SIGIR,,2025,0,0,,,,,,Gf4FWVmkfbwJ.2024,sigir,,2025-09-13T21:56:10.714769
+1184,901188,SIGIR Workshop on eCommerce,SIGIReCom,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1185,901189,ACM International Conference on Knowledge Discovery and Data Mining,SIGKDD,,2025,0,0,,,,,,,kdd,,2025-09-13T21:56:10.714769
+1186,901190,ACM Conference on Management of Data,SIGMOD,,2025,0,0,,,,,,,sigmod,,2025-09-13T21:56:10.714769
+1187,901191,ACM Technical Symposium on Computer Science Education,SIGSE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1188,901192,ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems,SIGSPATIAL,,2025,0,0,,,,,,OOX3mKRBpYMJ.2024,gis,,2025-09-13T21:56:10.714769
+1189,901193,IEEE/SICE International Symposium on System Integration,SII,,2025,0,0,,,,,,fNsEtErxZiIJ.2020,,,2025-09-13T21:56:10.714769
+1190,901194,Simpósio Internacional de Informática Educatica,SIIE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1191,901195,Annual International Symposium on Information Management and Big Data,SIMBig,,2025,0,0,,,,,,,simbig,,2025-09-13T21:56:10.714769
+1192,901196,"IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots",SIMPAR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1193,901197,International Sysmposium on Data-Driven Process Discovery and Analysis,SIMPDA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1194,901198,"International Conference on Simulation and Modeling Methodologies, Technologies and Applications",SIMULTECH,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1195,901199,International Workshop on Secure Internet of Things,SIoT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1196,901200,nternational Conference on Similarity Search and Applications,SISAP,,2025,0,0,,,,,,,sisap,,2025-09-13T21:56:10.714769
+1197,901201,"Symposium on Languages, Applications and Technologies",SLATE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1198,901202,ACM SIGPLAN International Conference on Software Language Engineering,SLE,,2025,0,0,,,,,,gvR2lhvj3awJ.2023,sle,,2025-09-13T21:56:10.714769
+1199,901203,Conference on Smart Learning Ecosystems and Regional Development,SLERD,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1200,901204,International Conference on Smart Computing,SMARTCOMP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1201,901205,International Conference on Smart Grids and Green ICT Systems,SMARTGREENS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1202,901206,IEEE International Conference on Smart Grid Communications,SMARTGRIDCOMM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1203,901207,"IEEE International Conference on Systems, Man and Cybernetics",SMC,,2025,0,0,,,,,,qJlcVei6YeoJ.2024,smc,,2025-09-13T21:56:10.714769
+1204,901208,Sound and Music Computing Conference,SMusC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1205,901209,Workshop on Social Network Analysis in Applications,SNAA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1206,901210,IEEE Conference on Service-Oriented Computing and Applications,SOCA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1207,901211,IEEE International System-on-Chip Conference,SOCC,,2025,0,0,,,,,,-JLYUDNfBVUJ.2024,,,2025-09-13T21:56:10.714769
+1208,901212,International Symposium on Computational Geometry,SoCG,,2025,0,0,,,,,,MGCukPJHrn0J.2024,compgeom,,2025-09-13T21:56:10.714769
+1209,901213,International Conference on Social Computing,SOCIALCOM,,2025,0,0,,,,,,,socialcom,,2025-09-13T21:56:10.714769
+1210,901214,International Conference on Social Informatics,SOCINFO,,2025,0,0,,,,,,,socinfo,,2025-09-13T21:56:10.714769
+1211,901215,International Conference on Soft Computing and Pattern Recognition,SoCPaR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1212,901216,ACM-SIAM Symposium on Discrete Algorithms,SODA,ACM-SIAM,2025,0,0,,,,,,9lG2cY79sEoJ.2024,soda,,2025-09-13T21:56:10.714769
+1213,901217,International Conference on Current Trends in Theory and Practice of Computer Science,SOFSEM,,2025,0,0,,,,,,,sofsem,,2025-09-13T21:56:10.714769
+1214,901218,"International Conference on Software, Telecommunications and Computer Networks",SOFTCOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1215,901219,IARIA International Conference on Advances and Trends in Software Engineering,SOFTENG-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1216,901220,International Workshop on Software Engineering for Startups,SoftStart,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1217,901221,IEEE Workshop on Self-Organizing Real-Time Systems,SORT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1218,901222,IEEE International Symposium on Service-Oriented System Engineering,SOSE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1219,901223,IEEE Annual System of Systems Engineering Conference,SoSEC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1220,901224,ACM Symposium on Operating Systems Principles,SOSP,,2025,0,0,,,,,,,sosp,,2025-09-13T21:56:10.714769
+1221,901225,Symposium on Software Defined Networking Research,SOSR,,2025,0,0,,,,,,,sosr,,2025-09-13T21:56:10.714769
+1222,901226,Symposium On Usable Privacy and Security,SOUPS,,2025,0,0,,,,,,d6VxAyLWqWgJ.2024,soups,,2025-09-13T21:56:10.714769
+1223,901227,International Workshop on Mining the Social Web,SoWeMi,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1224,901228,ACM Symposium on Parallelism in Algorithms and Architectures,SPAA,,2025,0,0,,,,,,siTGI384Pw4J.2023,spaa,,2025-09-13T21:56:10.714769
+1225,901229,"International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage",SpaCCS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1226,901230,"International Conference on Security, Privacy, and Applied Cryptography Engineering",SPACE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1227,901231,Spatial Big Data and Machine Learning in GIScience,SpatialBigData,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1228,901232,ACM SIGSPATIAL International Workshop on Spatial Gems,SpatialGems,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1229,901233,International Symposium on String Processing and Information Retrieval,SPIRE,,2025,0,0,,,,,,,spire,,2025-09-13T21:56:10.714769
+1230,901234,"ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity",SPLASH,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1231,901235,International Software Product Line Conference,SPLC,,2025,0,0,,,,,,d7uBCzQUspcJ.2024,splc,,2025-09-13T21:56:10.714769
+1232,901236,"International Conference on Signal, Image Processing and Multimedia",SPM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1233,901237,Spring Simulation Conference,SpringSim,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1234,901238,IEEE Symposium on Reliable Distributed Systems,SRDS,,2025,0,0,,,,,,f5ybybsCQdkJ.2024,srds,,2025-09-13T21:56:10.714769
+1235,901239,International Symposium on Search Based Software Engineering,SSBSE,,2025,0,0,,,,,,,ssbse,,2025-09-13T21:56:10.714769
+1236,901240,International Symposium on Security in Computing and Communications,SSCC,,2025,0,0,,,,,,pGU5_1oxcy0J.2023,sscc,,2025-09-13T21:56:10.714769
+1237,901241,IEEE Symposium Series on Computational Intelligence,SSCI,,2025,0,0,,,,,,c3DqEnruQwEJ.2024,ssci,,2025-09-13T21:56:10.714769
+1238,901242,International Conference on Scientific and Statistical Database Management,SSDBM,,2025,0,0,,,,,,w_KC2fvJJQEJ.2024,ssdbm,,2025-09-13T21:56:10.714769
+1239,901243,Southwest Symposium on Image Analysis and Interpretation,SSIAI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1240,901244,International Workshop on Structural and Syntactic Pattern Recognition,SSPR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1241,901245,"International Symposium on Safety, Security and Rescue Robotics",SSRR,,2025,0,0,,,,,,in-bLtIuMBYJ.2020,,,2025-09-13T21:56:10.714769
+1242,901246,International Symposium on Spatial and Temporal Databases,SSTD,,2025,0,0,,,,,,,ssd,,2025-09-13T21:56:10.714769
+1243,901247,Symposium on Theoretical Aspects of Computer Science,STACS,,2025,0,0,,,,,,BmGC50v8VqkJ.2024,stacs,,2025-09-13T21:56:10.714769
+1244,901248,Brazilian Symposium in Information and Human Language Technology,STIL,,2025,0,0,,,,,,,stil,,2025-09-13T21:56:10.714769
+1245,901249,ACM Symposium on Theory of Computing,STOC,ACM,2025,0,0,,,,,,t-147h7Cn5cJ.2024,stoc,,2025-09-13T21:56:10.714769
+1246,901250,Latin American Conference on Pattern Languages of Programs,SUGARLOAFPLOP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1247,901251,Symposium on Spatial User Interaction,SUI,,2025,0,0,,,,,,pUIVy52VbeEJ.2024,sui,,2025-09-13T21:56:10.714769
+1248,901252,International Conference on Scalable Uncertainty Management,SUM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1249,901253,Conference on Sustainable Internet and ICT for Sustainability,SustainIT,,2025,0,0,,,,,,,ifip6-3,,2025-09-13T21:56:10.714769
+1250,901254,Symposium on Virtual and Augmented Reality,SVR,,2025,0,0,,,,,,Y15SCgN8Um8J.2024,,,2025-09-13T21:56:10.714769
+1251,901255,Scandinavian Workshop on Algorithm Theory,SWAT,,2025,0,0,,,,,,IyEy51GZdIUJ.2023,swat,,2025-09-13T21:56:10.714769
+1252,901256,Conference Software Quality Days,SWQD,,2025,0,0,,,,,,,swqd,,2025-09-13T21:56:10.714769
+1253,901257,IEEE International Systems Conference,SYSCON,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1254,901258,Conference on Control and Fault-Tolerant Systems,SYSTOL,,2025,0,0,,,,,,y8-AwXJ0Me0J.2024,systol,,2025-09-13T21:56:10.714769
+1255,901259,International Conference on Automated Reasoning with Analytic Tableaux and Related Methods,TABLEAUX,,2025,0,0,,,,,,,tableaux,,2025-09-13T21:56:10.714769
+1256,901260,Text Analysis Conference,TAC,,2025,0,0,,,,,,,tac,,2025-09-13T21:56:10.714769
+1257,901261,International Conference on Tools and Algorithms for the Construction and Analysis of Systems,TACAS,,2025,0,0,,,,,,_zC9HnSttFIJ.2019,,,2025-09-13T21:56:10.714769
+1258,901262,Workshop on Tools for Automatic Program Analysis,TAPAS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1259,901263,Conference Towards Autonomous Robotics Systems,TAROS,,2025,0,0,,,,,,3_Q6Rsb1TloJ.2020,,,2025-09-13T21:56:10.714769
+1260,901264,Theoretical Aspects of Software Engineering,TASE,,2025,0,0,,,,,,WZLpmXhRGDcJ.2019,,,2025-09-13T21:56:10.714769
+1261,901265,Theory of Cryptography,TCC,,2025,0,0,,,,,,JP81m6yJpiEJ.2024,tcc,,2025-09-13T21:56:10.714769
+1262,901266,International Conference on Technical Debt,TechDebt,,2025,0,0,,,,,,,icse,,2025-09-13T21:56:10.714769
+1263,901267,Technological Ecosystems for Enhancing Multiculturality,TEEM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1264,901268,"International Conference on Tangible, Embedded and Embodied Interaction",TEI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1265,901269,Workshop on Graph-based Methods for Natural Language Processing,TextGraphs,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1266,901270,Interdisciplinary Workshop on Timbre,TIMBRE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1267,901271,Congreso Internacional de Informática Educativa,TISE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1268,901272,International Conference on Theory and Practice of Digital Libraries,TPDL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1269,901273,Text Retrieval Conference,TREC,,2025,0,0,,,,,,NVceRfB9aaoJ.2024,trec,,2025-09-13T21:56:10.714769
+1270,901274,International Workshop on Trust in Agent societies,TRUST,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1271,901275,"International Conference on Trust, Security and Privacy in Computing and Communications",TRUSTCOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1272,901276,"International Conference on Text, Speech and Dialogue",TSD,,2025,0,0,,,,,,wfD8vcltKiQJ.2024,tsd,,2025-09-13T21:56:10.714769
+1273,901277,ACM International Conference on Interactive Experiences for TV and Online Video,TVX,,2025,0,0,,,,,,,tvx,,2025-09-13T21:56:10.714769
+1274,901278,Conference on Uncertainty in Artificial Intelligence,UAI,,2025,0,0,,,,,,xLfkTVI4LkMJ.2024,atal,,2025-09-13T21:56:10.714769
+1275,901279,"IARIA International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies",UBICOMM-IARIA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1276,901280,ACM International Joint Conference on Pervasive and Ubiquitous Computing,UbiComp,,2025,0,0,,,,,,K6EHRjh8bWIJ.2024,huc,,2025-09-13T21:56:10.714769
+1277,901281,Workshop de Música Ubíqua,UBIMUS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1278,901282,International Conference on Ubiquitous Computing and Ambient Intelligence,UCAMI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1279,901283,IEEE/ACM International Conference on Utility and Cloud Computing,UCC,,2025,0,0,,,,,,gCzn4TRHFGQJ.2023,ucc,,2025-09-13T21:56:10.714769
+1280,901284,IEEE International Conference on Ubiquitous Intelligence and Computing,UIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1281,901285,ACM User Interface Software Technology Symposium,UIST,,2025,0,0,,,,,,vl9z3BzoXrgJ.2024,uist,,2025-09-13T21:56:10.714769
+1282,901286,International Conference on Computer Modelling and Simulation,UKSIM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1283,901287,"International Conference on User Modeling, Adaptation and Personalization",UMAP,,2025,0,0,,,,,,jtXTIwcBWV8J.2023,um,,2025-09-13T21:56:10.714769
+1284,901288,International Symposium on Ubiquitous Networking,UNET,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1285,901289,International Workshop on Unification,UNIF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1286,901290,International Conference on Ubiquitous Robots and Ambient Intelligence,UR,,2025,0,0,,,,,,cTek1BiAOX4J.2020,,,2025-09-13T21:56:10.714769
+1287,901291,USENIX Security Symposium,USENIX Security,,2025,0,0,,,,,,HSHJIaLyN9IJ.2024,uss,,2025-09-13T21:56:10.714769
+1288,901292,Congresso Internacional de Ergonomia e Usabilidade de Interfaces Humano Computador,USIHC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1289,901293,International Symposium on Unifying Theories of Programming,UTP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1290,901294,EAI International Conference on Performance Evaluation Methodologies and Tools,VALUETOOLS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1291,901295,International Workshop on Variability Modelling of Software-intensive Systems,VAMOS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1292,901296,"Workshop on NLP for Similar Languages, Varieties and Dialects",VarDial,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1293,901298,IEEE International Conference on Visual Communications and Image Processing,VCIP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1294,901299,IEEE International Conference on Virtual Environments Human-Computer Interfaces and Measurement Systems,VECIMS/CIVEMSA,,2025,0,0,,,,,,SE0J8GWI_bcJ.2024,vecims,,2025-09-13T21:56:10.714769
+1295,901300,International Meeting on High Performance Computing for Computational Science,VECPAR,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1296,901301,International Conference on Virtual Execution Environments,VEE,,2025,0,0,,,,,,,vee,,2025-09-13T21:56:10.714769
+1297,901302,"Workshop on Software Visualization, Evolution and Maintenance",VEM,,2025,0,0,,,,,,,vem,,2025-09-13T21:56:10.714769
+1298,901303,Conference on Videogame Sciences and Arts,Videojogos,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1299,901304,International Conference on Computer Vision Theory and Applications,VISAPP,,2025,0,0,,,,,,ljGmmUmHfUwJ.2024,,,2025-09-13T21:56:10.714769
+1300,901305,"Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",VISIGRAPP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1301,901306,IEEE Working Conference on Software Visualization,VISSOFT,,2025,0,0,,,,,,,vissoft,,2025-09-13T21:56:10.714769
+1302,901307,International Conference on Very Large Data Bases,VLDB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1303,901308,IEEE Symposium on Visual Languages and Human-Centric Computing,VLHCC,,2025,0,0,,,,,,PDH_h8gpFWsJ.2024,vl,,2025-09-13T21:56:10.714769
+1304,901309,International Conference on Very Large Scale Integration,VLSI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1305,901310,"International Symposium on VLSI Design, Automation and Test",VLSI-DAT,,2025,0,0,,,,,,SOMKtO20fWEJ.2024,vlsi-dat,,2025-09-13T21:56:10.714769
+1306,901311,IEEE/IFIP International Conference on VLSI and System-on-Chip,VLSI-SOC,,2025,0,0,,,,,,0lu0mPyqVXAJ.2024,vlsi,,2025-09-13T21:56:10.714769
+1307,901312,International Conference on VLSI Design,VLSID,,2025,0,0,,,,,,ouDl0FhpZQ8J.2024,vlsid,,2025-09-13T21:56:10.714769
+1308,901313,"Vision, Modeling & Visualization",VMV,,2025,0,0,,,,,,,vmv,,2025-09-13T21:56:10.714769
+1309,901314,IEEE Vehicular Networking Conference,VNC,,2025,0,0,,,,,,Uiuel-P8PcAJ.2023,vnc,,2025-09-13T21:56:10.714769
+1310,901315,Visualization and Interaction for Ontologies and Linked Data,VOILA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1311,901317,International Conference on Virtual Reality Continuum and its Applications,VRCAI,,2025,0,0,,,,,,_ClHVElQWS8J.2024,vrcai,,2025-09-13T21:56:10.714769
+1312,901318,ACM Symposium on Virtual Reality Software and Technology,VRST,,2025,0,0,,,,,,QFdzrecfz8sJ.2024,vrst,,2025-09-13T21:56:10.714769
+1313,901319,International Conference on Virtual Worlds and Games for Serious Applications,VS-Games,,2025,0,0,,,,,,GW3dXd7lzJ8J.2019,vsgames,,2025-09-13T21:56:10.714769
+1314,901320,International Conference on Virtual Systems and MultiMedia,VSMM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1315,901321,Vehicular Technology Conference,VTC,,2025,0,0,,,,,,Y0aL1yWCdxkJ.2023,vtc,,2025-09-13T21:56:10.714769
+1316,901322,IEEE VLSI Test Symposium,VTS,,2025,0,0,,,,,,JTdOipGTjv4J.2024,vts,,2025-09-13T21:56:10.714769
+1317,901323,International Symposium Web and Wireless Geographical Information Systems,W2GIS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1318,901324,Conference on Web Accessibility,W4A,,2025,0,0,,,,,,TXeN4Nn46qQJ.2024,w4a,,2025-09-13T21:56:10.714769
+1319,901325,Workshop on Algorithms in Bioinformatics,WABI,,2025,0,0,,,,,,HnP0m-BVIUMJ.2019,,,2025-09-13T21:56:10.714769
+1320,901326,Web Audio Conference,WAC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1321,901327,Workshop on Applications of Computer Vision,WACV,,2025,0,0,,,,,,uo-zCIky-iEJ.2024,wacv,,2025-09-13T21:56:10.714769
+1322,901328,Algorithms and Data Structures Symposium,WADS,,2025,0,0,,,,,,WuJ205lBDckJ.2024,wads,,2025-09-13T21:56:10.714769
+1323,901329,Workshop on the Algorithmic Foundations of Robotics,WAFR,,2025,0,0,,,,,,k40T75326PgJ.2020,,,2025-09-13T21:56:10.714769
+1324,901330,Workshop sobre Aspectos da Interação Humano-Computador para a Web Social,WAIHCWS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1325,901331,International Workshop on Algorithms and Computation,WALCOM,,2025,0,0,,,,,,Qm-_RD142XUJ.2024,walcom,,2025-09-13T21:56:10.714769
+1326,901332,"Workshop de Ensino em Pensamento Computacional, Algoritmos e Programação",WAlgProg,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1327,901333,Workshop on Approximation and Online Algorithms,WAOA,,2025,0,0,,,,,,,waoa,,2025-09-13T21:56:10.714769
+1328,901334,"Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software",WASHES,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1329,901335,IEEE Workshop on Applications of Signal Processing to Audio and Acoustics,WASPAA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1330,901336,"Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis",WASSA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1331,901337,Workshop on Advanced Virtual Environments and Education,WAVE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1332,901338,Workshop Brasileiro de Lógica,WBL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1333,901339,Workshop Brasileiro de Métodos Ágeis,WBMA,,2025,0,0,,,,,,,wbma,,2025-09-13T21:56:10.714769
+1334,901340,Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais,WCAMA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1335,901341,Workshop on Circuits and Systems Design,WCAS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1336,901342,Workshops do Congresso Brasileiro de Informática na Educação,WCBIE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1337,901343,IFIP World Conference on Computers in Education,WCCE,,2025,0,0,,,,,,,wcce,,2025-09-13T21:56:10.714769
+1338,901344,IEEE World Congress on Computational Intelligence,WCCI,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1339,901345,Workshop de Computação Aplicada ao Governo Eletrônico,WCGE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1340,901346,World Congress on Global Optimization,WCGO,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1341,901347,Workshop on Computational Intelligence and Smart Cities,WCISC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1342,901348,Workshop on Cloud Networks,WCN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1343,901349,IEEE Wireless Communications and Networking Conference,WCNC,,2025,0,0,,,,,,,wcnc,,2025-09-13T21:56:10.714769
+1344,901350,IEEE Wireless Communications and Networking Conference Workshops,WCNCW,,2025,0,0,,,,,,fw0ZUVavHdsJ.2023,wcncw,,2025-09-13T21:56:10.714769
+1345,901351,Workshop on Communication Networks and Power Systems,WCNPS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1346,901352,SAE World Congress Experience,WCX,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1347,901353,Wireless Days Conference,WD,,2025,0,0,,,,,,AFnewPQslXYJ.2023,wd,,2025-09-13T21:56:10.714769
+1348,901354,"Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems",WDES,,2025,0,0,,,,,,,sessos,,2025-09-13T21:56:10.714769
+1349,901355,International Conference on 3D Web Technology,WEB3D,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1350,901356,International Web for All Conference,Web4All,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1351,901357,International Workshop on the Web and Databases,WEBDB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1352,901358,International Conference on Web Information Systems and Technologies,WEBIST,,2025,0,0,,,,,,0oQi0-PzQ8sJ.2024,webist,,2025-09-13T21:56:10.714769
+1353,901359,Brazilian Symposium on Multimedia and the Web,WEBMEDIA,,2025,0,0,,,,,,EL-07Zfxn_kJ.2024,webmedia,,2025-09-13T21:56:10.714769
+1354,901360,ACM Web Science Conference,WEBSCI,,2025,0,0,,,,,,bjjY0KRB7JIJ.2024,websci,,2025-09-13T21:56:10.714769
+1355,901361,Workshop sobre Educação em Computação,WEI,,2025,0,0,,,,,,-eLSF6KffKgJ.2024,,,2025-09-13T21:56:10.714769
+1356,901362,Workshop on Requirements Engineering,WER,,2025,0,0,,,,,,OEzTeItQGVAJ.2024,wer,,2025-09-13T21:56:10.714769
+1357,901363,Workshop de Engenharia de Software Baseada em Busca,WESB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1358,901364,IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises,WETICE,,2025,0,0,,,,,,kYDZP1q0-MAJ.2020,,,2025-09-13T21:56:10.714769
+1359,901365,IEEE World Forum on Internet of Things,WF-IoT,,2025,0,0,,,,,,gSjQo1cwB88J.2023,wf-iot,,2025-09-13T21:56:10.714769
+1360,901366,IEEE World Conference on Factory Communication Systems,WFCS,,2025,0,0,,,,,,UpYWQKAQb9IJ.2024,wfcs,,2025-09-13T21:56:10.714769
+1361,901367,International Workshop on Graph-Theoretic Concepts in Computer Science,WG,,2025,0,0,,,,,,bEdEBGLFMMoJ.2024,wg,,2025-09-13T21:56:10.714769
+1362,901368,Workshop de Gerência e Operação de Redes e Serviços,WGRS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1363,901369,Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing,WHISPERS,,2025,0,0,,,,,,b0D8OCdsIgcJ.2024,whispers,,2025-09-13T21:56:10.714769
+1364,901370,IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology,WI-IAT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1365,901371,Working IEEE/IFIP Conference on Software Architecture,WICSA,,2025,0,0,,,,,,7pDaek0315EJ.2024,icsa,,2025-09-13T21:56:10.714769
+1366,901372,Workshop de Informática na Escola,WIE,,2025,0,0,,,,,,oRft04FzXroJ.2024,,,2025-09-13T21:56:10.714769
+1367,901373,IEEE Workshop on Information Forensics and Security,WIFS,,2025,0,0,,,,,,mvVvdS_cvHIJ.2024,wifs,,2025-09-13T21:56:10.714769
+1368,901374,Workshop de Informática Médica,WIM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1369,901375,"IEEE International Conference on Wireless and Mobile Computing, Networking and Communications",WIMOB,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1370,901376,"International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks",WiOpt,,2025,0,0,,,,,,wMDBJK-Wc7wJ.2023,wiopt,,2025-09-13T21:56:10.714769
+1371,901377,Workshop in Primary and Secondary Computing Education,WiPSCE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1372,901378,Workshop on Issues of Sentiment Discovery and Opinion Mining,WISDOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1373,901379,International Conference on Web Information Systems Engineering,WISE,,2025,0,0,,,,,,K9DmX5xQU-YJ.2024,wise,,2025-09-13T21:56:10.714769
+1374,901380,ACM Conference on Security & Privacy in Wireless and Mobile Networks,WiSec,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1375,901381,International Conference on Information Security Theory and Practice,WISTP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1376,901382,Women in Information Technology,WIT,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1377,901383,International Conference on Wireless and Optical Communications Networks,WOCN,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1378,901384,"International Workshop on Logic, Language, Information and Computation",WOLLIC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1379,901385,"International Workshop on Ontology Modularity, Contextuality, and Evolution",WOMoCoE,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1380,901386,Wireless On-demand Network systems and Services Conference,WONS,,2025,0,0,,,,,,,wons,,2025-09-13T21:56:10.714769
+1381,901387,Workshop on Workflows in Support of Large-Scale Science,WORKS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1382,901388,International Workshop on Mining Scientific Publications,WOSP,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1383,901389,"International Symposium on a World of Wireless, Mobile and Multimedia Networks",WOWMOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1384,901390,Workshop de Pesquisa Experimental da Internet do Futuro,WPEIF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1385,901391,Workshop em Desempenho de Sistemas Computacionais e de Comunicação,WPerformance,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1386,901392,Annual ACM workshop on Privacy in the electronic society,WPES,,2025,0,0,,,,,,pUbmTvcLFnQJ.2023,wpes,,2025-09-13T21:56:10.714769
+1387,901393,International Workshop on Rewriting Logic and its Applications,WRLA,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1388,901394,Winter Simulation Conference,WSC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1389,901395,Simpósio em Sistemas Computacionais de Alto Desempenho,WSCAD,,2025,0,0,,,,,,MZeKedZe-5YJ.2024,,,2025-09-13T21:56:10.714769
+1390,901396,Workshop de Segurança Cibernética em Dispositivos Conectados,WSCDC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1391,901397,International Conference in Central Europe on Computer Graphics and Visualization and Computer Vision,WSCG,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1392,901398,ACM Conference International Conference on Web Search and Data Mining,WSDM,,2025,0,0,,,,,,6AbX1YWluE4J.2023,wsdm,,2025-09-13T21:56:10.714769
+1393,901399,Workshop de Software Livre,WSL,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1394,901400,"International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization",WSOM,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1395,901401,Workshop de Testes e Tolerância a Falhas,WTF,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1396,901402,Workshop de Transparência de Sistema,WTranS,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1397,901403,Workshop de Visão Computacional,WVC,,2025,0,0,,,,,,,,,2025-09-13T21:56:10.714769
+1398,901404,International World Wide Web Conferences,WWW,,2025,0,0,,,,,,VtCeQ7ShDloJ.2024,www,,2025-09-13T21:56:10.714769
+1399,901405,International Conference on Agile Software Development,XP,,2025,0,0,,,,,,CWzNub7mXWkJ.2024,xpu,,2025-09-13T21:56:10.714769

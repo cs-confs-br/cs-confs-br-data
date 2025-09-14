@@ -1,0 +1,41 @@
+{
+  "unifications": {
+    "IEEE VIS": {
+      "absorbs": ["InfoVis", "SciVis", "VAST"],
+      "keep_as_alternatives": true
+    }
+  },
+
+  "qualis_duplicates": {
+    "unify": {
+      "3DUI/VR": {
+        "keep": "CompID900003",
+        "remove": ["CompID901316"]
+      },
+      "CollabTech/CRIWG": {
+        "keep": "CompID900241",
+        "remove": ["CompID900264"]
+      },
+      "HT/Hypertext": {
+        "keep": "CompID900516",
+        "remove": ["CompID900518"]
+      }
+    }
+  },
+
+  "ignore_renames": {
+    "AGILE": {
+      "wrong_rename": "AGILEGIS"
+    }
+  },
+
+  "force_renames": {
+    "WSCAD": {
+      "new_name": "SSCAD"
+    }
+  },
+
+  "priority_rules": {
+    "when_both_exist": "prefer_ce"
+  }
+}
