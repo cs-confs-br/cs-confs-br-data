@@ -21,7 +21,7 @@ api_key = sys.argv[1]
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 # ---- Load CSV ----
-csv_file = "ABZ_2019_2024_springer_2025_09.confseries.csv"
+csv_file = "ICVNS_2018_2024_springer_2025_09.confseries.csv"
 with open(csv_file, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     dois = [row["DOI"].replace("https://doi.org/", "") for row in reader]
@@ -30,7 +30,22 @@ with open(csv_file, newline="", encoding="utf-8") as f:
 for base_doi in dois:
     print(f"\nProcessing base DOI: {base_doi}")
 
-    for i in range(1, MAX_TRIES + 1):
+    ###row = df[df["DOI"] == base_doi].iloc[0]
+
+    # defaults
+    first_paper = 1
+    last_paper = 999
+
+    '''
+    if "FirstPaper" in df.columns and not pd.isna(row["FirstPaper"]):
+        first_paper = int(row["FirstPaper"])
+    if "LastPaper" in df.columns and not pd.isna(row["LastPaper"]):
+        last_paper = int(row["LastPaper"])
+        '''
+    print("WARNING! IGNORING FIRST AND LAST PAPER COUNTS! MUST FIX THIS!!!")
+
+    for i in range(1, MAX_TRIES + 1):   
+
         doi = f"{base_doi}_{i}"
         filename = doi.replace("/", "_").replace(":", "_") + ".json"
         filepath = os.path.join(CACHE_DIR, filename)

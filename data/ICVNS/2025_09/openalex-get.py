@@ -5,8 +5,8 @@ import time
 import csv
 import os
 
-INPUT_FILE = "ABZ_2019_2024_springer_2025_09.confseries.csv"
-OUTPUT_FILE = "ABZ_2019_2014_OA_2025_09.OA-lite.csv"
+INPUT_FILE = "ICVNS_2018_2024_springer_2025_09.confseries.csv"
+OUTPUT_FILE = "ICVNS_2018_2024_OA_2025_09.OA-lite.csv"
 
 # Fields we need
 FIELDS = [
@@ -62,7 +62,20 @@ def main():
 
         for base_doi in dois:
             print(f"\n📘 Processing book DOI: {base_doi}")
-            suffix = 1
+
+            row = df[df["DOI"] == base_doi].iloc[0]
+
+            # defaults
+            first_paper = 1
+            last_paper = 999
+
+            if "FirstPaper" in df.columns and not pd.isna(row["FirstPaper"]):
+                first_paper = int(row["FirstPaper"])
+            if "LastPaper" in df.columns and not pd.isna(row["LastPaper"]):
+                last_paper = int(row["LastPaper"])
+                
+            print(f"\n first paper = {first_paper}   last paper = {last_paper}")
+            suffix = first_paper
             while True:
                 chapter_doi = f"{base_doi}_{suffix}"
                 print(f"   → Fetching chapter DOI: {chapter_doi}")
@@ -104,6 +117,8 @@ def main():
 
                 suffix += 1
                 time.sleep(1)  # be nice to API
+                if suffix > last_paper:
+                    break
 
     print(f"\n✅ Done! Output saved to {OUTPUT_FILE}")
 
