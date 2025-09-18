@@ -21,7 +21,7 @@ api_key = sys.argv[1]
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 # ---- Load CSV ----
-csv_file = "shared-series-ABZ_2019_2024_springer_2025_09.csv"
+csv_file = "ABZ_2019_2024_springer_2025_09.confseries.csv"
 with open(csv_file, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     dois = [row["DOI"].replace("https://doi.org/", "") for row in reader]

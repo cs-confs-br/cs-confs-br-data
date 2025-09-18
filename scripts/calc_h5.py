@@ -58,6 +58,9 @@ def carrega_csv(caminho):
     if ".OA." in os.path.basename(caminho):
         print(f"Processando {caminho}... [CSV OpenAlex]")
         return carregar_openalex_csv(caminho)
+    elif ".OA-lite." in os.path.basename(caminho):
+        print(f"Processando {caminho}... [CSV OpenAlex LITE]")
+        return carregar_openalex_csv(caminho)
     else:
         print(f"Processando {caminho}... [CSV Padrão]")
         return carregar_csv_padrao(caminho)
@@ -114,6 +117,11 @@ def run_h5_script(ANO_REF, SIGLA, PACOTE):
     print("=== H-index por arquivo ===")
     for arq in arquivos:
         caminho = arq
+
+        if arq.endswith(".confseries.csv"):
+            print(f"⚠ Ignorando {arq} (confseries)")
+            continue  # skip this file
+
         df_temp = carrega_csv(caminho)
 
         if DEBUG:
@@ -216,5 +224,5 @@ def run_h5_script(ANO_REF, SIGLA, PACOTE):
 
 if __name__ == '__main__':
     print(f"github.com/cs-confs-br/cs-confs-br-data: executando script calc_h5.py")
-    h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(2024, 'SBPO', '2025_09')
+    h5_total, h5_med_total, total_citacoes, num_papers_total, fontes = run_h5_script(2025, 'ABZ', '2025_09')
     print("Fontes utilizadas:", fontes)
