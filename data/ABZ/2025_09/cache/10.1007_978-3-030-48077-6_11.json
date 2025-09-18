@@ -1,0 +1,268 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-030-48077-6_11",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-48077-6_11",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-48077-6_11"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-48077-6_11"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-48077-6_11"
+        }
+      ],
+      "title": "Event-B-Supported Choreography-Defined Communicating Systems",
+      "creators": [
+        {
+          "creator": "Benyagoub, Sarah"
+        },
+        {
+          "creator": "Aït-Ameur, Yamine"
+        },
+        {
+          "creator": "Schewe, Klaus-Dieter"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Raschke, Alexander"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Houdek, Frank"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-48077-6_11",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2020-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-48076-9",
+      "electronicIsbn": "978-3-030-48077-6",
+      "isbn": "978-3-030-48076-9",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2020-05-22",
+      "seriesId": "558",
+      "copyright": "©2020 Springer Nature Switzerland AG",
+      "abstract": "Choreographies prescribe the rendez-vous synchronisation of messages in a communicating system. Such a system is called realisable , if the traces of the prescribed communication coincide with those of the asynchronous system of peers, where the communication channels either use FIFO queues or multiset mailboxes. It has recently been shown that realisability can be characterised by two necessary conditions that together are also sufficient, whereas in general the synchronisability of communicating peers is undecidable. The sufficiency of the conditions permits the construction of correct communicating systems; their necessity shows that all choreography-defined communicating system can be obtained in this way. This article provides an integrated framework based on Event-B for such a construction with a major emphasis on Rodin-based proofs of correctness and completeness.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2020"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "7",
+          "confEventLocation": [
+            {
+              "city": "Ulm",
+              "country": [
+                {
+                  "code": "DE",
+                  "value": "Germany"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "27"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "29"
+            }
+          ],
+          "confEventURL": "https://abz2020.uni-ulm.de/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "3",
+            "averageNumberOfReviewsPerPaper": "3",
+            "externalReviewersInvolved": "No",
+            "fullPapersAcceptanceRate": "20",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "9",
+            "submissionsSentForReview": "61",
+            "type": "Single-blind",
+            "value": "6 case study contributions, 6 PhD-Symposium-contributions, 2 invited papers. The conference was cancelled due to the COVID-19 pandemic."
+          }
+        }
+      ],
+      "keyword": [
+        "Event-B",
+        "Choreography",
+        "Realisability",
+        "Correctness proof",
+        "Completeness proof"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Artificial Intelligence",
+        "Computer Systems Organization and Communication Networks",
+        "Software Engineering",
+        "Control Structures and Microprogramming"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "2970",
+          "term": "Artificial Intelligence"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "5482",
+          "term": "Software Engineering"
+        },
+        {
+          "id": "3431",
+          "term": "Control Structures and Microprogramming"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Artificial Intelligence",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Control Structures and Microprogramming",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Software Engineering",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Choreography",
+          "count": "1"
+        },
+        {
+          "value": "Completeness proof",
+          "count": "1"
+        },
+        {
+          "value": "Correctness proof",
+          "count": "1"
+        },
+        {
+          "value": "Event-B",
+          "count": "1"
+        },
+        {
+          "value": "Realisability",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "China",
+          "count": "1"
+        },
+        {
+          "value": "France",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

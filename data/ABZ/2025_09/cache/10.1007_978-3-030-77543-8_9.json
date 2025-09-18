@@ -1,0 +1,262 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-030-77543-8_9",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-77543-8_9",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-77543-8_9"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-77543-8_9"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-77543-8_9"
+        }
+      ],
+      "title": "About the Concolic Execution and Symbolic ASM Function Promotion in CASM",
+      "creators": [
+        {
+          "creator": "Paulweber, Philipp"
+        },
+        {
+          "creator": "Moosbrugger, Jakob"
+        },
+        {
+          "creator": "Zdun, Uwe"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Raschke, Alexander"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-77543-8_9",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2021-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-77542-1",
+      "electronicIsbn": "978-3-030-77543-8",
+      "isbn": "978-3-030-77542-1",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2021-05-23",
+      "seriesId": "558",
+      "copyright": "©2021 Springer Nature Switzerland AG",
+      "abstract": "Abstract State Machines (ASMs) are a well-known state based formal method to describe systems at a very high level and can be executed either through a concrete or symbolic interpretation. By symbolically executing an ASM specification, certain properties can be checked by transforming the described ASM into a suitable input for model checkers or Automated Theorem Provers (ATPs). Due to the rather fast increasing state space, model checking and ATP solutions can lead to inefficient implementations of symbolic execution. More efficient state space and execution performance can be achieved by using a concolic execution approach. In this paper, we describe an improved concolic execution implementation for the Corinthian Abstract State Machine (CASM) language. We outline the transformation of a symbolically executed ASM specification to a single Thousands of Problems for Theorem Provers (TPTP) format. Furthermore, we introduce a compiler analysis to promote concrete ASM functions into symbolic ones in order to obtain symbolic consistency.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2021"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "8",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Ulm",
+              "country": [
+                {
+                  "code": "DE",
+                  "value": "Germany"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2021",
+              "month": "06",
+              "day": "09"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2021",
+              "month": "06",
+              "day": "11"
+            }
+          ],
+          "confEventURL": "https://abz2021.uni-ulm.de/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "1-2",
+            "averageNumberOfReviewsPerPaper": "4",
+            "externalReviewersInvolved": "No",
+            "fullPapersAcceptanceRate": "33",
+            "fullPapersAccepted": "6",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "8",
+            "submissionsSentForReview": "18",
+            "type": "Single-blind",
+            "value": "The proceedings also contain 3 PhD symposium contributions. The conference took place virtually due to the COVID-19 pandemic.."
+          }
+        }
+      ],
+      "keyword": [
+        "Abstract State Machine",
+        "Concolic execution",
+        "CASM",
+        "TPTP",
+        "Z3"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Computer Systems Organization and Communication Networks",
+        "Logic in AI",
+        "Information Systems Applications (incl. Internet)",
+        "Programming Languages, Compilers, Interpreters"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "5093",
+          "term": "Logic in AI"
+        },
+        {
+          "id": "3121",
+          "term": "Computer and Information Systems Applications"
+        },
+        {
+          "id": "22727",
+          "term": "Compilers and Interpreters"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Information Systems Applications (incl. Internet)",
+          "count": "1"
+        },
+        {
+          "value": "Logic in AI",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Programming Languages, Compilers, Interpreters",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Abstract State Machine",
+          "count": "1"
+        },
+        {
+          "value": "CASM",
+          "count": "1"
+        },
+        {
+          "value": "Concolic execution",
+          "count": "1"
+        },
+        {
+          "value": "TPTP",
+          "count": "1"
+        },
+        {
+          "value": "Z3",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2021",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Austria",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

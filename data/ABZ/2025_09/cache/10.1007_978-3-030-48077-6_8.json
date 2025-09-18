@@ -1,0 +1,272 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-030-48077-6_8",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-48077-6_8",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-48077-6_8"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-48077-6_8"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-48077-6_8"
+        }
+      ],
+      "title": "Analysing ProB’s Constraint Solving Backends",
+      "creators": [
+        {
+          "ORCID": "0000-0003-0819-5554",
+          "creator": "Dunkelau, Jannik"
+        },
+        {
+          "ORCID": "0000-0001-8842-2993",
+          "creator": "Schmidt, Joshua"
+        },
+        {
+          "ORCID": "0000-0002-4595-1518",
+          "creator": "Leuschel, Michael"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Raschke, Alexander"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Houdek, Frank"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-48077-6_8",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2020-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-48076-9",
+      "electronicIsbn": "978-3-030-48077-6",
+      "isbn": "978-3-030-48076-9",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2020-05-22",
+      "seriesId": "558",
+      "copyright": "©2020 Springer Nature Switzerland AG",
+      "abstract": "We evaluate the strengths and weaknesses of different backends of the ProB constraint solver. For this, we train a random forest over a database of constraints to classify whether a backend is able to find a solution within a given amount of time or answers unknown . The forest is then analysed in regards of feature importances to determine subsets of the B language in which the respective backends excel or lack for performance. The results are compared to our initial assumptions over each backend’s performance in these subsets based on personal experiences. While we do employ classifiers, we do not aim for a good predictor, but are rather interested in analysis of the classifier’s learned knowledge over the utilised B constraints. The aim is to strengthen our knowledge of the different tools at hand by finding subsets of the B language in which a backend performs better than others.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2020"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "7",
+          "confEventLocation": [
+            {
+              "city": "Ulm",
+              "country": [
+                {
+                  "code": "DE",
+                  "value": "Germany"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "27"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "29"
+            }
+          ],
+          "confEventURL": "https://abz2020.uni-ulm.de/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "3",
+            "averageNumberOfReviewsPerPaper": "3",
+            "externalReviewersInvolved": "No",
+            "fullPapersAcceptanceRate": "20",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "9",
+            "submissionsSentForReview": "61",
+            "type": "Single-blind",
+            "value": "6 case study contributions, 6 PhD-Symposium-contributions, 2 invited papers. The conference was cancelled due to the COVID-19 pandemic."
+          }
+        }
+      ],
+      "keyword": [
+        "Constraint solving",
+        "Machine learning",
+        "Decision trees",
+        "Feature importances",
+        "Association rules",
+        "Automated tool selection"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Artificial Intelligence",
+        "Computer Systems Organization and Communication Networks",
+        "Software Engineering",
+        "Control Structures and Microprogramming"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "2970",
+          "term": "Artificial Intelligence"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "5482",
+          "term": "Software Engineering"
+        },
+        {
+          "id": "3431",
+          "term": "Control Structures and Microprogramming"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Artificial Intelligence",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Control Structures and Microprogramming",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Software Engineering",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Association rules",
+          "count": "1"
+        },
+        {
+          "value": "Automated tool selection",
+          "count": "1"
+        },
+        {
+          "value": "Constraint solving",
+          "count": "1"
+        },
+        {
+          "value": "Decision trees",
+          "count": "1"
+        },
+        {
+          "value": "Feature importances",
+          "count": "1"
+        },
+        {
+          "value": "Machine learning",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Germany",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

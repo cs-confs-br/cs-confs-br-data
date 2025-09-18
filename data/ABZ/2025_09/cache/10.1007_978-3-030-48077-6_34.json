@@ -1,0 +1,230 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-030-48077-6_34",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-48077-6_34",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-48077-6_34"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-48077-6_34"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-48077-6_34"
+        }
+      ],
+      "title": "Automatic Generation of DistAlgo Programs from Event-B Models",
+      "creators": [
+        {
+          "creator": "Grall, Alexis"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Raschke, Alexander"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Houdek, Frank"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-48077-6_34",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2020-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-48076-9",
+      "electronicIsbn": "978-3-030-48077-6",
+      "isbn": "978-3-030-48076-9",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2020-05-22",
+      "seriesId": "558",
+      "copyright": "©2020 Springer Nature Switzerland AG",
+      "abstract": "The development of distributed algorithms offers challenges in verifying that they meet their specifications. The correct-by-construction approach consists in developing a model of the algorithm before transforming this model into a program.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2020"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "7",
+          "confEventLocation": [
+            {
+              "city": "Ulm",
+              "country": [
+                {
+                  "code": "DE",
+                  "value": "Germany"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "27"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "29"
+            }
+          ],
+          "confEventURL": "https://abz2020.uni-ulm.de/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "3",
+            "averageNumberOfReviewsPerPaper": "3",
+            "externalReviewersInvolved": "No",
+            "fullPapersAcceptanceRate": "20",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "9",
+            "submissionsSentForReview": "61",
+            "type": "Single-blind",
+            "value": "6 case study contributions, 6 PhD-Symposium-contributions, 2 invited papers. The conference was cancelled due to the COVID-19 pandemic."
+          }
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Artificial Intelligence",
+        "Computer Systems Organization and Communication Networks",
+        "Software Engineering",
+        "Control Structures and Microprogramming"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "2970",
+          "term": "Artificial Intelligence"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "5482",
+          "term": "Software Engineering"
+        },
+        {
+          "id": "3431",
+          "term": "Control Structures and Microprogramming"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Artificial Intelligence",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Control Structures and Microprogramming",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Software Engineering",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "France",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

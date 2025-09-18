@@ -1,0 +1,243 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-030-48077-6_30",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-48077-6_30",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-48077-6_30"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-48077-6_30"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-48077-6_30"
+        }
+      ],
+      "title": "A Verified Low-Level Implementation of the Adaptive Exterior Light and Speed Control System",
+      "creators": [
+        {
+          "ORCID": "0000-0001-6712-9798",
+          "creator": "Krings, Sebastian"
+        },
+        {
+          "ORCID": "0000-0001-7256-9560",
+          "creator": "Körner, Philipp"
+        },
+        {
+          "ORCID": "0000-0003-0819-5554",
+          "creator": "Dunkelau, Jannik"
+        },
+        {
+          "ORCID": "0000-0002-6751-0369",
+          "creator": "Rutenkolk, Chris"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Raschke, Alexander"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Houdek, Frank"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-48077-6_30",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2020-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-48076-9",
+      "electronicIsbn": "978-3-030-48077-6",
+      "isbn": "978-3-030-48076-9",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2020-05-22",
+      "seriesId": "558",
+      "copyright": "©2020 Springer Nature Switzerland AG",
+      "abstract": "In this article, we present an approach to the ABZ 2020 case study, that differs from the ones usually presented at ABZ: Rather than using a (correct-by-construction) approach following a formal method, we use MISRA C for a low-level implementation instead. We strictly adhere to test-driven development for validation, and only afterwards apply model checking using CBMC for verification. In consequence, our realization of the ABZ case study can serve as a baseline reference for comparison, allowing to assess the benefit provided by the various formal modeling languages, methods and tools.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2020"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "7",
+          "confEventLocation": [
+            {
+              "city": "Ulm",
+              "country": [
+                {
+                  "code": "DE",
+                  "value": "Germany"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "27"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "29"
+            }
+          ],
+          "confEventURL": "https://abz2020.uni-ulm.de/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "3",
+            "averageNumberOfReviewsPerPaper": "3",
+            "externalReviewersInvolved": "No",
+            "fullPapersAcceptanceRate": "20",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "9",
+            "submissionsSentForReview": "61",
+            "type": "Single-blind",
+            "value": "6 case study contributions, 6 PhD-Symposium-contributions, 2 invited papers. The conference was cancelled due to the COVID-19 pandemic."
+          }
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Artificial Intelligence",
+        "Computer Systems Organization and Communication Networks",
+        "Software Engineering",
+        "Control Structures and Microprogramming"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "2970",
+          "term": "Artificial Intelligence"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "5482",
+          "term": "Software Engineering"
+        },
+        {
+          "id": "3431",
+          "term": "Control Structures and Microprogramming"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Artificial Intelligence",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Control Structures and Microprogramming",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Software Engineering",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Germany",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

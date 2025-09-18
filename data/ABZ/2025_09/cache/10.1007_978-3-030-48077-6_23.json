@@ -1,0 +1,267 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-030-48077-6_23",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-48077-6_23",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-48077-6_23"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-48077-6_23"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-48077-6_23"
+        }
+      ],
+      "title": "Refinement and Verification of Responsive Control Systems",
+      "creators": [
+        {
+          "creator": "Morris, Karla"
+        },
+        {
+          "creator": "Snook, Colin"
+        },
+        {
+          "creator": "Hoang, Thai Son"
+        },
+        {
+          "creator": "Hulette, Geoffrey"
+        },
+        {
+          "creator": "Armstrong, Robert"
+        },
+        {
+          "creator": "Butler, Michael"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Raschke, Alexander"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Houdek, Frank"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-48077-6_23",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2020-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-48076-9",
+      "electronicIsbn": "978-3-030-48077-6",
+      "isbn": "978-3-030-48076-9",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2020-05-22",
+      "seriesId": "558",
+      "copyright": "©2020 Springer Nature Switzerland AG",
+      "abstract": "Statechart notations with ‘run to completion’ semantics, are popular with engineers for designing controllers that respond to events in the environment with a sequence of state transitions. However, they lack formal refinement and rigorous verification methods. , on the other hand, is based on refinement from an initial abstraction and is designed to make formal verification by automatic theorem provers feasible. We introduce a notion of refinement into a ‘run to completion’ statechart modelling notation, and leverage tool support for theorem proving. We describe the difficulties in translating ‘run to completion’ semantics into refinements and suggest a solution. We outline how safety and liveness properties could be verified.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2020"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "7",
+          "confEventLocation": [
+            {
+              "city": "Ulm",
+              "country": [
+                {
+                  "code": "DE",
+                  "value": "Germany"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "27"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2020",
+              "month": "05",
+              "day": "29"
+            }
+          ],
+          "confEventURL": "https://abz2020.uni-ulm.de/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "3",
+            "averageNumberOfReviewsPerPaper": "3",
+            "externalReviewersInvolved": "No",
+            "fullPapersAcceptanceRate": "20",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "9",
+            "submissionsSentForReview": "61",
+            "type": "Single-blind",
+            "value": "6 case study contributions, 6 PhD-Symposium-contributions, 2 invited papers. The conference was cancelled due to the COVID-19 pandemic."
+          }
+        }
+      ],
+      "keyword": [
+        "Run-to-completion",
+        "Statecharts",
+        "Refinement"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Artificial Intelligence",
+        "Computer Systems Organization and Communication Networks",
+        "Software Engineering",
+        "Control Structures and Microprogramming"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "2970",
+          "term": "Artificial Intelligence"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "5482",
+          "term": "Software Engineering"
+        },
+        {
+          "id": "3431",
+          "term": "Control Structures and Microprogramming"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Artificial Intelligence",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Control Structures and Microprogramming",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Software Engineering",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Refinement",
+          "count": "1"
+        },
+        {
+          "value": "Run-to-completion",
+          "count": "1"
+        },
+        {
+          "value": "Statecharts",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2020",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "United Kingdom",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-030-77543-8_4",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-030-77543-8_4",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-030-77543-8_4"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-030-77543-8_4"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-030-77543-8_4"
+        }
+      ],
+      "title": "Proving the Safety of a Sliding Window Protocol with Event-B",
+      "creators": [
+        {
+          "creator": "Coudert, Sophie"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Raschke, Alexander"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-030-77543-8_4",
+      "publisher": "Springer",
+      "publisherName": "Springer International Publishing",
+      "publicationDate": "2021-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-030-77542-1",
+      "electronicIsbn": "978-3-030-77543-8",
+      "isbn": "978-3-030-77542-1",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2021-05-23",
+      "seriesId": "558",
+      "copyright": "©2021 Springer Nature Switzerland AG",
+      "abstract": "This paper presents an Event-B modeling of the general version of the Sliding Window Protocol (SWP). SWPs ensure reliable data transfer over unreliable media by routing frames together with their indexes. Providing SWPs with formal guarantees is recognized to be quite complex. The experiment we present here shows that Event-B refinement is a suitable approach to ensure the safety of the protocol. First a simple model is developed with unbounded frame indexes. Then bounded indexes and modular arithmetic are introduced, as concrete indexes have fixed size. At this “hybrid” level, unbounded indexes are not used any more in computations but they are still useful to express some properties. Finally, abstract general media are refined towards queues, as an example of implementation. All unbounded indexes fully disappear in the final model.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2021"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "8",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Ulm",
+              "country": [
+                {
+                  "code": "DE",
+                  "value": "Germany"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2021",
+              "month": "06",
+              "day": "09"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2021",
+              "month": "06",
+              "day": "11"
+            }
+          ],
+          "confEventURL": "https://abz2021.uni-ulm.de/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "1-2",
+            "averageNumberOfReviewsPerPaper": "4",
+            "externalReviewersInvolved": "No",
+            "fullPapersAcceptanceRate": "33",
+            "fullPapersAccepted": "6",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "8",
+            "submissionsSentForReview": "18",
+            "type": "Single-blind",
+            "value": "The proceedings also contain 3 PhD symposium contributions. The conference took place virtually due to the COVID-19 pandemic.."
+          }
+        }
+      ],
+      "keyword": [
+        "Event-B",
+        "Sliding Window Protocol",
+        "Formal refinement",
+        "Safety"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Computer Systems Organization and Communication Networks",
+        "Logic in AI",
+        "Information Systems Applications (incl. Internet)",
+        "Programming Languages, Compilers, Interpreters"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "5093",
+          "term": "Logic in AI"
+        },
+        {
+          "id": "3121",
+          "term": "Computer and Information Systems Applications"
+        },
+        {
+          "id": "22727",
+          "term": "Compilers and Interpreters"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Information Systems Applications (incl. Internet)",
+          "count": "1"
+        },
+        {
+          "value": "Logic in AI",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Programming Languages, Compilers, Interpreters",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Event-B",
+          "count": "1"
+        },
+        {
+          "value": "Formal refinement",
+          "count": "1"
+        },
+        {
+          "value": "Safety",
+          "count": "1"
+        },
+        {
+          "value": "Sliding Window Protocol",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2021",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "France",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}
