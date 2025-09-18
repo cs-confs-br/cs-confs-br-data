@@ -1,0 +1,249 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-63790-2_5",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-63790-2_5",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-63790-2_5"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-63790-2_5"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-63790-2_5"
+        }
+      ],
+      "title": "Transpilation of Petri-nets into B",
+      "creators": [
+        {
+          "ORCID": "0000-0003-2267-3639",
+          "creator": "Idani, Akram"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Bonfanti, Silvia"
+        },
+        {
+          "bookEditor": "Gargantini, Angelo"
+        },
+        {
+          "bookEditor": "Leuschel, Michael"
+        },
+        {
+          "bookEditor": "Riccobene, Elvinia"
+        },
+        {
+          "bookEditor": "Scandurra, Patrizia"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-63790-2_5",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2024-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-63789-6",
+      "electronicIsbn": "978-3-031-63790-2",
+      "isbn": "978-3-031-63789-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2024-06-21",
+      "seriesId": "558",
+      "copyright": "©2024 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "Petri-nets and their variants (Place/Transition nets, High-Level Petri Nets, etc.) are widely used in the development of safety critical-systems. Their success is related to three major aspects: a formal semantics, a graphical syntax and the availability of verification tools. In our previous work we presented a new vision for the semantic definition of Petri-nets applying a Formal Model-Driven Engineering (FMDE) built on the B method. The approach is powered by Meeduse , a language workbench that we developed in order to formally instrument executable Domain-Specific Languages (xDSLs) by applying a deep embedding technique and the B method. However, because of the abstract nature of the underlying formal models, our deep embedding is suitable for the validation and verification activities at the design stage but not sufficient to generate code for target platforms. This paper advances our previous work with a shallow embedding technique taking benefit of the B method tools in order to safely synthesize executable Petri-net controllers that can be embedded in target platforms.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2024"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "10",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Bergamo",
+              "country": [
+                {
+                  "code": "IT",
+                  "value": "Italy"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "25"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "28"
+            }
+          ],
+          "confEventURL": "https://abz-conf.org/site/2024/"
+        }
+      ],
+      "keyword": [
+        "B Method",
+        "Petri-nets",
+        "Verification",
+        "Formal MDE"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Computer Systems Organization and Communication Networks",
+        "Computer Applications",
+        "Logic in AI",
+        "Programming Languages, Compilers, Interpreters"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "3121",
+          "term": "Computer and Information Systems Applications"
+        },
+        {
+          "id": "5093",
+          "term": "Logic in AI"
+        },
+        {
+          "id": "22727",
+          "term": "Compilers and Interpreters"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Applications",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Logic in AI",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Programming Languages, Compilers, Interpreters",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "B Method",
+          "count": "1"
+        },
+        {
+          "value": "Formal MDE",
+          "count": "1"
+        },
+        {
+          "value": "Petri-nets",
+          "count": "1"
+        },
+        {
+          "value": "Verification",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2024",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "France",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

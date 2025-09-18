@@ -1,0 +1,226 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-33163-3_6",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-33163-3_6",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-33163-3_6"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-33163-3_6"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-33163-3_6"
+        }
+      ],
+      "title": "Thread-Local, Step-Local Proof Obligations for Refinement of State-Based Concurrent Systems",
+      "creators": [
+        {
+          "creator": "Schellhorn, Gerhard"
+        },
+        {
+          "creator": "Bodenmüller, Stefan"
+        },
+        {
+          "creator": "Reif, Wolfgang"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Glässer, Uwe"
+        },
+        {
+          "bookEditor": "Creissac Campos, Jose"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Palanque, Philippe"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-33163-3_6",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-33162-6",
+      "electronicIsbn": "978-3-031-33163-3",
+      "isbn": "978-3-031-33162-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2023-05-15",
+      "seriesId": "558",
+      "copyright": "©2023 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "This paper presents a proof technique for proving refinements for general state-based models of concurrent systems that reduces proving forward simulations to thread-local, step-local proof obligations. Instances of this proof technique should be applicable to systems specified with ASM rules, B events, or Z operations. To exemplify the proof technique, we demonstrate it with a simple case study that verifies linearizability of a lock-free implementation of concurrent hash sets by showing that it refines an abstract concurrent system with atomic operations. Our theorem prover KIV translates programs to a set of transition rules and generates proof obligations according to the technique.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2023"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "9",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Nancy",
+              "country": [
+                {
+                  "code": "FR",
+                  "value": "France"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "30"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "02"
+            }
+          ],
+          "confEventURL": "https://abz2023.loria.fr/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "2",
+            "averageNumberOfReviewsPerPaper": "4",
+            "externalReviewersInvolved": "Yes",
+            "fullPapersAcceptanceRate": "26",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "7",
+            "submissionsSentForReview": "47",
+            "type": "Single-blind"
+          }
+        }
+      ],
+      "keyword": [
+        "Refinement",
+        "State-Based Concurrent Systems",
+        "Thread-Local Proof Obligations",
+        "Interactive Verification"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Interactive Verification",
+          "count": "1"
+        },
+        {
+          "value": "Refinement",
+          "count": "1"
+        },
+        {
+          "value": "State-Based Concurrent Systems",
+          "count": "1"
+        },
+        {
+          "value": "Thread-Local Proof Obligations",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Germany",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

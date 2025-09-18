@@ -1,0 +1,234 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-63790-2_10",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-63790-2_10",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-63790-2_10"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-63790-2_10"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-63790-2_10"
+        }
+      ],
+      "title": "From Concept to Code: Unveiling a Tool for Translating Abstract State Machines into Java Code",
+      "creators": [
+        {
+          "ORCID": "0000-0003-4244-9319",
+          "creator": "Bombarda, Andrea"
+        },
+        {
+          "ORCID": "0000-0001-9679-4551",
+          "creator": "Bonfanti, Silvia"
+        },
+        {
+          "ORCID": "0000-0002-4035-0131",
+          "creator": "Gargantini, Angelo"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Bonfanti, Silvia"
+        },
+        {
+          "bookEditor": "Gargantini, Angelo"
+        },
+        {
+          "bookEditor": "Leuschel, Michael"
+        },
+        {
+          "bookEditor": "Riccobene, Elvinia"
+        },
+        {
+          "bookEditor": "Scandurra, Patrizia"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-63790-2_10",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2024-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-63789-6",
+      "electronicIsbn": "978-3-031-63790-2",
+      "isbn": "978-3-031-63789-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2024-06-21",
+      "seriesId": "558",
+      "copyright": "©2024 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "Formal methods play a crucial role in modeling and quality assurance, but to be deployed on real systems, formal specifications need to be translated into implementation. Manually converting formal models into code poses challenges such as increased costs, limitations in specification reuse, and the potential for introducing errors. To overcome these limitations, Model-Driven Engineering (MDE) approaches enable developers to generate software code automatically. This paper proposes the Asmeta2Java tool for the automatic translation of formal Asmeta specifications into executable Java code. The designers start at an abstract level and perform refinement steps and verification activities. At the end, they automatically generates the code by applying the model-to-code transformation. Moreover, a process to validate and evaluate the transformation is presented.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2024"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "10",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Bergamo",
+              "country": [
+                {
+                  "code": "IT",
+                  "value": "Italy"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "25"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "28"
+            }
+          ],
+          "confEventURL": "https://abz-conf.org/site/2024/"
+        }
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Computer Systems Organization and Communication Networks",
+        "Computer Applications",
+        "Logic in AI",
+        "Programming Languages, Compilers, Interpreters"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "3121",
+          "term": "Computer and Information Systems Applications"
+        },
+        {
+          "id": "5093",
+          "term": "Logic in AI"
+        },
+        {
+          "id": "22727",
+          "term": "Compilers and Interpreters"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Applications",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Logic in AI",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Programming Languages, Compilers, Interpreters",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": []
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2024",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Italy",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

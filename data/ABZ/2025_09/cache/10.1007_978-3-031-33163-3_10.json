@@ -1,0 +1,230 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-33163-3_10",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-33163-3_10",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-33163-3_10"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-33163-3_10"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-33163-3_10"
+        }
+      ],
+      "title": "Modelling an Automotive Software System with TASTD",
+      "creators": [
+        {
+          "ORCID": "0000-0002-9499-5728",
+          "creator": "Azevedo Oliveira, Diego"
+        },
+        {
+          "ORCID": "0000-0002-4402-2514",
+          "creator": "Frappier, Marc"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Glässer, Uwe"
+        },
+        {
+          "bookEditor": "Creissac Campos, Jose"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Palanque, Philippe"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-33163-3_10",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-33162-6",
+      "electronicIsbn": "978-3-031-33163-3",
+      "isbn": "978-3-031-33162-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2023-05-15",
+      "seriesId": "558",
+      "copyright": "©2023 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "At the ABZ2020 Conference, the case study track proposed to model an Adaptive Exterior Light System and a Speed Control System: the former controls different exterior lights of a vehicle while the latter controls the speed of a vehicle. This paper introduces a model for these two case studies using Timed Algebraic State-Transition Diagrams (TASTD). TASTD is an extension of Algebraic State-Transition Diagrams (ASTD) providing timing operators to express timing constraints. The specification makes extensive use of the TASTD modularity capabilities, thanks to its algebraic approach, to model the behaviour of different sensors and actuators separately. We validate our specification using the cASTD compiler, which translates the TASTD specification into a C++ program. This generated program can be executed in simulation mode to manually update the system clock to check timing constraints. The model is executed on the test sequences provided with the case study. The paper provides a comparison between the TASTD model and other solutions presented at the ABZ2020 Conference. The advantages of having modularisation, orthogonality, abstraction, hierarchy, real-time, and graphical representation in one notation are highlighted with the proposed model.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2023"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "9",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Nancy",
+              "country": [
+                {
+                  "code": "FR",
+                  "value": "France"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "30"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "02"
+            }
+          ],
+          "confEventURL": "https://abz2023.loria.fr/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "2",
+            "averageNumberOfReviewsPerPaper": "4",
+            "externalReviewersInvolved": "Yes",
+            "fullPapersAcceptanceRate": "26",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "7",
+            "submissionsSentForReview": "47",
+            "type": "Single-blind"
+          }
+        }
+      ],
+      "keyword": [
+        "ASTD",
+        "real-time model",
+        "ABZ2020 case study",
+        "TASTD",
+        "formal method"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "ABZ2020 case study",
+          "count": "1"
+        },
+        {
+          "value": "ASTD",
+          "count": "1"
+        },
+        {
+          "value": "formal method",
+          "count": "1"
+        },
+        {
+          "value": "real-time model",
+          "count": "1"
+        },
+        {
+          "value": "TASTD",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Canada",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

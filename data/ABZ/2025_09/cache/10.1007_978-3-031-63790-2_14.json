@@ -1,0 +1,278 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-63790-2_14",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-63790-2_14",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-63790-2_14"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-63790-2_14"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-63790-2_14"
+        }
+      ],
+      "title": "Semantics Formalisation – From Event-B Contexts to Theories",
+      "creators": [
+        {
+          "ORCID": "0000-0003-4095-0732",
+          "creator": "Hoang, Thai Son"
+        },
+        {
+          "ORCID": "0000-0002-2426-0101",
+          "creator": "Voisin, Laurent"
+        },
+        {
+          "ORCID": "0000-0002-0146-3176",
+          "creator": "Wright, Karla Vanessa Morris"
+        },
+        {
+          "ORCID": "0000-0002-0210-0983",
+          "creator": "Snook, Colin"
+        },
+        {
+          "ORCID": "0000-0003-4642-5373",
+          "creator": "Butler, Michael"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Bonfanti, Silvia"
+        },
+        {
+          "bookEditor": "Gargantini, Angelo"
+        },
+        {
+          "bookEditor": "Leuschel, Michael"
+        },
+        {
+          "bookEditor": "Riccobene, Elvinia"
+        },
+        {
+          "bookEditor": "Scandurra, Patrizia"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-63790-2_14",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2024-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-63789-6",
+      "electronicIsbn": "978-3-031-63790-2",
+      "isbn": "978-3-031-63789-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2024-06-21",
+      "seriesId": "558",
+      "copyright": "©2024 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "The Event-B modelling language has been used to formalise the semantics of other modelling languages such as Time Mobility (TiMo) or State Chart XML (SCXML). Typically, the syntactical elements of the languages are captured as Event-B contexts while the semantical elements are formalised in Event-B machines. An alternative for capturing a modelling language’s semantics is to use the Theory plug-in to build datatypes capturing the syntactical elements of the language and operators to represent the various semantical aspects of the language. This paper draws on our experience on the statemanchines (part of SCXML) to compare the two approaches in terms of modelling efforts.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2024"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "10",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Bergamo",
+              "country": [
+                {
+                  "code": "IT",
+                  "value": "Italy"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "25"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "28"
+            }
+          ],
+          "confEventURL": "https://abz-conf.org/site/2024/"
+        }
+      ],
+      "keyword": [
+        "Statecharts",
+        "SCXML",
+        "Event-B",
+        "Theory plugin",
+        "Semantics formalisation"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Computer Systems Organization and Communication Networks",
+        "Computer Applications",
+        "Logic in AI",
+        "Programming Languages, Compilers, Interpreters"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "3121",
+          "term": "Computer and Information Systems Applications"
+        },
+        {
+          "id": "5093",
+          "term": "Logic in AI"
+        },
+        {
+          "id": "22727",
+          "term": "Compilers and Interpreters"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Applications",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Logic in AI",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Programming Languages, Compilers, Interpreters",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Event-B",
+          "count": "1"
+        },
+        {
+          "value": "SCXML",
+          "count": "1"
+        },
+        {
+          "value": "Semantics formalisation",
+          "count": "1"
+        },
+        {
+          "value": "Statecharts",
+          "count": "1"
+        },
+        {
+          "value": "Theory plugin",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2024",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "France",
+          "count": "1"
+        },
+        {
+          "value": "United Kingdom",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

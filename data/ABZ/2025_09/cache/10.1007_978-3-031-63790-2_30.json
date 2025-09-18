@@ -1,0 +1,244 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-63790-2_30",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-63790-2_30",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-63790-2_30"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-63790-2_30"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-63790-2_30"
+        }
+      ],
+      "title": "Proof Construction and Checking on Evolving Abstract State Machines",
+      "creators": [
+        {
+          "ORCID": "0009-0000-6280-8943",
+          "creator": "Sabinus, Edward"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Bonfanti, Silvia"
+        },
+        {
+          "bookEditor": "Gargantini, Angelo"
+        },
+        {
+          "bookEditor": "Leuschel, Michael"
+        },
+        {
+          "bookEditor": "Riccobene, Elvinia"
+        },
+        {
+          "bookEditor": "Scandurra, Patrizia"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-63790-2_30",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2024-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-63789-6",
+      "electronicIsbn": "978-3-031-63790-2",
+      "isbn": "978-3-031-63789-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2024-06-21",
+      "seriesId": "558",
+      "copyright": "©2024 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "Abstract State Machines (ASMs) are widely used in the formalization and verification of the semantics of software or hardware. However, tools for assisting this process for evolving specifications are still lacking. With evolving we denote adding extensions without refactoring. We want to create a tool assisting in the verification of evolving specifications. Our approach is to translate ASM specifications into the language of an existing proof checker, construct the proofs as far as possible automatically, and check the proofs with the proof checker. Further, we want proofs of evolvable specifications also to be evolvable. This paper gives a brief overview of the approach and discusses the first step of this work, namely the translation of ASM specifications into the language of an existing proof checker, with consideration of automation possibilities.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2024"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "10",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Bergamo",
+              "country": [
+                {
+                  "code": "IT",
+                  "value": "Italy"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "25"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "28"
+            }
+          ],
+          "confEventURL": "https://abz-conf.org/site/2024/"
+        }
+      ],
+      "keyword": [
+        "Abstract State Machines",
+        "Automatic Proof Construction",
+        "Proof Checking"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Computer Systems Organization and Communication Networks",
+        "Computer Applications",
+        "Logic in AI",
+        "Programming Languages, Compilers, Interpreters"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "3121",
+          "term": "Computer and Information Systems Applications"
+        },
+        {
+          "id": "5093",
+          "term": "Logic in AI"
+        },
+        {
+          "id": "22727",
+          "term": "Compilers and Interpreters"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Applications",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Logic in AI",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Programming Languages, Compilers, Interpreters",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Abstract State Machines",
+          "count": "1"
+        },
+        {
+          "value": "Automatic Proof Construction",
+          "count": "1"
+        },
+        {
+          "value": "Proof Checking",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2024",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Germany",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

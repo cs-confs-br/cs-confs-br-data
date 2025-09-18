@@ -1,0 +1,247 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-63790-2_19",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-63790-2_19",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-63790-2_19"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-63790-2_19"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-63790-2_19"
+        }
+      ],
+      "title": "ThoR: An Alloy5-Like DSL for Interactive Theorem Proving in Coq",
+      "creators": [
+        {
+          "ORCID": "0009-0009-9629-8430",
+          "creator": "Igler, Bodo"
+        },
+        {
+          "creator": "Mayer, Andreas"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Bonfanti, Silvia"
+        },
+        {
+          "bookEditor": "Gargantini, Angelo"
+        },
+        {
+          "bookEditor": "Leuschel, Michael"
+        },
+        {
+          "bookEditor": "Riccobene, Elvinia"
+        },
+        {
+          "bookEditor": "Scandurra, Patrizia"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-63790-2_19",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2024-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-63789-6",
+      "electronicIsbn": "978-3-031-63790-2",
+      "isbn": "978-3-031-63789-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2024-06-21",
+      "seriesId": "558",
+      "copyright": "©2024 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "The steep learning curve associated with interactive theorem proving poses a significant entry barrier for the learner. While the Alloy specification language [ 1 ] has simplified the introduction to and application of formal methods, transitioning to interactive theorem proving, such as with Coq [ 2 ], remains daunting due to the inherent complexity of formal reasoning and the sophisticated tooling required. We introduce ThoR, an extension for the Coq proof assistant that incorporates an Alloy5-like domain-specific language: Specifications, propositions and proofs are formulated in an Alloy5-like syntax. This reduces tool and language complexity, and makes interactive theorem proving more accessible. The implementation is based on Coq’s syntax extension capabilities and the mathematical components library (mathcomp) [ 4 ]. This paper reports on work in progress. It contributes an approach for the embedding of Alloy into Coq based on a set-theoretic interpretation, a proof calculus for Alloy with soundness by construction, a prototypical implementation and its validation via a simple token ring example.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2024"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "10",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Bergamo",
+              "country": [
+                {
+                  "code": "IT",
+                  "value": "Italy"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "25"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2024",
+              "month": "06",
+              "day": "28"
+            }
+          ],
+          "confEventURL": "https://abz-conf.org/site/2024/"
+        }
+      ],
+      "keyword": [
+        "Alloy",
+        "Interactive Theorem Proving",
+        "Coq"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages",
+        "Computer Systems Organization and Communication Networks",
+        "Computer Applications",
+        "Logic in AI",
+        "Programming Languages, Compilers, Interpreters"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        },
+        {
+          "id": "4767",
+          "term": "Computer Engineering and Networks"
+        },
+        {
+          "id": "3121",
+          "term": "Computer and Information Systems Applications"
+        },
+        {
+          "id": "5093",
+          "term": "Logic in AI"
+        },
+        {
+          "id": "22727",
+          "term": "Compilers and Interpreters"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Applications",
+          "count": "1"
+        },
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Computer Systems Organization and Communication Networks",
+          "count": "1"
+        },
+        {
+          "value": "Logic in AI",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        },
+        {
+          "value": "Programming Languages, Compilers, Interpreters",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Alloy",
+          "count": "1"
+        },
+        {
+          "value": "Coq",
+          "count": "1"
+        },
+        {
+          "value": "Interactive Theorem Proving",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2024",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Germany",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

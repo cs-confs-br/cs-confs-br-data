@@ -1,0 +1,233 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-33163-3_19",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-33163-3_19",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-33163-3_19"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-33163-3_19"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-33163-3_19"
+        }
+      ],
+      "title": "Building Specifications in the Event-B Institution: A Summary",
+      "creators": [
+        {
+          "ORCID": "0000-0001-7708-3877",
+          "creator": "Farrell, Marie"
+        },
+        {
+          "ORCID": "0000-0003-3886-4675",
+          "creator": "Monahan, Rosemary"
+        },
+        {
+          "ORCID": "0000-0002-6770-3910",
+          "creator": "Power, James F."
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Glässer, Uwe"
+        },
+        {
+          "bookEditor": "Creissac Campos, Jose"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Palanque, Philippe"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-33163-3_19",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-33162-6",
+      "electronicIsbn": "978-3-031-33163-3",
+      "isbn": "978-3-031-33162-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2023-05-15",
+      "seriesId": "558",
+      "copyright": "©2023 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "This “journal-first” paper summarises a publication by the same authors in the journal Logical Methods in Computer Science which describes a formal semantics for the Event-B specification language using the theory of institutions. It defines an institution for Event-B and shows how the constructs of the Event-B specification language can be mapped into our institution. This algebraic semantics distinguishes three constituent sub-languages of Event-B: the superstructure, infrastructure and mathematical languages. An important impact of this work is that our semantics provides access to the generic modularisation constructs available in institutions, including specification-building operators for parameterisation and refinement. We demonstrate how these features subsume and enhance the corresponding features already present in Event-B through a detailed study of their use in a worked example. Further benefits of the institutional approach are its provision for mathematically definable interoperability to facilitate heterogeneous specification.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2023"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "9",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Nancy",
+              "country": [
+                {
+                  "code": "FR",
+                  "value": "France"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "30"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "02"
+            }
+          ],
+          "confEventURL": "https://abz2023.loria.fr/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "2",
+            "averageNumberOfReviewsPerPaper": "4",
+            "externalReviewersInvolved": "Yes",
+            "fullPapersAcceptanceRate": "26",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "7",
+            "submissionsSentForReview": "47",
+            "type": "Single-blind"
+          }
+        }
+      ],
+      "keyword": [
+        "Event-B",
+        "Semantics",
+        "Modularisation",
+        "Interoperability"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Event-B",
+          "count": "1"
+        },
+        {
+          "value": "Interoperability",
+          "count": "1"
+        },
+        {
+          "value": "Modularisation",
+          "count": "1"
+        },
+        {
+          "value": "Semantics",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Ireland",
+          "count": "1"
+        },
+        {
+          "value": "United Kingdom",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

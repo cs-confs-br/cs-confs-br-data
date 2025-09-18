@@ -1,0 +1,246 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-33163-3_2",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-33163-3_2",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-33163-3_2"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-33163-3_2"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-33163-3_2"
+        }
+      ],
+      "title": "Using Deep Ontologies in Formal Software Engineering",
+      "creators": [
+        {
+          "ORCID": "0000-0002-6355-1200",
+          "creator": "Brucker, Achim D."
+        },
+        {
+          "ORCID": "0000-0002-6484-8276",
+          "creator": "Ait-Sadoune, Idir"
+        },
+        {
+          "ORCID": "0000-0002-0756-7072",
+          "creator": "Méric, Nicolas"
+        },
+        {
+          "creator": "Wolff, Burkhart"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Glässer, Uwe"
+        },
+        {
+          "bookEditor": "Creissac Campos, Jose"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Palanque, Philippe"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-33163-3_2",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-33162-6",
+      "electronicIsbn": "978-3-031-33163-3",
+      "isbn": "978-3-031-33162-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2023-05-15",
+      "seriesId": "558",
+      "copyright": "©2023 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "Isabelle/DOF is an ontology framework on top of Isabelle. It allows for the formal development of ontologies as well as continuous conformity-checking of integrated documents annotated by ontological data. An integrated document may contain text, code, definitions, proofs, and user-programmed constructs supporting a wide range of formal methods Isabelle/DOF is designed to leverage traceability in integrated documents by supporting navigation in Isabelle’s IDE as well as the document generation process. In this paper, we extend Isabelle/DOF with annotations of $$\\lambda $$ λ -terms, a pervasive data-structure underlying Isabelle used to syntactically represent expressions and formulas. Rather than introducing an own programming language for meta-data, we use Higher-order Logic (HOL) for expressions, data-constraints, ontological invariants , and queries via code-generation and reflection. This allows both for powerful query languages and logical reasoning over ontologies in, for example, ontological mappings. Our application examples cover documents targeting formal certifications such as CENELEC 50128, or Common Criteria.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2023"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "9",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Nancy",
+              "country": [
+                {
+                  "code": "FR",
+                  "value": "France"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "30"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "02"
+            }
+          ],
+          "confEventURL": "https://abz2023.loria.fr/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "2",
+            "averageNumberOfReviewsPerPaper": "4",
+            "externalReviewersInvolved": "Yes",
+            "fullPapersAcceptanceRate": "26",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "7",
+            "submissionsSentForReview": "47",
+            "type": "Single-blind"
+          }
+        }
+      ],
+      "keyword": [
+        "Ontologies",
+        "Formal Documents",
+        "Formal Development",
+        "Isabelle/HOL",
+        "Ontology Mapping",
+        "Certification"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Certification",
+          "count": "1"
+        },
+        {
+          "value": "Formal Development",
+          "count": "1"
+        },
+        {
+          "value": "Formal Documents",
+          "count": "1"
+        },
+        {
+          "value": "Isabelle/HOL",
+          "count": "1"
+        },
+        {
+          "value": "Ontologies",
+          "count": "1"
+        },
+        {
+          "value": "Ontology Mapping",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "France",
+          "count": "1"
+        },
+        {
+          "value": "United Kingdom",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}

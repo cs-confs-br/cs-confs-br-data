@@ -1,0 +1,243 @@
+{
+  "apiMessage": "This JSON was provided by Springer Nature",
+  "query": "doi:10.1007/978-3-031-33163-3_23",
+  "result": [
+    {
+      "total": "1",
+      "start": "1",
+      "pageLength": "10",
+      "recordsDisplayed": "1"
+    }
+  ],
+  "records": [
+    {
+      "contentType": "Chapter ConferencePaper",
+      "identifier": "doi:10.1007/978-3-031-33163-3_23",
+      "language": "en",
+      "url": [
+        {
+          "format": "html",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/fulltext?id=doi:10.1007/978-3-031-33163-3_23"
+        },
+        {
+          "format": "pdf",
+          "platform": "web",
+          "value": "http://link.springer.com/openurl/pdf?id=doi:10.1007/978-3-031-33163-3_23"
+        },
+        {
+          "format": "",
+          "platform": "",
+          "value": "http://dx.doi.org/10.1007/978-3-031-33163-3_23"
+        }
+      ],
+      "title": "Task Model Design and Analysis with Alloy",
+      "creators": [
+        {
+          "ORCID": "0000-0002-2714-8027",
+          "creator": "Cunha, Alcino"
+        },
+        {
+          "ORCID": "0000-0002-4817-948X",
+          "creator": "Macedo, Nuno"
+        },
+        {
+          "ORCID": "0000-0001-7891-6885",
+          "creator": "Kang, Eunsuk"
+        }
+      ],
+      "bookEditors": [
+        {
+          "bookEditor": "Glässer, Uwe"
+        },
+        {
+          "bookEditor": "Creissac Campos, Jose"
+        },
+        {
+          "bookEditor": "Méry, Dominique"
+        },
+        {
+          "bookEditor": "Palanque, Philippe"
+        }
+      ],
+      "publicationName": "Rigorous State-Based Methods",
+      "openaccess": "false",
+      "doi": "10.1007/978-3-031-33163-3_23",
+      "publisher": "Springer",
+      "publisherName": "Springer Nature Switzerland",
+      "publicationDate": "2023-01-01",
+      "publicationType": "Book",
+      "printIsbn": "978-3-031-33162-6",
+      "electronicIsbn": "978-3-031-33163-3",
+      "isbn": "978-3-031-33162-6",
+      "genre": "OriginalPaper Proceedings",
+      "onlineDate": "2023-05-15",
+      "seriesId": "558",
+      "copyright": "©2023 The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG",
+      "abstract": "This paper describes a methodology for task model design and analysis using the Alloy Analyzer, a formal, declarative modeling tool. Our methodology leverages (1) a formalization of the HAMSTERS task modeling notation in Alloy and (2) a method for encoding a concrete task model and compose it with a model of the interactive system. The Analyzer then automatically verifies the overall model against desired properties, revealing counter-examples (if any) in terms of interaction scenarios between the operator and the system. In addition, we demonstrate how Alloy can be used to encode various types of operator errors (e.g., inserting or omitting an action) into the base HAMSTERS model and generate erroneous interaction scenarios. Our methodology is applied to a task model describing the interaction of a traffic air controller with a semi-autonomous Arrival MANager (AMAN) planning tool.",
+      "conferenceInfo": [
+        {
+          "confSeriesName": "International Conference on Rigorous State-Based Methods",
+          "confSeriesID": [
+            {
+              "type": "Springer",
+              "value": "abz"
+            },
+            {
+              "type": "DBLP",
+              "value": "asm"
+            }
+          ],
+          "confEventID": [
+            {
+              "type": "Springer",
+              "value": "abz2023"
+            }
+          ],
+          "confEventAbbreviation": "ABZ",
+          "confNumber": "9",
+          "confEventLocation": [
+            {
+              "locationType": "InPerson",
+              "city": "Nancy",
+              "country": [
+                {
+                  "code": "FR",
+                  "value": "France"
+                }
+              ]
+            }
+          ],
+          "confEventDateStart": [
+            {
+              "year": "2023",
+              "month": "05",
+              "day": "30"
+            }
+          ],
+          "confEventDateEnd": [
+            {
+              "year": "2023",
+              "month": "06",
+              "day": "02"
+            }
+          ],
+          "confEventURL": "https://abz2023.loria.fr/",
+          "confEventPeerReviewInformation": {
+            "averageNumberOfPapersPerReviewer": "2",
+            "averageNumberOfReviewsPerPaper": "4",
+            "externalReviewersInvolved": "Yes",
+            "fullPapersAcceptanceRate": "26",
+            "fullPapersAccepted": "12",
+            "managementSystem": "EasyChair",
+            "shortPapersAccepted": "7",
+            "submissionsSentForReview": "47",
+            "type": "Single-blind"
+          }
+        }
+      ],
+      "keyword": [
+        "Task models",
+        "HAMSTERS",
+        "Interactive system analysis",
+        "Alloy",
+        "Air traffic control",
+        "Arrival manager"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematical Logic and Formal Languages"
+      ],
+      "disciplines": [
+        {
+          "id": "6053",
+          "term": "Formal Languages and Automata Theory"
+        }
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "name": "subject",
+      "values": [
+        {
+          "value": "Computer Science",
+          "count": "1"
+        },
+        {
+          "value": "Mathematical Logic and Formal Languages",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "keyword",
+      "values": [
+        {
+          "value": "Air traffic control",
+          "count": "1"
+        },
+        {
+          "value": "Alloy",
+          "count": "1"
+        },
+        {
+          "value": "Arrival manager",
+          "count": "1"
+        },
+        {
+          "value": "HAMSTERS",
+          "count": "1"
+        },
+        {
+          "value": "Interactive system analysis",
+          "count": "1"
+        },
+        {
+          "value": "Task models",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "pub",
+      "values": [
+        {
+          "value": "Rigorous State-Based Methods",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "year",
+      "values": [
+        {
+          "value": "2023",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "country",
+      "values": [
+        {
+          "value": "Portugal",
+          "count": "1"
+        },
+        {
+          "value": "United States",
+          "count": "1"
+        }
+      ]
+    },
+    {
+      "name": "type",
+      "values": [
+        {
+          "value": "Book",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}
